@@ -1,0 +1,47 @@
+---
+title: "Das IfSG ist geprägt durch Pandemien"
+---
+
+
+
+
+## IfSG und Vorläufergesetze
+* [Reichsseuchengesetz 1900](https://www.reichstagsprotokolle.de/Blatt_k10_bsb00002789_00558.html) 
+* [Bundesseuchengesetz 1961](https://www.bgbl.de/xaver/bgbl/start.xav?start=//*[@attr_id='bgbl161s1012.pdf'])
+* [Infektionsschutzgesetz 2000](https://www.gesetze-im-internet.de/trinkwv_2001/index.html) 
+
+## Einflussreiche Epidemien in Deutschland
+* Tuberkulose, Cholera, Pest = Seuchengesetz insgesamt §16, §28-31
+* HIV = Fokus auf Beratung 
+* Resistente Erreger = §23
+* EHEC = Beschleunigung der Meldung/DEMIS §14
+* SARS-CoV-2 = Bevölkerungsmaßnahmen §28a
+
+## Unterschied HIV/TBC
+* Tuberkulose: Untersuchungspflicht, Meldepflicht, Ermittlung, Kontaktpersonennachverfolgung, "Infektionsgefängnis"
+* HIV: Beratung, anonyme Meldepflicht
+
+## Änderungen im IfSG {data-background=#fff}
+```{r, echo=FALSE, results='asis', warning=FALSE, error=FALSE, message=FALSE}
+pacman::p_load("dplyr", "ggplot2", "lubridate", "readr", "here", "plotly")
+
+df <- read.csv(here("ifsg-aenderungen.csv")) %>% 
+  mutate(Datum = stringr::str_remove(Datum, pattern="\\((.*?)\\)")) %>% 
+  mutate(Datum = stringr::str_trim(Datum)) %>% 
+  mutate(Datum = dmy(Datum)) %>% 
+  mutate(Jahr = year(Datum)) 
+    
+g <- ggplot(df, aes(Jahr, fill = "blue")) + 
+  geom_bar() +
+  theme_classic() +
+  labs(x = NULL, y="Anzahl Änderungen IfSG") +
+  theme(legend.background = element_rect(fill = "transparent"),
+        legend.box.background = element_rect(fill = "transparent"),
+        panel.background = element_rect(fill = "transparent"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        plot.background = element_rect(fill = "transparent", color = NA),
+        legend.position = "none")
+ggplotly(g) %>% config(displayModeBar = F)
+
+```

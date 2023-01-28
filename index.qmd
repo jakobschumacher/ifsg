@@ -1,0 +1,14 @@
+---
+title: "Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD"
+toc: false
+---
+![](logo.png)
+
+Diese Webseite ist ein Präsentation für den ÖGD. Hier werden die Paragraphen aus der Sichtweise von Jakob Schumacher dargestellt.
+
+
+## Die wichtigsten Punkte
+* _Wir dürfen alles nach § 16_
+* _Wir müssen - und dürfen auch - nach § 25 ermitteln_
+* _Zusammenarbeit schlägt Meldepflicht (außer im Schadensfall)_
+* _Wir müssen den Infektionsnotfall üben_

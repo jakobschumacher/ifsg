@@ -1,0 +1,19 @@
+---
+title: "§ 12"
+---
+Der Paragraph 12 ist der Notfall-Paragraph. Er basiert auf den Internationalen Gesundheitsvorschriften
+
+[§ 12](https://www.gesetze-im-internet.de/ifsg/__12.html)
+
+## Ein Beispiel: Feuerwehrleitzentrale ruft an: _"Notarzt vermutet Ebola-Fall"_
+* Telefonisch [§12 Meldung](https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html)
+* [STAKOB](https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html) Einrichtung anrufen
+* Vor Ort gehen: Taxi/Feuerwehr/Polizei
+* Material mitnehmen
+* Information Mitarbeitende/Kommune
+* Vor Ort: Anweisungen geben
+  - Lagebesprechung
+  - Patientenversorung mit PSA
+  - Sperrbereich
+  - KPs festlegen
+  - Desinfektion festlegen

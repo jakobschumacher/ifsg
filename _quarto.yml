@@ -1,0 +1,53 @@
+project:
+  type: website
+
+website:
+  title: "Das IfSG"
+  subtitle: "Unterricht für den ÖGD"
+  logo: logo.png
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Grundlagen"
+        contents:
+          - ifsg_background.qmd
+          - ifsg_ordnungsrecht.qmd
+          - ifsg_praegung.qmd
+          - ifsg_potpurri.qmd
+          - ifsg_infektionsschutz.qmd
+      - section: "Wichtige Paragraphen"
+        contents:
+          - par_12.qmd
+          - par_16.qmd
+          - par_20a.qmd
+          - par_23.qmd
+          - par_28.qmd
+          - par_34.qmd
+      - section: "Die Flughafenübung"
+        contents:
+          - layout.qmd
+          - layout-knitr.qmd
+          - layout-jupyter.qmd    
+      - section: "Das Meldewesen"
+        contents:
+          - layout.qmd
+          - layout-knitr.qmd
+          - layout-jupyter.qmd    
+      - section: "Diskussion"
+        contents:
+          - layout.qmd
+          - layout-knitr.qmd
+          - layout-jupyter.qmd    
+     
+    background: light
+
+
+format:
+  html:
+    theme: Zephyr
+    css: styles.css
+    toc: true
+
+
+
