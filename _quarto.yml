@@ -45,6 +45,8 @@ website:
             file: par_20a.qmd
           - text: § 23
             file: par_23.qmd
+          - text: § 23a
+            file: par_23a.qmd            
           - text: § 28
             file: par_28.qmd
           - text: § 34
@@ -53,8 +55,8 @@ website:
             file: par_35.qmd
           - text: § 36
             file: par_36.qmd
-          - text: § 37
-            file: par_37.qmd
+          - text: § 73
+            file: par_73.qmd
       - section: "Das Meldewesen"
         contents:
           - text: Schaubild

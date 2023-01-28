@@ -1,0 +1,20 @@
+---
+title: "§ 23a Impfstatus"
+---
+
+
+[Hier geht es zum § 23a](https://www.gesetze-im-internet.de/ifsg/__23a.html)
+
+
+::: {.panel-tabset}
+
+## Problem in vermutl. allen Gesundheitsämtern
+
+Im Gesundheitsamt gibt es Personen die Ersthausbesuche machen und nicht gegen Masern geimpft sind. Was keine Amtsleitung dagegen tun?
+
+## Herangehensweise
+* Bei Einstellung ist es leichter darauf zu achten
+* Person an eine Stelle versetzen, bei dem kein Impfschutz notwendig ist
+
+:::
+
