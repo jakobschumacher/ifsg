@@ -1,16 +1,9 @@
 ---
 title: "Das IfSG ist ein Potpurri"
+layout: full
+toc: false
 ---
-
-:::{.column-page}
-![](ifsg-overview.jpg)
+::: {.column-page}
+![](images/ifsg-overview.jpg) 
 :::
 
-## Verordnung auf Grundlage des IfSG
-* TrinkwV
-* Hygieneverordnung
-* Infektionsverhütungsverordnung
-* SARS-CoV-2-Infektionschutmaßnahmenverordnung
-* Meldepflicht-Verordnungen
-* Coronavirus-Verordnungen
-* ...

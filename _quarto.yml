@@ -1,45 +1,83 @@
 project:
   type: website
   output-dir: docs
+toc: false
 
 website:
-  title: "Das IfSG"
+  title: "IfSG & ÖGD"
   subtitle: "Unterricht für den ÖGD"
   logo: logo.png
   sidebar:
     style: "floating"
     search: true
+    collapse-level: 1
+    tools:
+      - icon: github
+        menu:
+          - text: Quellcode
+            url:  https://code.com
+          - text: Verbesserungsvorschlag
+            url:  https://bugs.com
     contents:
       - section: "Grundlagen"
         contents:
-          - ifsg_background.qmd
-          - ifsg_ordnungsrecht.qmd
-          - ifsg_praegung.qmd
-          - ifsg_potpurri.qmd
-          - ifsg_infektionsschutz.qmd
+          - text: Infektionsschutz
+            file: ifsg_infektionsschutz.qmd
+          - text: Ordnungsrecht
+            file: ifsg_ordnungsrecht.qmd
+          - text: Prägung des IfSG
+            file: ifsg_praegung.qmd
+          - text: IfSG als Potpurri
+            file: ifsg_potpurri.qmd
       - section: "Wichtige Paragraphen"
         contents:
-          - par_12.qmd
-          - par_16.qmd
-          - par_20a.qmd
-          - par_23.qmd
-          - par_28.qmd
-          - par_34.qmd
-      - section: "Die Flughafenübung"
-        contents:
-          - layout.qmd
-          - layout-knitr.qmd
-          - layout-jupyter.qmd    
+          - text: § 1
+            file: par_1.qmd
+          - text: § 3
+            file: par_3.qmd
+          - text: § 4
+            file: par_4.qmd
+          - text: § 12
+            file: par_12.qmd
+          - text: § 16
+            file: par_16.qmd
+          - text: § 20a
+            file: par_20a.qmd
+          - text: § 23
+            file: par_23.qmd
+          - text: § 28
+            file: par_28.qmd
+          - text: § 34
+            file: par_34.qmd
+          - text: § 35
+            file: par_35.qmd
+          - text: § 36
+            file: par_36.qmd
+          - text: § 37
+            file: par_37.qmd
       - section: "Das Meldewesen"
         contents:
-          - layout.qmd
-          - layout-knitr.qmd
-          - layout-jupyter.qmd    
+          - text: Schaubild
+            file: meld_schaubild.qmd
+          - text: Grund für IfSG
+            file: meld_wieso.qmd
+          - text: Erstellende
+            file: meld_bestimmer.qmd
+          - text: Aufgaben
+            file: meld_aufgaben.qmd
+          - text: Pflichtige
+            file: meld_pflichtige.qmd    
+          - text: Exkurs Begriffe
+            file: meld_begriffe.qmd    
+      - section: "Die Flughafenübung"
+        contents:
+          - ueb_flughafen.qmd
       - section: "Diskussion"
         contents:
-          - layout.qmd
-          - layout-knitr.qmd
-          - layout-jupyter.qmd    
+          - text: Wieso sind unsere Schreiben so unverständlich?
+            file: disk_unverstaendlich.qmd
+          - disk_praevention.qmd
+          - disk_meldemoral.qmd    
      
     background: light
 

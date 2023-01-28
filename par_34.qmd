@@ -1,12 +1,21 @@
 ---
-title: "§ 34"
+title: "§ 34 Kindereinrichtungen"
+toc: false
 ---
 
+[Hier geht es zum § 34](https://www.gesetze-im-internet.de/ifsg/__34.html)
 
-## [§ 34](https://www.gesetze-im-internet.de/ifsg/__34.html): Shigelloseausbruch
+
+::: {.panel-tabset}
+
+## Beispielproblem
+Shigelloseausbruch
 Einer Hygienekontrolleurin fällt auf, dass sie heute zwei Shigellose-Fälle hat, die nicht aus dem Ausland kommen. Es stellt sich heraus, das es einige Fälle in einer Kita gibt. 
 
-## Was haben wir getan?
+
+## Herangehensweise
+Was haben wir getan?
+
 * Vor Ort ermittelt
 * VetLeb informiert
 * Die Landesstelle gefragt, ob uns jemand unterstützen will
@@ -17,3 +26,7 @@ Einer Hygienekontrolleurin fällt auf, dass sie heute zwei Shigellose-Fälle hat
 * Aushang und Informationsweitergabe durch die Kitaleitung (FAQ durch uns) 
 * <a href="{{ site.url }}{{ site.baseurl }}/assets/2022-01-31-IfSG-WBK/shigellenausbruch.pdf">Anordnung Shigellenausbruch</a>
 * Keine Suche nach Personen mit riskantem Sexualverhalten 
+
+:::
+
+

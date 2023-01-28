@@ -1,124 +1,5 @@
 [
   {
-    "objectID": "par_20a.html",
-    "href": "par_20a.html",
-    "title": "§ 20a",
-    "section": "",
-    "text": "Die Politik hat eine Impfpflicht für Beschäftigte in bestimmten Einrichtungen umgesetzt."
-  },
-  {
-    "objectID": "par_20a.html#wie-könnte-ein-gesundheitsamt-das-lösen",
-    "href": "par_20a.html#wie-könnte-ein-gesundheitsamt-das-lösen",
-    "title": "§ 20a",
-    "section": "Wie könnte ein Gesundheitsamt das lösen?",
-    "text": "Wie könnte ein Gesundheitsamt das lösen?\n\nMit Landesverwaltung klären, wer zuständig ist\nEingehende Meldungen organisieren (SurvNet-Import)\nFAQ erstellen\nAnhörung/Tätigkeitsverbot vorbereiten\nRechtsamt einbinden\nMit Einrichtungen kommunizieren, z.B. Webseite\nKontrollpunkte einrichten\nStatistik mitbedenken"
-  },
-  {
-    "objectID": "ifsg_potpurri.html#verordnung-auf-grundlage-des-ifsg",
-    "href": "ifsg_potpurri.html#verordnung-auf-grundlage-des-ifsg",
-    "title": "Das IfSG ist ein Potpurri",
-    "section": "Verordnung auf Grundlage des IfSG",
-    "text": "Verordnung auf Grundlage des IfSG\n\nTrinkwV\nHygieneverordnung\nInfektionsverhütungsverordnung\nSARS-CoV-2-Infektionschutmaßnahmenverordnung\nMeldepflicht-Verordnungen\nCoronavirus-Verordnungen\n…"
-  },
-  {
-    "objectID": "ifsg_ordnungsrecht.html",
-    "href": "ifsg_ordnungsrecht.html",
-    "title": "Das IfSG ist Teil des Ordnungsrechtes",
-    "section": "",
-    "text": "Das Infektionsschutzgesetz gehört zum Ordnungsrecht."
-  },
-  {
-    "objectID": "ifsg_ordnungsrecht.html#linienrichter",
-    "href": "ifsg_ordnungsrecht.html#linienrichter",
-    "title": "Das IfSG ist Teil des Ordnungsrechtes",
-    "section": "Linienrichter",
-    "text": "Linienrichter\nDas Ordnungsrecht kann man verstehen wie ein die Arbeit eines Linienrichters im Fußball \n\nAufgaben\n\nAbseitserkennung, Ball-Aus-Erkennung\n\nEigene Regeln\n\nDarf das Spielfeld nicht betreten, Unabhängigkeitsgrundsatz\n\nMaßnahmen\n\nFahne heben und Tor für ungültig erklären\n\nBestrafungen\n\nGelbe Karte, Rote Karte"
-  },
-  {
-    "objectID": "ifsg.html",
-    "href": "ifsg.html",
-    "title": "Das IfSG",
-    "section": "",
-    "text": "Ein Gesundheitsamt bekommt eine E.Coli-Meldung. In welchen Kombinationen Meldepflichtige Person - Meldepflichtiges Ereignis ist das möglich?"
-  },
-  {
-    "objectID": "ifsg.html#lösungsvorschlag",
-    "href": "ifsg.html#lösungsvorschlag",
-    "title": "Das IfSG",
-    "section": "Lösungsvorschlag",
-    "text": "Lösungsvorschlag\n\nArzt/Pathologe/Heilberuf/Unterkünfte/Heilprakriker -> 6.1.1.f (HUS)\nArzt/Pathologe/Heilberuf/Unterkünfte -> 6.1.2 (Gastroenteritis)\nArzt/Pathologe/Heilberuf -> 6.3 (Nosokomialer Ausbruch)\nLabor/Pathologe -> 7.1.13 (E.Coli)\nLabor/Pathologe -> 7.1.52 (MRGN)\nZusätzlich Kindereinrichtung -> 34.1.3\nZusätzlich USI -> 16 Trinkwv"
-  },
-  {
-    "objectID": "ifsg.html#übung-nicht-namentliche-ereignisse",
-    "href": "ifsg.html#übung-nicht-namentliche-ereignisse",
-    "title": "Das IfSG",
-    "section": "§§ 6/7/8-Übung: Nicht-namentliche Ereignisse",
-    "text": "§§ 6/7/8-Übung: Nicht-namentliche Ereignisse\nWelche nicht-namentliche meldepflichtigen Ereignisse können vorkommen und an wen müssen sie gemeldet werden?"
-  },
-  {
-    "objectID": "ifsg.html#lösungsvorschlag-1",
-    "href": "ifsg.html#lösungsvorschlag-1",
-    "title": "Das IfSG",
-    "section": "Lösungsvorschlag",
-    "text": "Lösungsvorschlag\n\n§6.3 (Nosokomialer Ausbruch) durch Arzt/Pathologe/Heilberuf an das Gesundheitsamt\n§7.3 (HIV/Trepanoma/Gonokokken/Echinokokken/Malaria/Toxoplasmose/) an das RKI"
-  },
-  {
-    "objectID": "ifsg.html#übung-krankenhaus",
-    "href": "ifsg.html#übung-krankenhaus",
-    "title": "Das IfSG",
-    "section": "§§ 6/7/8-Übung: Krankenhaus",
-    "text": "§§ 6/7/8-Übung: Krankenhaus\nWelche typischen Meldeereignisse kommen eigentlich immer aus einem Krankenhaus?"
-  },
-  {
-    "objectID": "ifsg.html#lösungsvorschlag-2",
-    "href": "ifsg.html#lösungsvorschlag-2",
-    "title": "Das IfSG",
-    "section": "Lösungsvorschlag",
-    "text": "Lösungsvorschlag\n\n§ 6.1.1a.b Clostridioides\n§ 6.3 Nosokomialer Ausbruch\n§ 7.1.52 MRSA/MRGN\n§ 7.2 Unbekannter Erreger"
-  },
-  {
-    "objectID": "ifsg.html#a-impfstatus",
-    "href": "ifsg.html#a-impfstatus",
-    "title": "Das IfSG",
-    "section": "§ 23a Impfstatus",
-    "text": "§ 23a Impfstatus\nIm Gesundheitsamt gibt es Personen die Ersthausbesuche machen und nicht gegen Masern geimpft sind. Was keine Amtsleitung dagegen tun?"
-  },
-  {
-    "objectID": "ifsg.html#vorgehen-in-unserem-gesundheitsamt",
-    "href": "ifsg.html#vorgehen-in-unserem-gesundheitsamt",
-    "title": "Das IfSG",
-    "section": "Vorgehen in unserem Gesundheitsamt",
-    "text": "Vorgehen in unserem Gesundheitsamt\n\nAbfrage nach §23a geplant\nKonsequenz unklar"
-  },
-  {
-    "objectID": "ifsg.html#gastro-personal",
-    "href": "ifsg.html#gastro-personal",
-    "title": "Das IfSG",
-    "section": "§ 42 Gastro-Personal",
-    "text": "§ 42 Gastro-Personal"
-  },
-  {
-    "objectID": "ifsg.html#labore",
-    "href": "ifsg.html#labore",
-    "title": "Das IfSG",
-    "section": "§ 44 Labore",
-    "text": "§ 44 Labore"
-  },
-  {
-    "objectID": "ifsg.html#entschädigung",
-    "href": "ifsg.html#entschädigung",
-    "title": "Das IfSG",
-    "section": "§ 56 Entschädigung",
-    "text": "§ 56 Entschädigung"
-  },
-  {
-    "objectID": "ifsg.html#ordnungswidrigkeiten",
-    "href": "ifsg.html#ordnungswidrigkeiten",
-    "title": "Das IfSG",
-    "section": "§ 73 Ordnungswidrigkeiten",
-    "text": "§ 73 Ordnungswidrigkeiten"
-  },
-  {
     "objectID": "ifsg_praegung.html",
     "href": "ifsg_praegung.html",
     "title": "Das IfSG ist geprägt durch Pandemien",
@@ -145,83 +26,6 @@
     "title": "Das IfSG ist geprägt durch Pandemien",
     "section": "Änderungen im IfSG",
     "text": "Änderungen im IfSG"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD",
-    "section": "",
-    "text": "Diese Webseite ist ein Präsentation für den ÖGD. Hier werden die Paragraphen aus der Sichtweise von Jakob Schumacher dargestellt."
-  },
-  {
-    "objectID": "index.html#die-wichtigsten-punkte",
-    "href": "index.html#die-wichtigsten-punkte",
-    "title": "Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD",
-    "section": "Die wichtigsten Punkte",
-    "text": "Die wichtigsten Punkte\n\nWir dürfen alles nach § 16\nWir müssen - und dürfen auch - nach § 25 ermitteln\nZusammenarbeit schlägt Meldepflicht (außer im Schadensfall)\nWir müssen den Infektionsnotfall üben"
-  },
-  {
-    "objectID": "par_34.html",
-    "href": "par_34.html",
-    "title": "§ 34",
-    "section": "",
-    "text": "Einer Hygienekontrolleurin fällt auf, dass sie heute zwei Shigellose-Fälle hat, die nicht aus dem Ausland kommen. Es stellt sich heraus, das es einige Fälle in einer Kita gibt."
-  },
-  {
-    "objectID": "par_34.html#was-haben-wir-getan",
-    "href": "par_34.html#was-haben-wir-getan",
-    "title": "§ 34",
-    "section": "Was haben wir getan?",
-    "text": "Was haben wir getan?\n\nVor Ort ermittelt\nVetLeb informiert\nDie Landesstelle gefragt, ob uns jemand unterstützen will\nAndere Kitas des Caterers Stuhlproben\nKontaktdaten, Linelist\nAusbruchsfalldefinition festgelegt\nTVs nach Wiederzulassungstabelle §34 angesetzt\nAushang und Informationsweitergabe durch die Kitaleitung (FAQ durch uns)\nAnordnung Shigellenausbruch\nKeine Suche nach Personen mit riskantem Sexualverhalten"
-  },
-  {
-    "objectID": "par_23.html",
-    "href": "par_23.html",
-    "title": "§ 23",
-    "section": "",
-    "text": "Ein Krankenhaus hat nicht genügend Hygienepersonal."
-  },
-  {
-    "objectID": "par_23.html#wie-kann-vorgegangen-werden",
-    "href": "par_23.html#wie-kann-vorgegangen-werden",
-    "title": "§ 23",
-    "section": "Wie kann vorgegangen werden",
-    "text": "Wie kann vorgegangen werden\n\nAnsprechen bei der Begehung\nAnordnung der Erfassung des nach KRINKO notwendigen Personals\nEinfacher durchzusetzen wäre die Hygieneverordnung"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "1 + 1\n\n[1] 2"
-  },
-  {
-    "objectID": "par_28.html",
-    "href": "par_28.html",
-    "title": "§ 28",
-    "section": "",
-    "text": "Eine Labor meldet eine Person mit Covid-19. Im selben Haushalt befindet sich noch ein weiterer asymptomatischer Fall, eine symptomatische Person ohne Labornachweis und eine Kontaktperson."
-  },
-  {
-    "objectID": "par_28.html#hinweise",
-    "href": "par_28.html#hinweise",
-    "title": "§ 28",
-    "section": "Hinweise",
-    "text": "Hinweise\n\nTelefonische Ermittlung\nAbsonderung § 28\nEmpfehlungen des RKIs folgen"
-  },
-  {
-    "objectID": "par_16.html",
-    "href": "par_16.html",
-    "title": "§ 16",
-    "section": "",
-    "text": "Bei einer Praxisbegehung: Der Arzt verwendet rostiges Werkzeug, hat falsches abgelaufenes Händedesinfektionsmittel, geflickte Desinfektionsanlage. Als der Arzt merkt, dass es kritisch wird, beruft er sich aufs Hausrecht und den Datenschutz und will alles schriftlich."
-  },
-  {
-    "objectID": "par_16.html#was-ist-in-der-realität-passiert",
-    "href": "par_16.html#was-ist-in-der-realität-passiert",
-    "title": "§ 16",
-    "section": "Was ist in der Realität passiert?",
-    "text": "Was ist in der Realität passiert?\n\nMündlich ausgesprochen: Ich schließe jetzt ihre Praxis gemäß § 16 IfSG.\nKriterien für die Aufhebung der Schließung darstellen. CAVE: Einhaltung von Richtlinien als Ziel\nAuf Begehung und Unterlagen bestanden. Zur Not Polzei rufen.\nAusführliches Protokoll erstellt, Photos mit Diensthandy gemacht\nAnordnung § 16 erstellt\nRücksprache mit Rechtsamt"
   },
   {
     "objectID": "2022-01-31-IfSG-WBK.html",
@@ -791,6 +595,34 @@
     "text": "Subjektive Zusammenfassung der Tätigkeit im Gesundheitsamt"
   },
   {
+    "objectID": "ueb_flughafen.html",
+    "href": "ueb_flughafen.html",
+    "title": "Die Flughafenübung",
+    "section": "",
+    "text": "Kennst du das IfSG?\n\n\n\nHier geht es zur Flughafenübung"
+  },
+  {
+    "objectID": "meld_begriffe.html",
+    "href": "meld_begriffe.html",
+    "title": "Meldebegriffe",
+    "section": "",
+    "text": "Meldung: vom Meldepflichtigen an das Gesundheitsamt\nBenachrichtigung: Von Gemeinschaftseinrichtungen an das Gesundheitsamt\nÜbermittlung: vom Gesundheitsamt an die Landesstelle\nUnterrichtung: vom Gesundheitsamt an ein anderes Amt"
+  },
+  {
+    "objectID": "meld_bestimmer.html",
+    "href": "meld_bestimmer.html",
+    "title": "Bestimmende und Kosten",
+    "section": "",
+    "text": "Die fachliche Vorbereitung erfolgt am Robert Koch-Institut\nDas Infektionsschutzgesetz wird formuliert im Bundesministerium\nViele Einrichtungen dürfen ihre Meinung abgeben z.B. BVÖGD\nDie Landesministerien entscheiden mit"
+  },
+  {
+    "objectID": "meld_bestimmer.html#wer-bezahlt-das-meldewesen",
+    "href": "meld_bestimmer.html#wer-bezahlt-das-meldewesen",
+    "title": "Bestimmende und Kosten",
+    "section": "Wer bezahlt das Meldewesen?",
+    "text": "Wer bezahlt das Meldewesen?\n\nÜblicherweise durch Einkünfte der Kommunen/Bundesland\nKosten entstehen hauptsächlich durch das beteiligte Personal\nMeine Schätzung für die Gesamtkosten: 500.000 Fälle mal 80 Euro = 40 Mio. Euro"
+  },
+  {
     "objectID": "par_12.html",
     "href": "par_12.html",
     "title": "§ 12",
@@ -803,5 +635,96 @@
     "title": "§ 12",
     "section": "Ein Beispiel: Feuerwehrleitzentrale ruft an: “Notarzt vermutet Ebola-Fall”",
     "text": "Ein Beispiel: Feuerwehrleitzentrale ruft an: “Notarzt vermutet Ebola-Fall”\n\nTelefonisch §12 Meldung\nSTAKOB Einrichtung anrufen\nVor Ort gehen: Taxi/Feuerwehr/Polizei\nMaterial mitnehmen\nInformation Mitarbeitende/Kommune\nVor Ort: Anweisungen geben\n\nLagebesprechung\nPatientenversorung mit PSA\nSperrbereich\nKPs festlegen\nDesinfektion festlegen"
+  },
+  {
+    "objectID": "meld_wieso.html#ziele",
+    "href": "meld_wieso.html#ziele",
+    "title": "Wieso gibt es das Meldewesen?",
+    "section": "Ziele",
+    "text": "Ziele\n\nFälle erkennen\nAusbreitung verhindern\nTrends erkennen\nForschung"
+  },
+  {
+    "objectID": "meld_aufgaben.html",
+    "href": "meld_aufgaben.html",
+    "title": "Aufgaben Ämter",
+    "section": "",
+    "text": "Empfängt Meldungen\nFührt Maßnahmen durch\nDefiniert einen Fall\nAusbruchs-Erkennung\nSeuchenalarm-Erkennung (§12)\nPubliziert Daten (Je nach Gesundheitsamt)\nBeaufsichtigt meldende Personen\nÜbermittelt reduzierte Daten innerhalb 24h ans RKI"
+  },
+  {
+    "objectID": "meld_aufgaben.html#was-macht-die-landesstelle-im-meldewesen",
+    "href": "meld_aufgaben.html#was-macht-die-landesstelle-im-meldewesen",
+    "title": "Aufgaben Ämter",
+    "section": "Was macht die Landesstelle im Meldewesen?",
+    "text": "Was macht die Landesstelle im Meldewesen?\n\nEmpfängt Übermittlung\nAusbruchserkennung (Je nach Landesstelle)\nDatenvalidierung (Je nach Landesstelle)\nPubliziert Daten (Je nach Landesstelle)\nInformation der Landesministerien für Gesundheit\nÜbermittelt innerhalb 24h ans RKI"
+  },
+  {
+    "objectID": "meld_aufgaben.html#was-macht-das-rki-im-meldewesen",
+    "href": "meld_aufgaben.html#was-macht-das-rki-im-meldewesen",
+    "title": "Aufgaben Ämter",
+    "section": "Was macht das RKI im Meldewesen",
+    "text": "Was macht das RKI im Meldewesen\n\nEmpfängt Übermittlung\nAusbruchserkennung (Algorithmen)\nFalldefinitionen\nRegelt das Meldewesen (über Ministerium für Gesundheit und IfSG)\nInformiert das Bundesministerium für Gesundheit\nÜbermittelt weiter an ECDC/WHO (Atlas of infectious diseases)\nVeröffentlicht Daten (Jahrbuch, SurvStat)\nFührt Wissenschaftliche Studien durch (Publikationen)"
+  },
+  {
+    "objectID": "index.html#ziel",
+    "href": "index.html#ziel",
+    "title": "Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD",
+    "section": "Ziel",
+    "text": "Ziel\nDiese Webseite ist ein Mini-Lehrbuch für den ÖGD. Es beinhaltet Hintergrundinformationen zum Infektionsschutzgesetz und zum Meldewesen."
+  },
+  {
+    "objectID": "index.html#die-wichtigsten-punkte",
+    "href": "index.html#die-wichtigsten-punkte",
+    "title": "Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD",
+    "section": "Die wichtigsten Punkte",
+    "text": "Die wichtigsten Punkte\n\nAufgabe: Infektionskrankheiten verhindern\nDas Meldewesen existiert damit wir Maßnahmen ergreifen\nWir dürfen alles nach § 16\nWir müssen - und dürfen auch - nach § 25 ermitteln\nZusammenarbeit schlägt Meldepflicht (außer im Schadensfall)\nWir müssen den Infektionsnotfall üben"
+  },
+  {
+    "objectID": "index.html#limitationen",
+    "href": "index.html#limitationen",
+    "title": "Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD",
+    "section": "Limitationen",
+    "text": "Limitationen\nHier werden Sichtweisen von Jakob Schumacher dargestellt. Es gibt keinen Anspruch auf Vollständigkeit oder Richtigkeit. Das IfSG verändert sich schnell und die Webseite kann also leicht veralten. Also: Benutzung auf eigene Gefahr."
+  },
+  {
+    "objectID": "index.html#lizenz",
+    "href": "index.html#lizenz",
+    "title": "Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD",
+    "section": "Lizenz",
+    "text": "Lizenz\nMIT-Lizenz"
+  },
+  {
+    "objectID": "index.html#danksagungen",
+    "href": "index.html#danksagungen",
+    "title": "Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD",
+    "section": "Danksagungen",
+    "text": "Danksagungen\n\nMeinen Ausbidlungsprogrammen PAE und WBK\nPosit (für die Software RStudio und Quarto)\nGithub (für das Hosting)\nFreelogo online (für das Logo)\nWikipedia (für die Bilder)"
+  },
+  {
+    "objectID": "par_1.html",
+    "href": "par_1.html",
+    "title": "§ 1",
+    "section": "",
+    "text": "Die hierfür notwendige Mitwirkung und Zusammenarbeit […] soll entsprechend dem jeweiligen Stand der medizinischen und epidemiologischen Wissenschaft und Technik gestaltet und unterstützt werden.\nDie Eigenverantwortung der Träger und Leiter von Gemeinschaftseinrichtungen, Lebensmittelbetrieben, Gesundheitseinrichtungen sowie des Einzelnen […] soll verdeutlicht und gefördert werden."
+  },
+  {
+    "objectID": "par_16.html",
+    "href": "par_16.html",
+    "title": "§ 16",
+    "section": "",
+    "text": "BeispielproblemHerangehensweise\n\n\nBei einer Praxisbegehung: Der Arzt verwendet rostiges Werkzeug, hat falsches abgelaufenes Händedesinfektionsmittel, geflickte Desinfektionsanlage. Als der Arzt merkt, dass es kritisch wird, beruft er sich aufs Hausrecht und den Datenschutz und will alles schriftlich.\n\n\n\nMündlich ausgesprochen: Ich schließe jetzt ihre Praxis gemäß § 16 IfSG.\nKriterien für die Aufhebung der Schließung darstellen. CAVE: Einhaltung von Richtlinien als Ziel\nAuf Begehung und Unterlagen bestanden. Zur Not Polzei rufen.\nAusführliches Protokoll erstellt, Photos mit Diensthandy gemacht\nAnordnung § 16 erstellt\nRücksprache mit Rechtsamt"
+  },
+  {
+    "objectID": "par_4.html",
+    "href": "par_4.html",
+    "title": "§ 4 Das Robert Koch-Institut",
+    "section": "",
+    "text": "Das Robert Koch-Institut ist die nationale Behörde zur Vorbeugung übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von Infektionen.\nBeim Robert Koch-Institut wird eine Kontaktstelle für den öffentlichen Gesundheitsdienst der Länder eingerichtet […]\nDas Robert Koch-Institut erstellt im Benehmen mit den jeweils zuständigen Bundesbehörden für Fachkreise als Maßnahme des vorbeugenden Gesundheitsschutzes Richtlinien, Empfehlungen, Merkblätter und sonstige Informationen zur Vorbeugung, Erkennung und Verhinderung der Weiterverbreitung übertragbarer Krankheiten"
+  },
+  {
+    "objectID": "par_3.html",
+    "href": "par_3.html",
+    "title": "§ 3 Prävention durch Aufklärung",
+    "section": "",
+    "text": "Die Information und Aufklärung der Allgemeinheit über die Gefahren übertragbarer Krankheiten und die Möglichkeiten zu deren Verhütung sind eine öffentliche Aufgabe."
   }
 ]

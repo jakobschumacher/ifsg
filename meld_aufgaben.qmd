@@ -1,0 +1,32 @@
+---
+title: "Aufgaben Ämter"
+toc: false
+---
+
+## Was macht das Gesundheitsamt im Meldewesen?
+* Empfängt Meldungen
+* Führt Maßnahmen durch
+* Definiert einen Fall
+* Ausbruchs-Erkennung
+* Seuchenalarm-Erkennung (§12)
+* Publiziert Daten (Je nach Gesundheitsamt)
+* Beaufsichtigt meldende Personen
+* Übermittelt reduzierte Daten innerhalb 24h ans RKI
+
+## Was macht die Landesstelle im Meldewesen?
+* Empfängt Übermittlung
+* Ausbruchserkennung (Je nach Landesstelle)
+* Datenvalidierung (Je nach Landesstelle)
+* Publiziert Daten (Je nach Landesstelle)
+* Information der Landesministerien für Gesundheit
+* Übermittelt innerhalb 24h ans RKI
+
+## Was macht das [RKI](www.rki.de) im Meldewesen
+* Empfängt Übermittlung
+* Ausbruchserkennung (Algorithmen)
+* Falldefinitionen
+* Regelt das Meldewesen (über Ministerium für Gesundheit und IfSG)
+* Informiert das Bundesministerium für Gesundheit
+* Übermittelt weiter an ECDC/WHO (Atlas of infectious diseases)
+* Veröffentlicht Daten (Jahrbuch, SurvStat)
+* Führt Wissenschaftliche Studien durch (Publikationen)

@@ -1,0 +1,11 @@
+---
+title: "Meldebegriffe"
+toc: false
+---
+
+# Exkurs 
+
+* __Meldung__: vom Meldepflichtigen an das Gesundheitsamt
+* __Benachrichtigung__: Von Gemeinschaftseinrichtungen an das Gesundheitsamt
+* __Übermittlung__: vom Gesundheitsamt an die Landesstelle
+* __Unterrichtung__: vom Gesundheitsamt an ein anderes Amt

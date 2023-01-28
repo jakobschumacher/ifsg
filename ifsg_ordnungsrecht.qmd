@@ -28,7 +28,7 @@ Das Infektionsschutzgesetz gehört zum Ordnungsrecht.
 
 ## Linienrichter
 Das Ordnungsrecht kann man verstehen wie ein die Arbeit eines Linienrichters im Fußball
-![](schiedsrichter.jpg)
+![](images/schiedsrichter.jpg)
 
 * Aufgaben
   * Abseitserkennung, Ball-Aus-Erkennung

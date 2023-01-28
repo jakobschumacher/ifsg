@@ -1,0 +1,11 @@
+---
+title: "Die Flughafenübung"
+toc: false
+---
+![](images/flughafen.jpg)
+
+::: {.callout-tip}
+## Kennst du das IfSG?
+
+[Hier geht es zur Flughafenübung](https://jakobschumacher.github.io/presentations/2023/01/28/flughafen%C3%BCbung.html#1)
+:::

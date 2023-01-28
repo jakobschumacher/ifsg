@@ -1,11 +1,9 @@
 ---
 title: "Das IfSG ist geprägt durch Pandemien"
+toc: false
 ---
 
-
-
-
-## IfSG und Vorläufergesetze
+## Das IfSG (bzw. seine Vorläufergesetze) sind alt
 * [Reichsseuchengesetz 1900](https://www.reichstagsprotokolle.de/Blatt_k10_bsb00002789_00558.html) 
 * [Bundesseuchengesetz 1961](https://www.bgbl.de/xaver/bgbl/start.xav?start=//*[@attr_id='bgbl161s1012.pdf'])
 * [Infektionsschutzgesetz 2000](https://www.gesetze-im-internet.de/trinkwv_2001/index.html) 
@@ -25,7 +23,7 @@ title: "Das IfSG ist geprägt durch Pandemien"
 ```{r, echo=FALSE, results='asis', warning=FALSE, error=FALSE, message=FALSE}
 pacman::p_load("dplyr", "ggplot2", "lubridate", "readr", "here", "plotly")
 
-df <- read.csv(here("ifsg-aenderungen.csv")) %>% 
+df <- read.csv(here("data/ifsg-aenderungen.csv")) %>% 
   mutate(Datum = stringr::str_remove(Datum, pattern="\\((.*?)\\)")) %>% 
   mutate(Datum = stringr::str_trim(Datum)) %>% 
   mutate(Datum = dmy(Datum)) %>% 

@@ -2,13 +2,29 @@
 title: "Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD"
 toc: false
 ---
-![](logo.png)
+![](images/logo.png)
 
-Diese Webseite ist ein Präsentation für den ÖGD. Hier werden die Paragraphen aus der Sichtweise von Jakob Schumacher dargestellt.
+##  Ziel
+Diese Webseite ist ein Mini-Lehrbuch für den ÖGD. Es beinhaltet Hintergrundinformationen zum Infektionsschutzgesetz und zum Meldewesen.
 
 
 ## Die wichtigsten Punkte
-* _Wir dürfen alles nach § 16_
-* _Wir müssen - und dürfen auch - nach § 25 ermitteln_
-* _Zusammenarbeit schlägt Meldepflicht (außer im Schadensfall)_
-* _Wir müssen den Infektionsnotfall üben_
+* Aufgabe: Infektionskrankheiten verhindern
+* Das Meldewesen existiert damit wir Maßnahmen ergreifen
+* Wir dürfen alles nach § 16
+* Wir müssen - und dürfen auch - nach § 25 ermitteln
+* Zusammenarbeit schlägt Meldepflicht (außer im Schadensfall)
+* Wir müssen den Infektionsnotfall üben
+
+## Limitationen
+Hier werden Sichtweisen von Jakob Schumacher dargestellt. Es gibt keinen Anspruch auf Vollständigkeit oder Richtigkeit. Das IfSG verändert sich schnell und die Webseite kann also leicht veralten. Also: Benutzung auf eigene Gefahr.
+
+## Lizenz
+MIT-Lizenz 
+
+## Danksagungen
+* Meinen Ausbidlungsprogrammen PAE und WBK
+* Posit (für die Software RStudio und Quarto)
+* Github (für das Hosting)
+* Freelogo online (für das Logo)
+* Wikipedia (für die Bilder)
