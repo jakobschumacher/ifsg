@@ -777,20 +777,6 @@
     "text": "Wieso akzeptieren wir die schlechte Meldemoral der Ärzt*innen?"
   },
   {
-    "objectID": "par_12.html",
-    "href": "par_12.html",
-    "title": "§ 12",
-    "section": "",
-    "text": "Der Paragraph 12 ist der Notfall-Paragraph. Er basiert auf den Internationalen Gesundheitsvorschriften\n§ 12"
-  },
-  {
-    "objectID": "par_12.html#ein-beispiel-feuerwehrleitzentrale-ruft-an-notarzt-vermutet-ebola-fall",
-    "href": "par_12.html#ein-beispiel-feuerwehrleitzentrale-ruft-an-notarzt-vermutet-ebola-fall",
-    "title": "§ 12",
-    "section": "Ein Beispiel: Feuerwehrleitzentrale ruft an: “Notarzt vermutet Ebola-Fall”",
-    "text": "Ein Beispiel: Feuerwehrleitzentrale ruft an: “Notarzt vermutet Ebola-Fall”\n\nTelefonisch §12 Meldung\nSTAKOB Einrichtung anrufen\nVor Ort gehen: Taxi/Feuerwehr/Polizei\nMaterial mitnehmen\nInformation Mitarbeitende/Kommune\nVor Ort: Anweisungen geben\n\nLagebesprechung\nPatientenversorung mit PSA\nSperrbereich\nKPs festlegen\nDesinfektion festlegen"
-  },
-  {
     "objectID": "ifsg_infektionsschutz.html",
     "href": "ifsg_infektionsschutz.html",
     "title": "Das IfSG ist zentral für den Infektionsschutz",
@@ -803,5 +789,19 @@
     "title": "Das IfSG ist zentral für den Infektionsschutz",
     "section": "Subjektive Zusammenfassung der Tätigkeit im Gesundheitsamt",
     "text": "Subjektive Zusammenfassung der Tätigkeit im Gesundheitsamt"
+  },
+  {
+    "objectID": "par_12.html",
+    "href": "par_12.html",
+    "title": "§ 12",
+    "section": "",
+    "text": "Der Paragraph 12 ist der Notfall-Paragraph. Er basiert auf den Internationalen Gesundheitsvorschriften\n§ 12"
+  },
+  {
+    "objectID": "par_12.html#ein-beispiel-feuerwehrleitzentrale-ruft-an-notarzt-vermutet-ebola-fall",
+    "href": "par_12.html#ein-beispiel-feuerwehrleitzentrale-ruft-an-notarzt-vermutet-ebola-fall",
+    "title": "§ 12",
+    "section": "Ein Beispiel: Feuerwehrleitzentrale ruft an: “Notarzt vermutet Ebola-Fall”",
+    "text": "Ein Beispiel: Feuerwehrleitzentrale ruft an: “Notarzt vermutet Ebola-Fall”\n\nTelefonisch §12 Meldung\nSTAKOB Einrichtung anrufen\nVor Ort gehen: Taxi/Feuerwehr/Polizei\nMaterial mitnehmen\nInformation Mitarbeitende/Kommune\nVor Ort: Anweisungen geben\n\nLagebesprechung\nPatientenversorung mit PSA\nSperrbereich\nKPs festlegen\nDesinfektion festlegen"
   }
 ]
