@@ -5,19 +5,20 @@ project:
 
 website:
   title: "IfSG & ÖGD"
-  # subtitle: "Unterricht für den ÖGD"
-  # logo: images/logo.png
   sidebar:
     style: "floating"
+    subtitle: "Unterricht für den ÖGD"
+    # logo: images/logo.png
+    background: light
     search: true
     collapse-level: 1
     tools:
       - icon: github
         menu:
           - text: Quellcode
-            url:  https://code.com
+            url:  https://github.com/jakobschumacher/ifsg
           - text: Verbesserungsvorschlag
-            url:  https://bugs.com
+            url:  https://github.com/jakobschumacher/ifsg/issues
     contents:
       - section: "Grundlagen"
         contents:
@@ -83,11 +84,15 @@ website:
           - text: Wieso sind unsere Schreiben so unverständlich?
             file: disk_unverstaendlich.qmd
           - disk_praevention.qmd
-          - disk_meldemoral.qmd    
+          - disk_meldemoral.qmd   
+  page-footer:
     background: light
+    center: 
+      - text: "Impressum"
+        href: about.qmd          
 
 format:
   html:
     theme: Zephyr
-    css: styles.css
-    toc: true
+    toc: false
+    

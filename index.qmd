@@ -2,10 +2,13 @@
 title: "Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD"
 toc: false
 ---
-![](images/logo.png)
+::: {layout="[1,2]"}
+![](images/logo.png){fig-align="left"}
 
 ##  Ziel
 Diese Webseite ist ein Mini-Lehrbuch für den ÖGD. Es beinhaltet Hintergrundinformationen zum Infektionsschutzgesetz und zum Meldewesen.
+
+:::
 
 ::: {.callout-tip}
 ## Die wichtigsten Punkte
