@@ -1,13 +1,25 @@
 ---
-title: "§ 23"
+title: "§ 23 Hygieneparagraph"
 ---
 
+[Hier geht es zum § 23](https://www.gesetze-im-internet.de/ifsg/__23.html)
+
+::: {.callout-tip}
+## Gesetzesauszug
+Die Leiter folgender Einrichtungen haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft erforderlichen Maßnahmen getroffen werden, um nosokomiale Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern [...] zu vermeiden: 
+:::
+
+* Hiermit kommen die KRINKO-Empfehlungen in die Welt
+* Der __Stand der medizinischen Wissenschaft__ ist ziemlich tiefgreifend und geht z.B. über den Stand von __Technik__ hinaus.
+* Der Artikel hilft (bedingt) bei einer Begehung als Verpflichtung
 
 
-## [§ 23](https://www.gesetze-im-internet.de/ifsg/__23.html)-Beispiel: Hygienepersonal im Krankenhaus
+::: {.panel-tabset}
+## Beispielproblem
 Ein Krankenhaus hat nicht genügend Hygienepersonal.
 
-## Wie kann vorgegangen werden
+## Herangehensweise
 * Ansprechen bei der Begehung
 * Anordnung der Erfassung des nach [KRINKO](https://www.rki.de/DE/Content/Infekt/Krankenhaushygiene/Kommission/kommission_node.html/) notwendigen Personals
 * Einfacher durchzusetzen wäre die [Hygieneverordnung](https://www.aekb.de/fileadmin/migration/pdf/Anlage_1_Hygieneverordnung_Berlin_12_06_2012.pdf) 
+:::

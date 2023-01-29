@@ -2,8 +2,13 @@
 title: "§ 23a Impfstatus"
 ---
 
-
 [Hier geht es zum § 23a](https://www.gesetze-im-internet.de/ifsg/__23a.html)
+
+
+::: {.callout-tip}
+## Gesetzesauszug
+
+:::
 
 
 ::: {.panel-tabset}

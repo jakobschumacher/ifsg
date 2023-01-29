@@ -1,9 +1,23 @@
 ---
-title: "§ 12"
+title: "§ 12 Der Notfallparagraph"
 ---
-Der Paragraph 12 ist der Notfall-Paragraph. Er basiert auf den Internationalen Gesundheitsvorschriften
 
 [§ 12](https://www.gesetze-im-internet.de/ifsg/__12.html)
+
+
+::: {.callout-tip}
+## Gesetzesauszug
+Im Hinblick auf eine übertragbare Krankheit [nach IGV] übermittelt die zuständige Behörde der zuständigen Landesbehörde unverzüglich folgende Angaben:
+
+1.das Auftreten der übertragbaren Krankheit, Tatsachen, die auf das Auftreten der übertragbaren Krankheit hinweisen, oder Tatsachen, die zum Auftreten der übertragbaren Krankheit führen können,
+2. die getroffenen Maßnahmen und
+3. sonstige Informationen, die für die Bewertung der Tatsachen und für die Verhütung und Bekämpfung der übertragbaren Krankheit von Bedeutung sind.
+:::
+
+* Der Paragraph 12 ist der Notfall-Paragraph. Er basiert auf den Internationalen Gesundheitsvorschriften
+* Um das zuverlässig zu gewährleisten sind __vorbeugende__ Anstrenungen im Gesundheitsamt notwendig. Deswegen müssen Notfälle geübt werden.
+* Er ist Teil der Event-Basierten-Surveillance
+* Dieser Artikel ist hilfreich für Begründungen gegenüber der Politik
 
 ## Ein Beispiel: Feuerwehrleitzentrale ruft an: _"Notarzt vermutet Ebola-Fall"_
 * Telefonisch [§12 Meldung](https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html)

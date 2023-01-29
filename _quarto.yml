@@ -1,12 +1,11 @@
 project:
   type: website
   output-dir: docs
-toc: false
 
 website:
   title: "IfSG & ÖGD"
-  subtitle: "Unterricht für den ÖGD"
-  logo: logo.png
+  # subtitle: "Unterricht für den ÖGD"
+  # logo: images/logo.png
   sidebar:
     style: "floating"
     search: true
@@ -37,12 +36,16 @@ website:
             file: par_3.qmd
           - text: § 4
             file: par_4.qmd
+          - text: § 6
+            file: par_6.qmd
+          - text: § 7
+            file: par_7.qmd          
           - text: § 12
             file: par_12.qmd
           - text: § 16
             file: par_16.qmd
-          - text: § 20a
-            file: par_20a.qmd
+          - text: § 20
+            file: par_20.qmd
           - text: § 23
             file: par_23.qmd
           - text: § 23a
@@ -80,15 +83,10 @@ website:
             file: disk_unverstaendlich.qmd
           - disk_praevention.qmd
           - disk_meldemoral.qmd    
-     
     background: light
-
 
 format:
   html:
     theme: Zephyr
     css: styles.css
     toc: true
-
-
-

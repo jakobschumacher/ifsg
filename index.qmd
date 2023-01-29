@@ -10,6 +10,7 @@ Diese Webseite ist ein Mini-Lehrbuch für den ÖGD. Es beinhaltet Hintergrundinf
 
 ## Die wichtigsten Punkte
 * Aufgabe: Infektionskrankheiten verhindern
+* Der wichtigste Teil des Gesundheitsamtes steckt in den Köpfen unserer Partner.
 * Das Meldewesen existiert damit wir Maßnahmen ergreifen
 * Wir dürfen alles nach § 16
 * Wir müssen - und dürfen auch - nach § 25 ermitteln

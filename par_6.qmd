@@ -1,0 +1,13 @@
+---
+title: "§ 6 Die Arztmeldepflicht"
+---
+
+[Hier geht es zum § 6](https://www.gesetze-im-internet.de/ifsg/__6.html)
+
+::: {.callout-tip}
+## Gesetzesauszug
+
+:::
+
+* Hier gibt es die Meldedefinition: Verdacht, Krankheit, Tod
+* 

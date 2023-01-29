@@ -1,9 +1,9 @@
 ---
-title: "§ 16"
+title: "§ 35"
 ---
 
 
-[Hier geht es zum § 16](https://www.gesetze-im-internet.de/ifsg/__16.html)
+[Hier geht es zum § 35](https://www.gesetze-im-internet.de/ifsg/__35.html)
 
 
 ::: {.panel-tabset}
