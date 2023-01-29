@@ -7,7 +7,7 @@ toc: false
 
 ::: {.callout-tip}
 ## Gesetzesauszug
-Werden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt oder ergibt sich, dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen
+Werden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt [...] so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen
 :::
 
 * Dieser Paragraph ist in Verbindung mit den folgenden Paragraphen zu sehen, insbesondere 29, 30, 31.

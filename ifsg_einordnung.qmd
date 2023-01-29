@@ -2,6 +2,18 @@
 title: "Einordnung"
 toc: false
 ---
+## Gesetzesbeziehung
+* Das IfSG "entspringt" dem [Grundgesetz Art. 74 Abs. 1 Nr. 19](https://www.gesetze-im-internet.de/gg/art_74.html)
+* Es ist teil der konkurrierenden Gesetzgebung
+* Die Länder sind für den Vollzug verantwortlich 
+* Aus dem IfSG entspringen eine ganze Reihe von Verordnungen, z.B.
+  * Trinkwasserverordnung
+  * Hygieneverordnung
+  * Krankenhausverordnungen
+  * Infektionsverordnung
+  * Schädlingsverordnung
+
+
 ## Das IfSG ist zentral im Infektionsschutz
 ```{r, echo=FALSE, results='asis', warning=FALSE, error=FALSE, message=FALSE}
 require("tidyverse")
@@ -51,13 +63,6 @@ _Das Ordnungsrecht kann man verstehen wie ein die Arbeit eines Linienrichters im
   * Ersatzvornahme
   * Strafverfahren
 
-
-## "Tochterverordnungen"
-* Trinkwasserverordnung
-* Hygieneverordnung
-* Krankenhausverordnungen
-* Infektionsverordnung
-* Schädlingsverordnung
 
 
 

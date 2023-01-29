@@ -1,9 +1,0 @@
----
-title: "Das IfSG ist wie eine ständig erweiterte Kaserne"
-layout: full
-toc: false
----
-::: {.column-page}
-![](images/kaserne.jpg) 
-:::
-

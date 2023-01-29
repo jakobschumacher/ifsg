@@ -36,7 +36,9 @@ website:
           - text: § 6
             file: par_6.qmd
           - text: § 7
-            file: par_7.qmd          
+            file: par_7.qmd   
+          - text: § 8
+            file: par_8.qmd             
           - text: § 12
             file: par_12.qmd
           - text: § 16
@@ -59,6 +61,9 @@ website:
             file: par_36.qmd
           - text: § 73
             file: par_73.qmd
+      - section: "Die Flughafenübung"
+        contents:
+          - ueb_flughafen.qmd
       - section: "Das Meldewesen"
         contents:
           - text: Schaubild
@@ -73,9 +78,6 @@ website:
             file: meld_pflichtige.qmd    
           - text: Exkurs Begriffe
             file: meld_begriffe.qmd    
-      - section: "Die Flughafenübung"
-        contents:
-          - ueb_flughafen.qmd
       - section: "Diskussion"
         contents:
           - text: Wieso sind unsere Schreiben so unverständlich?

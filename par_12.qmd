@@ -20,7 +20,12 @@ Im Hinblick auf eine übertragbare Krankheit [nach IGV] übermittelt die zustän
 * Er ist Teil der Event-Basierten-Surveillance
 * Dieser Artikel ist hilfreich für Begründungen gegenüber der Politik
 
-## Ein Beispiel: Feuerwehrleitzentrale ruft an: _"Notarzt vermutet Ebola-Fall"_
+
+::: {.panel-tabset}
+## Beispielproblem
+Feuerwehrleitzentrale ruft an: _"Notarzt vermutet Ebola-Fall"_ 
+
+## Herangehensweise
 * Telefonisch [§12 Meldung](https://www.rki.de/DE/Content/Infekt/IfSG/Meldeboegen/Meldung_12/meldung_12_node.html)
 * [STAKOB](https://www.rki.de/DE/Content/Kommissionen/Stakob/Stakob_node.html) Einrichtung anrufen
 * Vor Ort gehen: Taxi/Feuerwehr/Polizei
@@ -32,3 +37,5 @@ Im Hinblick auf eine übertragbare Krankheit [nach IGV] übermittelt die zustän
   - Sperrbereich
   - KPs festlegen
   - Desinfektion festlegen
+
+:::

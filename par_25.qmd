@@ -7,7 +7,7 @@ toc: false
 
 ::: {.callout-tip}
 ## Gesetzesauszug
-Ergibt sich oder ist anzunehmen, dass jemand krank, krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist oder dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so stellt das Gesundheitsamt die erforderlichen Ermittlungen an
+Ergibt sich oder ist anzunehmen, dass jemand krank, krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist [...] so stellt das Gesundheitsamt die erforderlichen Ermittlungen an
 :::
 
 * Dieser Paragraph verpflichtet uns zur Ermittlung
