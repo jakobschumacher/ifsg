@@ -1,5 +1,6 @@
 ---
 title: "§ 3 Prävention durch Aufklärung"
+toc: false
 ---
 
 [Hier geht es zum § 3](https://www.gesetze-im-internet.de/ifsg/__3.html)

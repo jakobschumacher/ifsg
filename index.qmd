@@ -7,24 +7,25 @@ toc: false
 ##  Ziel
 Diese Webseite ist ein Mini-Lehrbuch für den ÖGD. Es beinhaltet Hintergrundinformationen zum Infektionsschutzgesetz und zum Meldewesen.
 
-
+::: {.callout-tip}
 ## Die wichtigsten Punkte
 * Aufgabe: Infektionskrankheiten verhindern
 * Der wichtigste Teil des Gesundheitsamtes steckt in den Köpfen unserer Partner.
-* Das Meldewesen existiert damit wir Maßnahmen ergreifen
+* Wir müssen den Infektionsnotfall üben
 * Wir dürfen alles nach § 16
 * Wir müssen - und dürfen auch - nach § 25 ermitteln
+* Das Meldewesen existiert damit wir Maßnahmen ergreifen
 * Zusammenarbeit schlägt Meldepflicht (außer im Schadensfall)
-* Wir müssen den Infektionsnotfall üben
+:::
 
 ## Limitationen
-Hier werden Sichtweisen von Jakob Schumacher dargestellt. Es gibt keinen Anspruch auf Vollständigkeit oder Richtigkeit. Das IfSG verändert sich schnell und die Webseite kann also leicht veralten. Also: Benutzung auf eigene Gefahr.
+Hier werden Sichtweisen von Jakob Schumacher dargestellt. Es gibt keinen Anspruch auf Vollständigkeit oder Richtigkeit. Das IfSG verändert sich schnell und die Webseite kann also leicht veralten. Außerdem stellt dies die praktische Sicht auf das IfSG dar. Der Autor ist kein Jurist. Also: Benutzung auf eigene Gefahr.
 
 ## Lizenz
 MIT-Lizenz 
 
 ## Danksagungen
-* Meinen Ausbidlungsprogrammen PAE und WBK
+* Den Ausbidlungsprogrammen PAE und WBK
 * Posit (für die Software RStudio und Quarto)
 * Github (für das Hosting)
 * Freelogo online (für das Logo)

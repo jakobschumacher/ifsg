@@ -1,25 +1,23 @@
 ---
-title: "§ 16"
+title: "§ 36 Massenunterkünfte"
+toc: false
 ---
 
+[Hier geht es zum § 36](https://www.gesetze-im-internet.de/ifsg/__36.html)
 
-[Hier geht es zum § 16](https://www.gesetze-im-internet.de/ifsg/__16.html)
+::: {.callout-tip}
+## Gesetzesauszug
+* Folgende Einrichtungen und Unternehmen müssen in Hygieneplänen innerbetriebliche Verfahrensweisen zur Infektionshygiene festlegen und unterliegen der infektionshygienischen Überwachung durch das Gesundheitsamt: 
+  * die in § 33 genannten Gemeinschaftseinrichtungen mit Ausnahme[n]
+  * Obdachlosenunterkünfte
+  * [Asylunterkünfte]
+  * sonstige Massenunterkünfte
+  * Justizvollzugsanstalten
 
-
-::: {.panel-tabset}
-
-## Beispielproblem
-Bei einer Praxisbegehung: Der Arzt verwendet rostiges Werkzeug, hat falsches abgelaufenes Händedesinfektionsmittel, geflickte Desinfektionsanlage. Als der Arzt merkt, dass es kritisch wird,  beruft er sich aufs Hausrecht und den Datenschutz und will alles schriftlich. 
-
-
-## Herangehensweise
-
-* Mündlich ausgesprochen: _Ich schließe jetzt ihre Praxis gemäß § 16 IfSG._
-* Kriterien für die Aufhebung der Schließung darstellen. CAVE: Einhaltung von Richtlinien als Ziel 
-* Auf Begehung und Unterlagen bestanden. Zur Not Polzei rufen.
-* Ausführliches Protokoll erstellt, Photos mit Diensthandy gemacht
-* Anordnung § 16 erstellt
-* Rücksprache mit Rechtsamt
-
+* Das Bundesministerium für Gesundheit wird ermächtigt festzulegen, [..] dass Personen, die in [...] Deutschland einreisen [...] ein ärztliches Zeugnis [...] vorzulegen haben
 :::
+
+* Dieser Paragraph besagt, dass Gesundheitsämter bestimmte Einrichtungen begehen sollen und manche anderen können.
+* Diesem Paragraphen sind die Reisebestimmungen hinzugefügt worden
+
 

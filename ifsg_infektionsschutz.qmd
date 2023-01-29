@@ -1,19 +1,18 @@
 ---
-title: "Das IfSG ist zentral für den Infektionsschutz"
+title: "Der Infektionsschutz ist Teil des Gesundheitsschutzes"
 toc: false
 ---
 
-Für die Arbeit im Infektionsschutzbereich im Gesundheitsamt ist das Infektionsschutzgesetz zentral.
 
-## Subjektive Zusammenfassung der Tätigkeit im Gesundheitsamt
-
-```{r, echo=FALSE, results='asis', warning=FALSE, error=FALSE}
-pacman::p_load("tidyverse", "plotly")
+```{r, echo=FALSE, results='asis', warning=FALSE, error=FALSE, message=FALSE}
+require("tidyverse")
+require("plotly")
 var_inhalte = c( "Hygiene", "Meldungen", "Trinkwasser", "Schädlinge", "Katastrophenschutz", "Umwelmedizin")
 df <- data.frame(Inhalt = factor(var_inhalte, ordered = TRUE, levels = var_inhalte), Aufwand = c(3.2,3,2,0.75, 0.25, 0.25 ))
 g <- ggplot(df, aes(x=Inhalt, y = Aufwand, fill=Inhalt)) + 
   geom_bar(stat = "identity") + 
   theme_classic() +
+  ggtitle("Subjektive Aufteilung des Infektionsschutzbereich eines Berliner Gesundheitsamtes") +
   labs(x = NULL, y="Geschätzter Aufwand") +
   theme(legend.background = element_rect(fill = "transparent"),
         legend.box.background = element_rect(fill = "transparent"),

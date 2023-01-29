@@ -1,19 +1,19 @@
 ---
 title: "§ 73 Ordnungswidrigkeiten"
+toc: false 
 ---
-
 
 [Hier geht es zum § 73](https://www.gesetze-im-internet.de/ifsg/__73.html)
 
+* In diesem § werden alle Ordnungswidrigkeiten aufgelistet
+* Wenn jemand bei einer Ordnungswidrigkeit zu Schaden gekommen ist, sind Strafverfahren zu überlegen
+* Was __nicht__ hier erwähnt ist muss mit Zwangsgeld o.ä. durchgesetzt werden 
 
 ::: {.panel-tabset}
-
 ## Beispielproblem
 Ein Krankenhaus vergisst eine Meldung von zwei Klebsiellen, die sich hinterher als der Beginn eines Ausbruches herausstellen. 
 
-
 ## Herangehensweise
-
 * Gut überlegen wie man vorangeht, denn Kooperation wichtig
 * Kann auch in eine Strafverfahren münden
 * Definitiv Sache fürs Rechtsamt

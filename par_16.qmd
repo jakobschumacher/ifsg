@@ -1,5 +1,6 @@
 ---
-title: "§ 16 Der "Wir-dürfen-alles-Paragraph"
+title: "§ 16 Der Wir-dürfen-alles-Paragraph"
+toc: false
 ---
 
 

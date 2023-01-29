@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 
+
 website:
   title: "IfSG & ÖGD"
   # subtitle: "Unterricht für den ÖGD"
@@ -20,14 +21,10 @@ website:
     contents:
       - section: "Grundlagen"
         contents:
-          - text: Infektionsschutz
-            file: ifsg_infektionsschutz.qmd
-          - text: Ordnungsrecht
-            file: ifsg_ordnungsrecht.qmd
+          - text: Einordnung
+            file: ifsg_einordnung.qmd
           - text: Prägung des IfSG
             file: ifsg_praegung.qmd
-          - text: IfSG als Potpurri
-            file: ifsg_potpurri.qmd
       - section: "Wichtige Paragraphen"
         contents:
           - text: § 1
@@ -50,6 +47,8 @@ website:
             file: par_23.qmd
           - text: § 23a
             file: par_23a.qmd            
+          - text: § 25
+            file: par_25.qmd
           - text: § 28
             file: par_28.qmd
           - text: § 34

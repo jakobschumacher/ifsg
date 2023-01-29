@@ -1,5 +1,6 @@
 ---
 title: "§ 4 Das Robert Koch-Institut"
+toc: false
 ---
 
 [Hier geht es zum § 4](https://www.gesetze-im-internet.de/ifsg/__4.html)

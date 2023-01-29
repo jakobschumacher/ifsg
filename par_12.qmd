@@ -1,5 +1,6 @@
 ---
 title: "§ 12 Der Notfallparagraph"
+toc: false
 ---
 
 [§ 12](https://www.gesetze-im-internet.de/ifsg/__12.html)

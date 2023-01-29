@@ -1,16 +1,18 @@
 ---
-title: "§ 28"
+title: "§ 28 Das Schwert des Gesundheitsamtes"
+toc: false
 ---
 
 [Hier geht es zum § 28](https://www.gesetze-im-internet.de/ifsg/__28.html)
 
-
 ::: {.callout-tip}
 ## Gesetzesauszug
-
+Werden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt oder ergibt sich, dass ein Verstorbener krank, krankheitsverdächtig oder Ausscheider war, so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen
 :::
 
-
+* Dieser Paragraph ist in Verbindung mit den folgenden Paragraphen zu sehen, insbesondere 29, 30, 31.
+* Zusammen ermöglichen diese Paragraphen quasi Gefängnisaufenthalte
+* Wenn § 34 nicht aussreicht kann der § 31 verwendet werden.
 
 ::: {.panel-tabset}
 ## Beispielproblem
@@ -18,7 +20,8 @@ Eine Labor meldet eine Person mit einer neuen Infektionskrankheit. Im selben Hau
 
 ## Herangehensweise
 * Das Gesundheitsamt kann gegenüber allen Personen eine Maßnahme ansetzen.
-
-
+* Möglich: Alle absondern
+* Alternativ auch Berufsverbote
+* Sinnvoll in Kombination mit Untersuchungen/Beobachtung
 :::
 

@@ -1,5 +1,6 @@
 ---
 title: "§ 20 Der Impfparagraph"
+toc: false
 ---
 
 
