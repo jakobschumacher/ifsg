@@ -78,7 +78,9 @@ website:
           - text: Pflichtige
             file: meld_pflichtige.qmd    
           - text: Exkurs Begriffe
-            file: meld_begriffe.qmd    
+            file: meld_begriffe.qmd 
+          - text: Übung zum Meldewesen
+            file: ueb_meldungen.qmd  
       - section: "Diskussion"
         contents:
           - text: Wieso sind unsere Schreiben so unverständlich?
