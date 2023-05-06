@@ -1,0 +1,68 @@
+---
+title: "Einordnung"
+toc: false
+---
+## Gesetzesbeziehung
+* Das IfSG "entspringt" dem [Grundgesetz Art. 74 Abs. 1 Nr. 19](https://www.gesetze-im-internet.de/gg/art_74.html)
+* Es ist teil der konkurrierenden Gesetzgebung
+* Die Länder sind für den Vollzug verantwortlich 
+* Aus dem IfSG entspringen eine ganze Reihe von Verordnungen, z.B.
+  * Trinkwasserverordnung
+  * Hygieneverordnung
+  * Krankenhausverordnungen
+  * Infektionsverordnung
+  * Schädlingsverordnung
+
+
+## Das IfSG ist zentral im Infektionsschutz
+```{r, echo=FALSE, results='asis', warning=FALSE, error=FALSE, message=FALSE}
+require("tidyverse")
+require("plotly")
+var_inhalte = c( "Hygiene", "Meldungen", "Trinkwasser", "Schädlinge", "Katastrophenschutz", "Umwelmedizin")
+df <- data.frame(Inhalt = factor(var_inhalte, ordered = TRUE, levels = var_inhalte), Aufwand = c(3.2,3,2,0.75, 0.25, 0.25 ))
+g <- ggplot(df, aes(x=Inhalt, y = Aufwand, fill=Inhalt)) + 
+  geom_bar(stat = "identity") + 
+  theme_classic() +
+  ggtitle("Subjektive Aufteilung des Infektionsschutzbereich eines Berliner Gesundheitsamtes") +
+  labs(x = NULL, y="Geschätzter Aufwand") +
+  theme(legend.background = element_rect(fill = "transparent"),
+        legend.box.background = element_rect(fill = "transparent"),
+        panel.background = element_rect(fill = "transparent"),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank(),
+        plot.background = element_rect(fill = "transparent", color = NA),
+        legend.position = "none")
+ggplotly(g) %>% config(displayModeBar = F)
+```
+
+
+
+## Das IfSG ist Teil des Ordnungsrechtes
+![](images/schiedsrichter.jpg){width=50%}
+
+_Das Ordnungsrecht kann man verstehen wie ein die Arbeit eines Linienrichters im Fußball: Aufgaben (Abseitserkennung, Ball-Aus-Erkennung); Eigene Regeln (Darf das Spielfeld nicht betreten, Unabhängigkeitsgrundsatz); Maßnahmen (Fahne heben und Tor für ungültig erklären); Bestrafungen (Gelbe Karte, Rote Karte)_
+
+
+### Aufgaben des Infektionsschutzes nach IfSG    
+* Aufgaben
+  * [Gefahrenabwehr](https://jakobschumacher.github.io/mitschrift_weiterbildungskurs/verwaltungsrecht/)
+* Eigene Regeln (Beispiele)
+  * Gesetzesvorbehalt 
+  * Handlungsverpflichtung (Gebunden, Soll, Ermessen)
+  * Übermaßverbot (Geeignetheit, Erforderlichkeit, Verhältnismäßigkeit)
+  * Gleichheitsgrundsatz
+* Maßnahmen (Beispiele)
+  * Anweisung 
+  * Schließung
+  * Teilnahme/Tätigkeitsverbote
+  * Quarantäne
+* Bestrafungen (Beispiele)
+  * Ermahnung 
+  * Ordnungswidrigkeit
+  * Zwangsgeld
+  * Ersatzvornahme
+  * Strafverfahren
+
+
+
+

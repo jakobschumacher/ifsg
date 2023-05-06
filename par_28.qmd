@@ -1,12 +1,27 @@
 ---
-title: "§ 28"
+title: "§ 28 Das Schwert des Gesundheitsamtes"
+toc: false
 ---
 
-## [§ 28](https://www.gesetze-im-internet.de/ifsg/__28.html): Quarantäne
-Eine Labor meldet eine Person mit Covid-19. Im selben Haushalt befindet sich noch ein weiterer asymptomatischer Fall, eine symptomatische Person ohne Labornachweis und eine Kontaktperson.
+[Hier geht es zum § 28](https://www.gesetze-im-internet.de/ifsg/__28.html)
 
-## Hinweise
-* Telefonische Ermittlung
-* <a href="{{ site.url }}{{ site.baseurl }}/assets/2022-01-31-IfSG-WBK/absonderung.pdf">Absonderung § 28</a> 
-* Empfehlungen des RKIs folgen
+::: {.callout-tip}
+## Gesetzesauszug
+Werden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt [...] so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen
+:::
+
+* Dieser Paragraph ist in Verbindung mit den folgenden Paragraphen zu sehen, insbesondere 29, 30, 31.
+* Zusammen ermöglichen diese Paragraphen quasi Gefängnisaufenthalte
+* Wenn § 34 nicht aussreicht kann der § 31 verwendet werden.
+
+::: {.panel-tabset}
+## Beispielproblem
+Eine Labor meldet eine Person mit einer neuen Infektionskrankheit. Im selben Haushalt befindet sich noch ein weiterer asymptomatischer Fall, eine symptomatische Person ohne Labornachweis und eine Kontaktperson. 
+
+## Herangehensweise
+* Das Gesundheitsamt kann gegenüber allen Personen eine Maßnahme ansetzen.
+* Möglich: Alle absondern
+* Alternativ auch Berufsverbote
+* Sinnvoll in Kombination mit Untersuchungen/Beobachtung
+:::
 

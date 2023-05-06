@@ -1,0 +1,16 @@
+---
+title: "§ 20 Der Impfparagraph"
+toc: false
+---
+
+
+[Hier geht es zum § 20](https://www.gesetze-im-internet.de/ifsg/__20.html)
+
+::: {.callout-tip}
+## Gesetzesauszug
+Die Bundeszentrale für gesundheitliche Aufklärung, die obersten Landesgesundheitsbehörden und die von ihnen beauftragten Stellen sowie die Gesundheitsämter __informieren__ die Bevölkerung zielgruppenspezifisch über die Bedeutung von Schutzimpfungen 
+:::
+
+* STIKO ist hier verankert
+* Hier ist erneut der Grundsatz: __Prävention durch Information__
+* Die Politik hat eine Impfpflicht für Beschäftigte in bestimmten Einrichtungen umgesetzt. 

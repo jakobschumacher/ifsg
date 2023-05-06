@@ -1,19 +1,25 @@
 ---
-title: "§ 16"
+title: "§ 16 Der Wir-dürfen-alles-Paragraph"
+toc: false
 ---
 
 
 [Hier geht es zum § 16](https://www.gesetze-im-internet.de/ifsg/__16.html)
 
+::: {.callout-tip}
+## Gesetzesauszug
+Werden Tatsachen festgestellt, die zum Auftreten einer übertragbaren Krankheit führen können, oder ist anzunehmen, dass solche Tatsachen vorliegen, so trifft die zuständige Behörde die notwendigen Maßnahmen zur Abwendung der dem Einzelnen oder der Allgemeinheit hierdurch drohenden Gefahren.
+:::
+
+
+* Dieser Artikel ist unglaublich breit. Deswegen: __Wir dürfen alles nach § 16__
+
 
 ::: {.panel-tabset}
-
 ## Beispielproblem
 Bei einer Praxisbegehung: Der Arzt verwendet rostiges Werkzeug, hat falsches abgelaufenes Händedesinfektionsmittel, geflickte Desinfektionsanlage. Als der Arzt merkt, dass es kritisch wird,  beruft er sich aufs Hausrecht und den Datenschutz und will alles schriftlich. 
 
-
 ## Herangehensweise
-
 * Mündlich ausgesprochen: _Ich schließe jetzt ihre Praxis gemäß § 16 IfSG._
 * Kriterien für die Aufhebung der Schließung darstellen. CAVE: Einhaltung von Richtlinien als Ziel 
 * Auf Begehung und Unterlagen bestanden. Zur Not Polzei rufen.

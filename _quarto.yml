@@ -1,32 +1,31 @@
 project:
   type: website
   output-dir: docs
-toc: false
+
 
 website:
   title: "IfSG & ÖGD"
+  favicon: images/logo.png
   sidebar:
     style: "floating"
+    subtitle: "Unterricht für den ÖGD"
+    background: light
     search: true
     collapse-level: 1
     tools:
       - icon: github
         menu:
           - text: Quellcode
-            url:  https://code.com
+            url:  https://github.com/jakobschumacher/ifsg
           - text: Verbesserungsvorschlag
-            url:  https://bugs.com
+            url:  https://github.com/jakobschumacher/ifsg/issues
     contents:
       - section: "Grundlagen"
         contents:
-          - text: Infektionsschutz
-            file: ifsg_infektionsschutz.qmd
-          - text: Ordnungsrecht
-            file: ifsg_ordnungsrecht.qmd
+          - text: Einordnung
+            file: ifsg_einordnung.qmd
           - text: Prägung des IfSG
             file: ifsg_praegung.qmd
-          - text: IfSG als Potpurri
-            file: ifsg_potpurri.qmd
       - section: "Wichtige Paragraphen"
         contents:
           - text: § 1
@@ -35,16 +34,24 @@ website:
             file: par_3.qmd
           - text: § 4
             file: par_4.qmd
+          - text: § 6
+            file: par_6.qmd
+          - text: § 7
+            file: par_7.qmd   
+          - text: § 8
+            file: par_8.qmd             
           - text: § 12
             file: par_12.qmd
           - text: § 16
             file: par_16.qmd
-          - text: § 20a
-            file: par_20a.qmd
+          - text: § 20
+            file: par_20.qmd
           - text: § 23
             file: par_23.qmd
           - text: § 23a
             file: par_23a.qmd            
+          - text: § 25
+            file: par_25.qmd
           - text: § 28
             file: par_28.qmd
           - text: § 34
@@ -55,6 +62,9 @@ website:
             file: par_36.qmd
           - text: § 73
             file: par_73.qmd
+      - section: "Die Flughafenübung"
+        contents:
+          - ueb_flughafen.qmd
       - section: "Das Meldewesen"
         contents:
           - text: Schaubild
@@ -68,25 +78,23 @@ website:
           - text: Pflichtige
             file: meld_pflichtige.qmd    
           - text: Exkurs Begriffe
-            file: meld_begriffe.qmd    
-      - section: "Die Flughafenübung"
-        contents:
-          - ueb_flughafen.qmd
+            file: meld_begriffe.qmd 
+          - text: Übung zum Meldewesen
+            file: ueb_meldungen.qmd  
       - section: "Diskussion"
         contents:
           - text: Wieso sind unsere Schreiben so unverständlich?
             file: disk_unverstaendlich.qmd
           - disk_praevention.qmd
-          - disk_meldemoral.qmd    
-     
+          - disk_meldemoral.qmd   
+  page-footer:
     background: light
-
+    center: 
+      - text: "Impressum"
+        href: about.qmd          
 
 format:
   html:
     theme: Zephyr
-    css: styles.css
-    toc: true
-
-
-
+    toc: false
+    

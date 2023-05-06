@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>IfSG &amp; ÖGD - Das IfSG ist zentral für den Infektionsschutz</title>
+<title>IfSG &amp; ÖGD - § 7 Die Labormeldepflicht</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<link href="./images/logo.png" rel="icon" type="image/png">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,17 +59,8 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
-<script src="site_libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
-<script src="site_libs/plotly-binding-4.10.0/plotly.js"></script>
-<script src="site_libs/typedarray-0.1/typedarray.min.js"></script>
-<script src="site_libs/jquery-3.5.1/jquery.min.js"></script>
-<link href="site_libs/crosstalk-1.2.0/css/crosstalk.min.css" rel="stylesheet">
-<script src="site_libs/crosstalk-1.2.0/js/crosstalk.min.js"></script>
-<link href="site_libs/plotly-htmlwidgets-css-2.5.1/plotly-htmlwidgets.css" rel="stylesheet">
-<script src="site_libs/plotly-main-2.5.1/plotly-latest.min.js"></script>
 
 
-<link rel="stylesheet" href="styles.css">
 </head>
 
 <body class="nav-sidebar floating fullcontent">
@@ -77,7 +69,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
     <div class="container-fluid d-flex justify-content-between">
-      <h1 class="quarto-secondary-nav-title">Das IfSG ist zentral für den Infektionsschutz</h1>
+      <h1 class="quarto-secondary-nav-title">§ 7 Die Labormeldepflicht</h1>
       <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
         <i class="bi bi-chevron-right"></i>
       </button>
@@ -95,12 +87,12 @@ ul.task-list li input[type="checkbox"] {
     <a href="" title="" id="sidebar-tool-dropdown-0" class="sidebar-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-github"></i></a>
     <ul class="dropdown-menu" aria-labelledby="sidebar-tool-dropdown-0">
         <li>
-          <a class="dropdown-item sidebar-tools-main-item" href="https://code.com">
+          <a class="dropdown-item sidebar-tools-main-item" href="https://github.com/jakobschumacher/ifsg">
           Quellcode
           </a>
         </li>
         <li>
-          <a class="dropdown-item sidebar-tools-main-item" href="https://bugs.com">
+          <a class="dropdown-item sidebar-tools-main-item" href="https://github.com/jakobschumacher/ifsg/issues">
           Verbesserungsvorschlag
           </a>
         </li>
@@ -117,20 +109,15 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">Grundlagen</a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="true">
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">Grundlagen</a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
+      <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./ifsg_infektionsschutz.html" class="sidebar-item-text sidebar-link active">Infektionsschutz</a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./ifsg_ordnungsrecht.html" class="sidebar-item-text sidebar-link">Ordnungsrecht</a>
+  <a href="./ifsg_einordnung.html" class="sidebar-item-text sidebar-link">Einordnung</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -138,21 +125,16 @@ ul.task-list li input[type="checkbox"] {
   <a href="./ifsg_praegung.html" class="sidebar-item-text sidebar-link">Prägung des IfSG</a>
   </div>
 </li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./ifsg_potpurri.html" class="sidebar-item-text sidebar-link">IfSG als Potpurri</a>
-  </div>
-</li>
       </ul>
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">Wichtige Paragraphen</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="false">
+            <a class="sidebar-item-text sidebar-link text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">Wichtige Paragraphen</a>
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
-      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 ">  
+      <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./par_1.html" class="sidebar-item-text sidebar-link">§ 1</a>
@@ -170,6 +152,21 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="./par_6.html" class="sidebar-item-text sidebar-link">§ 6</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./par_7.html" class="sidebar-item-text sidebar-link active">§ 7</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./par_8.html" class="sidebar-item-text sidebar-link">§ 8</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="./par_12.html" class="sidebar-item-text sidebar-link">§ 12</a>
   </div>
 </li>
@@ -180,7 +177,7 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./par_20a.html" class="sidebar-item-text sidebar-link">§ 20a</a>
+  <a href="./par_20.html" class="sidebar-item-text sidebar-link">§ 20</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -191,6 +188,11 @@ ul.task-list li input[type="checkbox"] {
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./par_23a.html" class="sidebar-item-text sidebar-link">§ 23a</a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./par_25.html" class="sidebar-item-text sidebar-link">§ 25</a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -222,12 +224,27 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">Das Meldewesen</a>
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">Die Flughafenübung</a>
           <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-3" class="collapse list-unstyled sidebar-section depth1 ">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./ueb_flughafen.html" class="sidebar-item-text sidebar-link">Die Flughafenübung</a>
+  </div>
+</li>
+      </ul>
+  </li>
+        <li class="sidebar-item sidebar-item-section">
+      <div class="sidebar-item-container"> 
+            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">Das Meldewesen</a>
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">
+            <i class="bi bi-chevron-right ms-2"></i>
+          </a> 
+      </div>
+      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./meld_schaubild.html" class="sidebar-item-text sidebar-link">Schaubild</a>
@@ -258,19 +275,9 @@ ul.task-list li input[type="checkbox"] {
   <a href="./meld_begriffe.html" class="sidebar-item-text sidebar-link">Exkurs Begriffe</a>
   </div>
 </li>
-      </ul>
-  </li>
-        <li class="sidebar-item sidebar-item-section">
-      <div class="sidebar-item-container"> 
-            <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">Die Flughafenübung</a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false">
-            <i class="bi bi-chevron-right ms-2"></i>
-          </a> 
-      </div>
-      <ul id="quarto-sidebar-section-4" class="collapse list-unstyled sidebar-section depth1 ">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./ueb_flughafen.html" class="sidebar-item-text sidebar-link">Die Flughafenübung</a>
+  <a href="./ueb_meldungen.html" class="sidebar-item-text sidebar-link">Übung zum Meldewesen</a>
   </div>
 </li>
       </ul>
@@ -310,7 +317,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title d-none d-lg-block">Das IfSG ist zentral für den Infektionsschutz</h1>
+<h1 class="title d-none d-lg-block">§ 7 Die Labormeldepflicht</h1>
 </div>
 
 
@@ -325,16 +332,28 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Für die Arbeit im Infektionsschutzbereich im Gesundheitsamt ist das Infektionsschutzgesetz zentral.</p>
-<section id="subjektive-zusammenfassung-der-tätigkeit-im-gesundheitsamt" class="level2">
-<h2 class="anchored" data-anchor-id="subjektive-zusammenfassung-der-tätigkeit-im-gesundheitsamt">Subjektive Zusammenfassung der Tätigkeit im Gesundheitsamt</h2>
-<div class="cell-output-display">
-<div id="htmlwidget-ba9ee15a977cdebf4b19" style="width:100%;height:464px;" class="plotly html-widget"></div>
-<script type="application/json" data-for="htmlwidget-ba9ee15a977cdebf4b19">{"x":{"data":[{"orientation":"v","width":0.9,"base":0,"x":[1],"y":[3.2],"text":"Inhalt: Hygiene<br />Aufwand: 3.20<br />Inhalt: Hygiene","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(68,1,84,1)","line":{"width":1.88976377952756,"color":"transparent"}},"name":"Hygiene","legendgroup":"Hygiene","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.9,"base":0,"x":[2],"y":[3],"text":"Inhalt: Meldungen<br />Aufwand: 3.00<br />Inhalt: Meldungen","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(65,68,135,1)","line":{"width":1.88976377952756,"color":"transparent"}},"name":"Meldungen","legendgroup":"Meldungen","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.9,"base":0,"x":[3],"y":[2],"text":"Inhalt: Trinkwasser<br />Aufwand: 2.00<br />Inhalt: Trinkwasser","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(42,120,142,1)","line":{"width":1.88976377952756,"color":"transparent"}},"name":"Trinkwasser","legendgroup":"Trinkwasser","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.9,"base":0,"x":[4],"y":[0.75],"text":"Inhalt: Schädlinge<br />Aufwand: 0.75<br />Inhalt: Schädlinge","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(34,168,132,1)","line":{"width":1.88976377952756,"color":"transparent"}},"name":"Schädlinge","legendgroup":"Schädlinge","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.9,"base":0,"x":[5],"y":[0.25],"text":"Inhalt: Katastrophenschutz<br />Aufwand: 0.25<br />Inhalt: Katastrophenschutz","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(122,209,81,1)","line":{"width":1.88976377952756,"color":"transparent"}},"name":"Katastrophenschutz","legendgroup":"Katastrophenschutz","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null},{"orientation":"v","width":0.9,"base":0,"x":[6],"y":[0.25],"text":"Inhalt: Umwelmedizin<br />Aufwand: 0.25<br />Inhalt: Umwelmedizin","type":"bar","textposition":"none","marker":{"autocolorscale":false,"color":"rgba(253,231,37,1)","line":{"width":1.88976377952756,"color":"transparent"}},"name":"Umwelmedizin","legendgroup":"Umwelmedizin","showlegend":true,"xaxis":"x","yaxis":"y","hoverinfo":"text","frame":null}],"layout":{"margin":{"t":26.2283105022831,"r":7.30593607305936,"b":25.5707762557078,"l":31.4155251141553},"plot_bgcolor":"transparent","paper_bgcolor":"transparent","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187},"xaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[0.4,6.6],"tickmode":"array","ticktext":["Hygiene","Meldungen","Trinkwasser","Schädlinge","Katastrophenschutz","Umwelmedizin"],"tickvals":[1,2,3,4,5,6],"categoryorder":"array","categoryarray":["Hygiene","Meldungen","Trinkwasser","Schädlinge","Katastrophenschutz","Umwelmedizin"],"nticks":null,"ticks":"outside","tickcolor":"rgba(51,51,51,1)","ticklen":3.65296803652968,"tickwidth":0.66417600664176,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.689497716895},"tickangle":-0,"showline":true,"linecolor":"rgba(0,0,0,1)","linewidth":0.66417600664176,"showgrid":false,"gridcolor":null,"gridwidth":0,"zeroline":false,"anchor":"y","title":{"text":"","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}},"hoverformat":".2f"},"yaxis":{"domain":[0,1],"automargin":true,"type":"linear","autorange":false,"range":[-0.16,3.36],"tickmode":"array","ticktext":["0","1","2","3"],"tickvals":[0,1,2,3],"categoryorder":"array","categoryarray":["0","1","2","3"],"nticks":null,"ticks":"outside","tickcolor":"rgba(51,51,51,1)","ticklen":3.65296803652968,"tickwidth":0.66417600664176,"showticklabels":true,"tickfont":{"color":"rgba(77,77,77,1)","family":"","size":11.689497716895},"tickangle":-0,"showline":true,"linecolor":"rgba(0,0,0,1)","linewidth":0.66417600664176,"showgrid":false,"gridcolor":null,"gridwidth":0,"zeroline":false,"anchor":"x","title":{"text":"Geschätzter Aufwand","font":{"color":"rgba(0,0,0,1)","family":"","size":14.6118721461187}},"hoverformat":".2f"},"shapes":[{"type":"rect","fillcolor":null,"line":{"color":null,"width":0,"linetype":[]},"yref":"paper","xref":"paper","x0":0,"x1":1,"y0":0,"y1":1}],"showlegend":false,"legend":{"bgcolor":"transparent","bordercolor":"transparent","borderwidth":1.88976377952756,"font":{"color":"rgba(0,0,0,1)","family":"","size":11.689497716895}},"hovermode":"closest","barmode":"relative"},"config":{"doubleClick":"reset","modeBarButtonsToAdd":["hoverclosest","hovercompare"],"showSendToCloud":false,"displayModeBar":false},"source":"A","attrs":{"2557b13ee22":{"x":{},"y":{},"fill":{},"type":"bar"}},"cur_data":"2557b13ee22","visdat":{"2557b13ee22":["function (y) ","x"]},"highlight":{"on":"plotly_click","persistent":false,"dynamic":false,"selectize":false,"opacityDim":0.2,"selected":{"opacity":1},"debounce":0},"shinyEvents":["plotly_hover","plotly_click","plotly_selected","plotly_relayout","plotly_brushed","plotly_brushing","plotly_clickannotation","plotly_doubleclick","plotly_deselect","plotly_afterplot","plotly_sunburstclick"],"base_url":"https://plot.ly"},"evals":[],"jsHooks":[]}</script>
+<p><a href="https://www.gesetze-im-internet.de/ifsg/__7.html">Hier geht es zum § 7</a></p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
 </div>
+<div class="callout-caption-container flex-fill">
+Gesetzesauszug
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Namentlich ist bei folgenden Krankheitserregern […] der direkte oder indirekte Nachweis zu melden, soweit die Nachweise auf eine akute Infektion hinweisen</p>
+<p>Namentlich sind in Bezug auf Infektionen und Kolonisationen Nachweise […] zu melden, wenn […] Hinweise auf eine schwerwiegende Gefahr für die Allgemeinheit bestehen.</p>
+<p>Nichtnamentlich ist bei folgenden Krankheitserregern der direkte oder indirekte Nachweis zu melden: […] HIV</p>
+</div>
+</div>
+<ul>
+<li>Hier gibt es die Meldedefinition für Labore: Hinweis auf akute Erkrankung</li>
+<li>Nichnamentliche Meldung für HIV ist hier hinterlegt</li>
+</ul>
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -471,6 +490,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+      <div class="nav-footer-center">
+        <ul class="footer-items list-unstyled">
+    <li class="nav-item">
+    <a class="nav-link" href="./about.html">Impressum</a>
+  </li>  
+</ul>
+      </div>
+  </div>
+</footer>
 
 
 

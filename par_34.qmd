@@ -5,6 +5,12 @@ toc: false
 
 [Hier geht es zum § 34](https://www.gesetze-im-internet.de/ifsg/__34.html)
 
+* Absatz ist wichtig für die Arbeit im Gesundheitsamt
+* Es gibt eine Unterteilung nach Erkrankten, Ausscheidern und Mitbewohnende
+* Belehrungspflicht 
+* Benachrichtigungspflicht
+* Impfaufklärung (Einführung vor Impfpflicht)
+
 
 ::: {.panel-tabset}
 
@@ -13,9 +19,7 @@ Shigelloseausbruch
 Einer Hygienekontrolleurin fällt auf, dass sie heute zwei Shigellose-Fälle hat, die nicht aus dem Ausland kommen. Es stellt sich heraus, das es einige Fälle in einer Kita gibt. 
 
 
-## Herangehensweise
-Was haben wir getan?
-
+## Was haben wir getan?
 * Vor Ort ermittelt
 * VetLeb informiert
 * Die Landesstelle gefragt, ob uns jemand unterstützen will

@@ -1,0 +1,18 @@
+---
+title: "Die Meldewesenübung"
+toc: false
+---
+
+![](images/funkgeraet.jpg){width=50%}
+
+::: {.callout-tip}
+## Kennst du das IfSG?
+
+[Hier geht es zur Meldewesenübung](https://jakobschumacher.github.io/presentations/2023/01/30/meldewesenuebung.html#1)
+:::
+
+
+::: {.size:6pt}
+Bild-Quelle: Denis Apel http://www.denis-apel.de), CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=16861169
+:::
+

@@ -1,9 +1,0 @@
----
-title: "Das IfSG ist ein Potpurri"
-layout: full
-toc: false
----
-::: {.column-page}
-![](images/ifsg-overview.jpg) 
-:::
-

@@ -1,5 +1,13 @@
 ---
 title: "§ 3 Prävention durch Aufklärung"
+toc: false
 ---
 
+[Hier geht es zum § 3](https://www.gesetze-im-internet.de/ifsg/__3.html)
+
+::: {.callout-tip}
+## Gesetzesauszug
 Die __Information und Aufklärung__ der Allgemeinheit über die Gefahren übertragbarer Krankheiten und die Möglichkeiten zu deren Verhütung sind eine öffentliche Aufgabe. 
+:::
+
+* Hinter _Prävention durch Information und Aufklärung_ steckt ein Gesundheitskonzept, dass meiner Einschätzung nach einer Überarbeitung bedürfte. Wenn das mehr interessiert sei das Thema Psyhologie des Gesundheitsverhaltens ans Herz gelegt. 

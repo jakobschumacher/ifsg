@@ -1,9 +1,15 @@
 ---
 title: "§ 23a Impfstatus"
+toc: false
 ---
 
-
 [Hier geht es zum § 23a](https://www.gesetze-im-internet.de/ifsg/__23a.html)
+
+
+::: {.callout-tip}
+## Gesetzesauszug
+Soweit es zur Erfüllung von Verpflichtungen aus § 23 Absatz 3 in Bezug auf übertragbare Krankheiten erforderlich ist, darf der Arbeitgeber personenbezogene Daten eines Beschäftigten über dessen Impf- und Serostatus verarbeiten, um über die Begründung eines Beschäftigungsverhältnisses oder über die Art und Weise einer Beschäftigung zu entscheiden. 
+:::
 
 
 ::: {.panel-tabset}
@@ -15,6 +21,7 @@ Im Gesundheitsamt gibt es Personen die Ersthausbesuche machen und nicht gegen Ma
 ## Herangehensweise
 * Bei Einstellung ist es leichter darauf zu achten
 * Person an eine Stelle versetzen, bei dem kein Impfschutz notwendig ist
+* Zur Not Versetzung oder Entlassung
 
 :::
 

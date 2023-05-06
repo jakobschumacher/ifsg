@@ -21,7 +21,7 @@ toc: false
 * Information der Landesministerien für Gesundheit
 * Übermittelt innerhalb 24h ans RKI
 
-## Was macht das [RKI](www.rki.de) im Meldewesen
+## Was macht das RKI im Meldewesen
 * Empfängt Übermittlung
 * Ausbruchserkennung (Algorithmen)
 * Falldefinitionen

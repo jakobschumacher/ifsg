@@ -1,9 +1,19 @@
 ---
-title: "§ 1"
+title: "§ 1 Ziel und Rahmen"
+toc: false
 ---
 
-Zweck des Gesetzes ist es, übertragbaren Krankheiten beim Menschen __vorzubeugen__, Infektionen frühzeitig zu __erkennen__ und ihre __Weiterverbreitung zu verhindern__.
+[Hier geht es zum § 1](https://www.gesetze-im-internet.de/ifsg/__1.html)
 
-Die hierfür notwendige Mitwirkung und Zusammenarbeit [...] soll entsprechend dem jeweiligen __Stand der medizinischen und epidemiologischen Wissenschaft und Technik gestaltet und unterstützt werden__. 
+::: {.callout-tip}
+## Gesetzesauszug
+_Zweck des Gesetzes ist es, übertragbaren Krankheiten beim Menschen __vorzubeugen__, Infektionen frühzeitig zu __erkennen__ und ihre __Weiterverbreitung zu verhindern__._
 
-Die __Eigenverantwortung__ der Träger und Leiter von Gemeinschaftseinrichtungen, Lebensmittelbetrieben, Gesundheitseinrichtungen sowie des Einzelnen [...] soll verdeutlicht und gefördert werden.
+_Die hierfür notwendige Mitwirkung und Zusammenarbeit [...] soll entsprechend dem jeweiligen __Stand der medizinischen und epidemiologischen Wissenschaft und Technik gestaltet und unterstützt werden__._ 
+
+_Die __Eigenverantwortung__ der Träger und Leiter von Gemeinschaftseinrichtungen, Lebensmittelbetrieben, Gesundheitseinrichtungen sowie des Einzelnen [...] soll verdeutlicht und gefördert werden._
+:::
+
+* Artikel 1 hilft einem weiter in Zweifelsfällen: Wenn man vor einer Frage steht, wie man agieren soll, findet man hier die Richtung. 
+* Die Mitwirkung und Zusammenarbeit auf dem Stand der Technik ist ein hehres Ziel. Gut verwendbar für "Sonntagsreden" 
+* Hinter dem Fokus auf die __Eigenverantwortung__ steht ein Konzept. Meine Umschreibung: _Der wichtigste Teil des Gesundheitsamtes steckt in den Köpfen unserer Partner_

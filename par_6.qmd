@@ -1,0 +1,25 @@
+---
+title: "§ 6 Die Arztmeldepflicht"
+toc: false
+---
+
+[Hier geht es zum § 6](https://www.gesetze-im-internet.de/ifsg/__6.html)
+
+::: {.callout-tip}
+## Gesetzesauszug
+Namentlich ist zu melden: der Verdacht einer Erkrankung, die Erkrankung sowie der Tod
+
+Die Erkrankung und der Tod in Bezug auf folgende Krankheiten: behandlungsbedürftige Tuberkulose [...],     Clostridioides-difficile-Infektion mit klinisch schwerem Verlauf
+
+Der Verdacht auf und die Erkrankung an einer mikrobiell bedingten Lebensmittelvergiftung
+
+Der Verdacht einer [UAW bei Impfungen]
+
+Die Verletzung eines Menschen durch [...] Tollwut
+
+Der Verdacht einer Erkrankung, die Erkrankung sowie der Tod, in Bezug auf eine bedrohliche übertragbare Krankheit, die nicht bereits nach den Nummern 1 bis 4 meldepflichtig ist.
+
+:::
+
+* Hier gibt es die verschiedenen Meldetatbestände
+* Hier beginnt das Surveillancesystem mit der Meldedefinition: Verdacht, Krankheit, Tod

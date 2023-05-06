@@ -1,25 +1,16 @@
 ---
-title: "§ 16"
+title: "§ 35 Pflegeheime"
+toc: false
 ---
+[Hier geht es zum § 35](https://www.gesetze-im-internet.de/ifsg/__35.html)
 
-
-[Hier geht es zum § 16](https://www.gesetze-im-internet.de/ifsg/__16.html)
-
-
-::: {.panel-tabset}
-
-## Beispielproblem
-Bei einer Praxisbegehung: Der Arzt verwendet rostiges Werkzeug, hat falsches abgelaufenes Händedesinfektionsmittel, geflickte Desinfektionsanlage. Als der Arzt merkt, dass es kritisch wird,  beruft er sich aufs Hausrecht und den Datenschutz und will alles schriftlich. 
-
-
-## Herangehensweise
-
-* Mündlich ausgesprochen: _Ich schließe jetzt ihre Praxis gemäß § 16 IfSG._
-* Kriterien für die Aufhebung der Schließung darstellen. CAVE: Einhaltung von Richtlinien als Ziel 
-* Auf Begehung und Unterlagen bestanden. Zur Not Polzei rufen.
-* Ausführliches Protokoll erstellt, Photos mit Diensthandy gemacht
-* Anordnung § 16 erstellt
-* Rücksprache mit Rechtsamt
-
+::: {.callout-tip}
+## Gesetzesauszug
+* Folgende Einrichtungen [...] haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft und der Pflegewissenschaft erforderlichen Maßnahmen getroffen werden, um Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern zu vermeiden
+1.  vollstationäre Einrichtungen zur Betreuung und Unterbringung älterer, behinderter oder pflegebedürftiger Menschen 
 :::
+
+* Dieser Paragraph ist neu und wertet die Hygiene für Altenheime auf.
+* Während der Pandemie sind noch besondere Paragraphen untergebracht.
+
 

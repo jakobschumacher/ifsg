@@ -3,13 +3,12 @@ title: "§ 25"
 ---
 
 
-
-
-[Hier geht es zum § 25](https://www.gesetze-im-internet.de/ifsg/__25.html)
-
 ::: {.callout-tip}
 ## Gesetzesauszug
 Ergibt sich oder ist anzunehmen, dass jemand krank, krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist [...] so stellt das Gesundheitsamt die erforderlichen Ermittlungen an
+
+[Hier geht es zum § 25](https://www.gesetze-im-internet.de/ifsg/__25.html)
+
 :::
 
 * Dieser Paragraph verpflichtet uns zur Ermittlung

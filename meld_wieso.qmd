@@ -5,6 +5,13 @@ toc: false
 
 ## Das Meldewesen existiert, damit wir Maßnahmen ergreifen!
 
+* Maßnahmen der Gesundheitsämter
+* Maßnahmend er Landesstellen/Bund
+* Maßnahmen des medizinischen Systems
+* Maßnahmen der Bevölkerung
+* Ressourcenallokation
+* Wissenschaft
+
 ## Ziele
 * Fälle erkennen
 * Ausbreitung verhindern
