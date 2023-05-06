@@ -1,0 +1,30 @@
+---
+title: "§ 25"
+---
+
+
+
+
+[Hier geht es zum § 25](https://www.gesetze-im-internet.de/ifsg/__25.html)
+
+::: {.callout-tip}
+## Gesetzesauszug
+Ergibt sich oder ist anzunehmen, dass jemand krank, krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist [...] so stellt das Gesundheitsamt die erforderlichen Ermittlungen an
+:::
+
+* Dieser Paragraph verpflichtet uns zur Ermittlung
+* Es sind uns auch alle Berechtigungen gegeben.
+
+::: {.panel-tabset}
+
+## Beispielproblem
+Bei einem Infektionsschutzgespräch verweigert eine Person die Aussage.
+
+## Herangehensweise
+* Bei weniger wichtigen Erkrankungen ignorieren
+* Bei wichtigen Erkrankungen hinfahren (bsp. Masern)
+* Versuch Infos woanders zu holen, z.B. bei Ärzt*innen
+* Zwang wäre möglich
+
+:::
+

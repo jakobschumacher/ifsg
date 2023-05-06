@@ -2,7 +2,19 @@
 title: "§ 4 Das Robert Koch-Institut"
 ---
 
-[Hier geht es zum § 4](https://www.gesetze-im-internet.de/ifsg/__4.html)
+
+::: {.callout-tip}
+## Gesetzesauszug
+Das Robert Koch-Institut ist die nationale Behörde zur Vorbeugung übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von Infektionen. 
+
+Beim Robert Koch-Institut __wird eine Kontaktstelle für den öffentlichen Gesundheitsdienst der Länder eingerichtet__ [...]
+
+Das Robert Koch-Institut  erstellt im Benehmen mit den jeweils zuständigen Bundesbehörden für Fachkreise als Maßnahme des vorbeugenden Gesundheitsschutzes Richtlinien, __Empfehlungen__, Merkblätter und sonstige Informationen zur Vorbeugung, Erkennung und Verhinderung der Weiterverbreitung übertragbarer Krankheiten
+
+[Hier geht es zum vollständigen § 4](https://www.gesetze-im-internet.de/ifsg/__4.html)
+
+:::
+
 
 Das Robert Koch-Institut ist die nationale Behörde zur Vorbeugung übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von Infektionen. 
 
