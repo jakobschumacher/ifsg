@@ -1,6 +1,7 @@
 ---
-title: "Das IfSG ist geprägt durch Pandemien"
+title: "Prägung des IfSG"
 toc: false
+prefer-html: true
 ---
 
 ## Das IfSG (bzw. seine Vorläufergesetze) sind alt
