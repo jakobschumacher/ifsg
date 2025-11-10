@@ -51,6 +51,10 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y chromium-browser
 
+      - name: Install TinyTeX
+        run: |
+          quarto install tinytex
+
       - name: Render Quarto Project
         run: quarto render
 
