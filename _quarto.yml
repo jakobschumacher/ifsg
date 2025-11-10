@@ -36,6 +36,10 @@ book:
         - content/grundlagen/ifsg_praegung.qmd
         - text: Überblick
           file: content/grundlagen/ifsg_ueberblick.qmd
+        - text: Erstellende
+          file: content/meldewesen/meld_bestimmer.qmd
+        - text: Exkurs Begriffe
+          file: content/meldewesen/meld_begriffe.qmd  
     - part: "Einleitungsparagraphen"
       chapters:
         - text: § 1
@@ -48,14 +52,6 @@ book:
       chapters:
         - text: Schaubild
           file: content/meldewesen/meld_schaubild.qmd
-        - text: Grund für IfSG
-          file: content/meldewesen/meld_wieso.qmd
-        - text: Erstellende
-          file: content/meldewesen/meld_bestimmer.qmd
-        - text: Aufgaben
-          file: content/meldewesen/meld_aufgaben.qmd
-        - text: Exkurs Begriffe
-          file: content/meldewesen/meld_begriffe.qmd
         - text: § 6
           file: content/paragraphen/par_6.qmd
         - text: § 7
