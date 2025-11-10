@@ -45,18 +45,15 @@ typography:
     size: 1em
     line-height: 1.6
     weight: 400
-    color: "#212529"
   headings:
     family: Source Sans Pro
     weight: 600
-    color: "#004085"
     line-height: 1.2
   monospace:
     family: Fira Code
     size: 0.9em
     weight: 400
   link:
-    color: "#0066CC"
     decoration: none
 
 defaults:
