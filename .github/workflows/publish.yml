@@ -74,22 +74,10 @@ jobs:
             echo "Chromium already installed (from cache)"
           fi
 
-      - name: Cache TinyTeX
-        uses: actions/cache@v4
-        with:
-          path: ~/.TinyTeX
-          key: ${{ runner.os }}-tinytex-${{ hashFiles('.github/workflows/publish.yml') }}
-          restore-keys: |
-            ${{ runner.os }}-tinytex-
-
-      - name: Install TinyTeX
-        run: |
-          if [ ! -d ~/.TinyTeX ]; then
-            quarto install tinytex
-          else
-            echo "TinyTeX already installed (from cache)"
-            echo "$HOME/.TinyTeX/bin/x86_64-linux" >> $GITHUB_PATH
-          fi
+      - name: Setup TinyTeX
+        uses: r-lib/actions/setup-tinytex@v2
+        env:
+          TINYTEX_INSTALLER: TinyTeX
 
       - name: Render Quarto Project
         run: quarto render
