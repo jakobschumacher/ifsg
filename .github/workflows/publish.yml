@@ -69,10 +69,12 @@ jobs:
         run: |
           if ! command -v chromium-browser &> /dev/null; then
             sudo apt-get update
-            sudo apt-get install -y chromium-browser
+            sudo apt-get install -y chromium-browser chromium-chromedriver
           else
             echo "Chromium already installed (from cache)"
           fi
+          # Verify Chromium can start
+          chromium-browser --version || echo "Chromium version check failed"
 
       - name: Setup TinyTeX
         uses: r-lib/actions/setup-tinytex@v2
@@ -81,6 +83,9 @@ jobs:
 
       - name: Render Quarto Project
         run: quarto render
+        env:
+          CHROMOTE_CHROME: /usr/bin/chromium-browser
+          CHROMOTE_CHROME_ARGS: --no-sandbox --disable-gpu --disable-dev-shm-usage
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
