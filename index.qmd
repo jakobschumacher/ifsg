@@ -4,7 +4,7 @@
 * Aufgabe: Infektionskrankheiten verhindern
 * Der wichtigste Teil des Gesundheitsamtes steckt in den Köpfen unserer Partner.
 * Wir müssen den Infektionsnotfall üben
-* Wir dürfen alles nach § 16
+* Wir dürfen (fast) alles nach § 16
 * Wir müssen - und dürfen auch - nach § 25 ermitteln
 * Das Meldewesen existiert damit wir Maßnahmen ergreifen
 * Zusammenarbeit schlägt Meldepflicht (außer im Schadensfall)
