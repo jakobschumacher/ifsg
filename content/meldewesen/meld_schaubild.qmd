@@ -1,8 +1,8 @@
 ---
 title: ""
 toc: false
-sidebar: false
+lightbox: true
 ---
-::: {.column-screen}
-![](/images/uebersicht.png) 
-:::
+
+![Schaubild des deutschen Meldewesens](/images/uebersicht.png) 
+
