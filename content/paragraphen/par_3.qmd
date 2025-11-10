@@ -10,4 +10,4 @@ toc: false
 Die __Information und Aufklärung__ der Allgemeinheit über die Gefahren übertragbarer Krankheiten und die Möglichkeiten zu deren Verhütung sind eine öffentliche Aufgabe. 
 :::
 
-* Hinter _Prävention durch Information und Aufklärung_ steckt ein Gesundheitskonzept, dass meiner Einschätzung nach einer Überarbeitung bedürfte. Wenn das mehr interessiert sei das Thema Psyhologie des Gesundheitsverhaltens ans Herz gelegt. 
+* Hinter _Prävention durch Information und Aufklärung_ steckt ein Gesundheitskonzept, dass meiner Einschätzung nach einer Überarbeitung bedürfte. Wenn das mehr interessiert sei das Thema Psychologie des Gesundheitsverhaltens ans Herz gelegt. 
