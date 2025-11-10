@@ -1,9 +1,8 @@
 ---
 title: ""
 toc: false
-sidebar: false
+lightbox: true
 ---
-::: {.column-screen}
-![](/images/overviewgraph.jpg)
-:::
+![Überblick über das IfSG](/images/overviewgraph.jpg)
+
 
