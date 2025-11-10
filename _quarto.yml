@@ -30,79 +30,79 @@ book:
     - index.qmd
     - part: "Grundlagen"
       chapters:
-        - ifsg_einordnung.qmd
-        - ifsg_praegung.qmd
+        - content/grundlagen/ifsg_einordnung.qmd
+        - content/grundlagen/ifsg_praegung.qmd
         - text: Überblick
-          file: ifsg_ueberblick.qmd
+          file: content/grundlagen/ifsg_ueberblick.qmd
     - part: "Das Meldewesen"
       chapters:
         - text: Schaubild
-          file: meld_schaubild.qmd
+          file: content/meldewesen/meld_schaubild.qmd
         - text: Grund für IfSG
-          file: meld_wieso.qmd
+          file: content/meldewesen/meld_wieso.qmd
         - text: Erstellende
-          file: meld_bestimmer.qmd
+          file: content/meldewesen/meld_bestimmer.qmd
         - text: Aufgaben
-          file: meld_aufgaben.qmd
+          file: content/meldewesen/meld_aufgaben.qmd
         - text: Pflichtige
-          file: meld_pflichtige.qmd
+          file: content/meldewesen/meld_pflichtige.qmd
         - text: Exkurs Begriffe
-          file: meld_begriffe.qmd
+          file: content/meldewesen/meld_begriffe.qmd
     - part: "Einleitungsparagraphen"
       chapters:
         - text: § 1
-          file: par_1.qmd
+          file: content/paragraphen/par_1.qmd
         - text: § 3
-          file: par_3.qmd
+          file: content/paragraphen/par_3.qmd
         - text: § 4
-          file: par_4.qmd
+          file: content/paragraphen/par_4.qmd
     - part: "Überwachung"
       chapters:
         - text: § 6
-          file: par_6.qmd
+          file: content/paragraphen/par_6.qmd
         - text: § 7
-          file: par_7.qmd
+          file: content/paragraphen/par_7.qmd
         - text: § 8
-          file: par_8.qmd
+          file: content/paragraphen/par_8.qmd
         - text: § 12
-          file: par_12.qmd
+          file: content/paragraphen/par_12.qmd
     - part: "Verhütung"
       chapters:
         - text: § 16
-          file: par_16.qmd
+          file: content/paragraphen/par_16.qmd
         - text: § 20
-          file: par_20.qmd
+          file: content/paragraphen/par_20.qmd
         - text: § 23
-          file: par_23.qmd
+          file: content/paragraphen/par_23.qmd
         - text: § 23a
-          file: par_23a.qmd
+          file: content/paragraphen/par_23a.qmd
     - part: "Bekämpfung"
       chapters:
         - text: § 25
-          file: par_25.qmd
+          file: content/paragraphen/par_25.qmd
         - text: § 28
-          file: par_28.qmd
+          file: content/paragraphen/par_28.qmd
     - part: "Einrichtungen"
       chapters:
         - text: § 34
-          file: par_34.qmd
+          file: content/paragraphen/par_34.qmd
         - text: § 35
-          file: par_35.qmd
+          file: content/paragraphen/par_35.qmd
         - text: § 36
-          file: par_36.qmd
+          file: content/paragraphen/par_36.qmd
         - text: § 73
-          file: par_73.qmd
+          file: content/paragraphen/par_73.qmd
     - part: "Die Flughafenübung"
       chapters:
-        - file: ueb_flughafen.qmd
+        - file: content/uebungen/ueb_flughafen.qmd
         - text: Übung zum Meldewesen
-          file: ueb_meldungen.qmd
+          file: content/uebungen/ueb_meldungen.qmd
     - part: "Diskussion"
       chapters:
         - text: Wieso sind unsere Schreiben so unverständlich?
-          file: disk_unverstaendlich.qmd
-        - disk_praevention.qmd
-        - disk_meldemoral.qmd
+          file: content/diskussion/disk_unverstaendlich.qmd
+        - content/diskussion/disk_praevention.qmd
+        - content/diskussion/disk_meldemoral.qmd
 
 
 format:

@@ -9,3 +9,6 @@
 docs/
 _book/
 _site/
+
+# Quarto generated files (figure outputs, libs, etc.)
+*_files/
