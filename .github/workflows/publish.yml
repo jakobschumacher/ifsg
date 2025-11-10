@@ -4,6 +4,13 @@ on:
   push:
     branches:
       - main
+    paths:
+      - '**.qmd'
+      - '_quarto.yml'
+      - '_brand.yml'
+      - 'images/**'
+      - 'data/**'
+      - '.github/workflows/publish.yml'
   workflow_dispatch:
 
 permissions:
@@ -37,8 +44,9 @@ jobs:
         uses: actions/cache@v4
         with:
           path: ${{ env.R_LIBS_USER }}
-          key: ${{ runner.os }}-r-${{ hashFiles('**/DESCRIPTION') }}-${{ hashFiles('.github/workflows/publish.yml') }}
+          key: ${{ runner.os }}-r-4.3.1-${{ hashFiles('.github/workflows/publish.yml') }}
           restore-keys: |
+            ${{ runner.os }}-r-4.3.1-
             ${{ runner.os }}-r-
 
       - name: Install R packages
@@ -82,7 +90,14 @@ jobs:
           TINYTEX_INSTALLER: TinyTeX
 
       - name: Render Quarto Project
-        run: quarto render
+        run: |
+          if [[ "$GITHUB_REF" == refs/tags/* ]]; then
+            echo "Tag detected - rendering all formats (HTML, PDF, EPUB)"
+            quarto render
+          else
+            echo "Regular commit - rendering HTML only (faster build)"
+            quarto render --to html
+          fi
         env:
           CHROMOTE_CHROME: /usr/bin/chromium-browser
           CHROMOTE_CHROME_ARGS: --no-sandbox --disable-gpu --disable-dev-shm-usage
