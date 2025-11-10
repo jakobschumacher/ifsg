@@ -61,8 +61,6 @@ defaults:
     format:
       html:
         theme: cosmo
-        toc: true
-        toc-depth: 3
         code-copy: true
         code-overflow: wrap
       pdf:
