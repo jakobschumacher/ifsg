@@ -4,5 +4,5 @@ toc: false
 sidebar: false
 ---
 ::: {.column-screen}
-![](images/uebersicht.png) 
+![](/images/uebersicht.png) 
 :::
