@@ -21,7 +21,6 @@ book:
     background: light
     collapse-level: 1
   repo-url: https://github.com/jakobschumacher/ifsg
-  repo-actions: [edit]
   downloads: [pdf, epub]
   page-footer:
     left: Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD - von Jakob Schumacher
