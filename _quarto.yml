@@ -17,7 +17,7 @@ book:
   favicon: images/logo.png
   sidebar:
     style: floating
-    logo: images/dalle_city.png
+    logo: images/logo.png
     background: light
     collapse-level: 1
   repo-url: https://github.com/jakobschumacher/ifsg
