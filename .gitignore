@@ -12,3 +12,6 @@ _site/
 
 # Quarto generated files (figure outputs, libs, etc.)
 *_files/
+
+# Quarto freeze cache (execution results cache)
+/_freeze/

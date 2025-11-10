@@ -2,6 +2,9 @@ project:
   type: book
   output-dir: docs
 
+execute:
+  freeze: auto  # Cache R code execution - only re-run when files change
+
 brand: _brand.yml
 
 lang: de
