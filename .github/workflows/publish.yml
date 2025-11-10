@@ -22,20 +22,28 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup R
-        uses: r-lib/actions/setup-r@v2
-        with:
-          r-version: '4.3.1'
-
-      - name: Install R packages
-        run: |
-          install.packages(c("rmarkdown", "knitr", "tidyverse", "lubridate", "readr", "here", "plotly"))
-        shell: Rscript {0}
-
       - name: Setup Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
           version: 'pre-release'
+
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
+        with:
+          r-version: '4.3.1'
+          use-public-rspm: true
+
+      - name: Install R packages
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          packages: |
+            any::rmarkdown
+            any::knitr
+            any::tidyverse
+            any::lubridate
+            any::readr
+            any::here
+            any::plotly
 
       - name: Render Quarto Project
         run: quarto render
