@@ -34,7 +34,15 @@ book:
         - content/grundlagen/ifsg_praegung.qmd
         - text: Überblick
           file: content/grundlagen/ifsg_ueberblick.qmd
-    - part: "Das Meldewesen"
+    - part: "Einleitungsparagraphen"
+      chapters:
+        - text: § 1
+          file: content/paragraphen/par_1.qmd
+        - text: § 3
+          file: content/paragraphen/par_3.qmd
+        - text: § 4
+          file: content/paragraphen/par_4.qmd
+    - part: "Meldewesen"
       chapters:
         - text: Schaubild
           file: content/meldewesen/meld_schaubild.qmd
@@ -44,20 +52,8 @@ book:
           file: content/meldewesen/meld_bestimmer.qmd
         - text: Aufgaben
           file: content/meldewesen/meld_aufgaben.qmd
-        - text: Pflichtige
-          file: content/meldewesen/meld_pflichtige.qmd
         - text: Exkurs Begriffe
           file: content/meldewesen/meld_begriffe.qmd
-    - part: "Einleitungsparagraphen"
-      chapters:
-        - text: § 1
-          file: content/paragraphen/par_1.qmd
-        - text: § 3
-          file: content/paragraphen/par_3.qmd
-        - text: § 4
-          file: content/paragraphen/par_4.qmd
-    - part: "Überwachung"
-      chapters:
         - text: § 6
           file: content/paragraphen/par_6.qmd
         - text: § 7
