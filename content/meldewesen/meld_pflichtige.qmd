@@ -2,6 +2,6 @@
 title: "Meldepflichtige"
 toc: false
 ---
-![](images/meldeschaubild-einfach.png)
+![](/images/meldeschaubild-einfach.png)
 
-![](images/meldeschaubild-kompliziert.png)
+![](/images/meldeschaubild-kompliziert.png)

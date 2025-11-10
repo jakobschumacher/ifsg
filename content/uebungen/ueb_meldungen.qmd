@@ -3,7 +3,7 @@ title: "Die Meldewesenübung"
 toc: false
 ---
 
-![](images/funkgeraet.jpg){width=50%}
+![](/images/funkgeraet.jpg){width=50%}
 
 ::: {.callout-tip}
 ## Kennst du das IfSG?

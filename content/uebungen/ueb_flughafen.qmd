@@ -2,7 +2,7 @@
 title: "Die Flughafenübung"
 toc: false
 ---
-![](images/flughafen.jpg)
+![](/images/flughafen.jpg)
 
 ::: {.callout-tip}
 ## Kennst du das IfSG?

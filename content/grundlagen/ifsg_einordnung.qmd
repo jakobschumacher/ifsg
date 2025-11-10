@@ -38,7 +38,7 @@ ggplotly(g) %>% config(displayModeBar = F)
 
 
 ## Das IfSG ist Teil des Ordnungsrechtes
-![](images/schiedsrichter.jpg){width=50%}
+![](/images/schiedsrichter.jpg){width=50%}
 
 _Das Ordnungsrecht kann man verstehen wie ein die Arbeit eines Linienrichters im Fußball: Aufgaben (Abseitserkennung, Ball-Aus-Erkennung); Eigene Regeln (Darf das Spielfeld nicht betreten, Unabhängigkeitsgrundsatz); Maßnahmen (Fahne heben und Tor für ungültig erklären); Bestrafungen (Gelbe Karte, Rote Karte)_
 

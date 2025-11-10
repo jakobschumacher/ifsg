@@ -11,7 +11,7 @@ prefer-html: true
 
 
 ## Metapher: Ständig weiterentwickelte Kaserne
-![](images/kaserne.jpg) 
+![](/images/kaserne.jpg) 
 
 ## Einflussreiche Epidemien in Deutschland
 * Tuberkulose, Cholera, Pest = Seuchengesetz insgesamt §16, §28-31

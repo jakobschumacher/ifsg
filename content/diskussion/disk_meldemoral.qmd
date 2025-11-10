@@ -3,4 +3,4 @@ title: "Wieso aktzeptieren wir die schlechte Meldemoral von Ärzt*innen?"
 toc: false
 ---
 
-![](images/aeskulap.png){width=30%}
+![](/images/aeskulap.png){width=30%}
