@@ -44,6 +44,12 @@ jobs:
             any::readr
             any::here
             any::plotly
+            any::webshot2
+
+      - name: Install Chrome for webshot2
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y chromium-browser
 
       - name: Render Quarto Project
         run: quarto render
