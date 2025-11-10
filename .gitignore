@@ -4,3 +4,8 @@
 .Ruserdata
 
 /.quarto/
+
+# Build output directories (handled by GitHub Actions)
+docs/
+_book/
+_site/

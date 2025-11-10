@@ -1,6 +1,0 @@
----
-title: "About"
----
-
-Jakob Schumacher
-[www.jakiva.de](https://jakiva.de)
