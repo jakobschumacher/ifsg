@@ -4,5 +4,52 @@ toc: false
 lightbox: true
 ---
 
+```{mermaid}
+---
+config:
+  theme: redux
+  layout: fixed
+---
+flowchart LR
+    GA(["Gesundheitsämter"]) -- <br> --> LA["Landesämter"]
+    RKI(["Robert Koch-Institut"]) --> EU(["Europa"])
+    LA -- <br> --> POL(["Bevölkerung & Politik"])
+    RKI -- <br> --> POL
+    MELD(["Meldende"]) --> GA & RKI
+    GA --> POL
+    POL --> MELD
+    LA --> RKI
+    n1[" "]
+    n2[" "]
+    n3[" "]
+    n4[" "]
+    n5["Maßnahmen in rot"]
+    n6["Informationsfluß in schwarz"]
+    LA@{ shape: rounded}
+    n1@{ shape: anchor}
+    n2@{ shape: anchor}
+    n3@{ shape: anchor}
+    n4@{ shape: anchor}
+    n5@{ shape: text}
+    n6@{ shape: text}
+     GA:::data
+     GA:::rec
+     GA:::report
+     LA:::data
+     LA:::rec
+     RKI:::data
+     RKI:::data
+     EU:::data
+     POL:::data
+     POL:::rec
+     POL:::report
+    style n5 fill:transparent,stroke:none,color:#D50000
+    linkStyle 2 stroke:#D50000,fill:none
+    linkStyle 3 stroke:#D50000,fill:none
+    linkStyle 6 stroke:#D50000,fill:none
+```
+
+
+
 ![Schaubild des deutschen Meldewesens](/images/uebersicht.png) 
 
