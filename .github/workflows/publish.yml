@@ -33,9 +33,18 @@ jobs:
           r-version: '4.3.1'
           use-public-rspm: true
 
+      - name: Cache R packages
+        uses: actions/cache@v4
+        with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-r-${{ hashFiles('**/DESCRIPTION') }}-${{ hashFiles('.github/workflows/publish.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-r-
+
       - name: Install R packages
         uses: r-lib/actions/setup-r-dependencies@v2
         with:
+          cache: true
           packages: |
             any::rmarkdown
             any::knitr
@@ -46,14 +55,41 @@ jobs:
             any::plotly
             any::webshot2
 
+      - name: Cache apt packages
+        uses: actions/cache@v4
+        with:
+          path: |
+            /var/cache/apt/archives
+            /usr/bin/chromium-browser
+          key: ${{ runner.os }}-apt-chromium-${{ hashFiles('.github/workflows/publish.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-apt-chromium-
+
       - name: Install Chrome for webshot2
         run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser
+          if ! command -v chromium-browser &> /dev/null; then
+            sudo apt-get update
+            sudo apt-get install -y chromium-browser
+          else
+            echo "Chromium already installed (from cache)"
+          fi
+
+      - name: Cache TinyTeX
+        uses: actions/cache@v4
+        with:
+          path: ~/.TinyTeX
+          key: ${{ runner.os }}-tinytex-${{ hashFiles('.github/workflows/publish.yml') }}
+          restore-keys: |
+            ${{ runner.os }}-tinytex-
 
       - name: Install TinyTeX
         run: |
-          quarto install tinytex
+          if [ ! -d ~/.TinyTeX ]; then
+            quarto install tinytex
+          else
+            echo "TinyTeX already installed (from cache)"
+            echo "$HOME/.TinyTeX/bin/x86_64-linux" >> $GITHUB_PATH
+          fi
 
       - name: Render Quarto Project
         run: quarto render

@@ -2,6 +2,8 @@ project:
   type: book
   output-dir: docs
 
+brand: _brand.yml
+
 lang: de
 
 

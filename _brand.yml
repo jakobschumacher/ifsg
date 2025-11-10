@@ -1,0 +1,73 @@
+meta:
+  name: IfSG & ÖGD Branding
+  description: Brand guidelines for the IfSG and Public Health teaching materials
+  links:
+    home: https://github.com/jakobschumacher/ifsg
+
+logo:
+  images:
+    small: images/logo.png
+    medium: images/aeskulap.png
+    large: images/dalle_city.png
+  small: small
+  medium: medium
+  large: large
+
+color:
+  palette:
+    # Public health and medical colors - professional and trustworthy
+    health-blue: "#0066CC"      # Primary medical blue
+    health-green: "#28A745"     # Success/safety green
+    warning-yellow: "#FFC107"   # Warning/caution yellow
+    alert-red: "#DC3545"        # Alert/danger red
+    deep-blue: "#004085"        # Deep professional blue
+    light-blue: "#E7F3FF"       # Light background blue
+    text-dark: "#212529"        # Dark text
+    text-muted: "#6C757D"       # Muted text
+  primary: health-blue
+  secondary: deep-blue
+  success: health-green
+  warning: warning-yellow
+  danger: alert-red
+  foreground: text-dark
+  background: "#FFFFFF"
+
+typography:
+  fonts:
+    - family: Open Sans
+      source: google
+    - family: Source Sans Pro
+      source: google
+    - family: Fira Code
+      source: google
+  base:
+    family: Open Sans
+    size: 1em
+    line-height: 1.6
+    weight: 400
+    color: text-dark
+  headings:
+    family: Source Sans Pro
+    weight: 600
+    color: deep-blue
+    line-height: 1.2
+  monospace:
+    family: Fira Code
+    size: 0.9em
+    weight: 400
+  link:
+    color: health-blue
+    decoration: none
+
+defaults:
+  quarto:
+    format:
+      html:
+        theme: cosmo
+        toc: true
+        toc-depth: 3
+        code-copy: true
+        code-overflow: wrap
+      pdf:
+        documentclass: scrbook
+        keep-tex: false
