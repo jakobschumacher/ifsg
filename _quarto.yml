@@ -14,7 +14,7 @@ book:
   title: "IfSG & ÖGD"
   subtitle: "Unterricht für den ÖGD"
   author: "Jakob Schumacher"
-  date: "30 Januar 2023"
+  date: last-modified
   description: Dies ist ein Mini-Lehrbuch für den Öffentlichen Gesundheitsdienst (ÖGD). Es beinhaltet Hintergrundinformationen zum Infektionsschutzgesetz (IfSG) und zum Meldewesen.
   search: true
   output-file: "Mini-Lehrbuch_Infektionsschutzgesetz"
