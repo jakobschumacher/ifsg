@@ -50,8 +50,7 @@ g <- ggplot(df, aes(Jahr, fill = "blue")) +
         legend.position = "none")
 
 
-# Interaktiv für HTML, statisch für PDF
-if (knitr::is_latex_output()) {
+if (knitr::is_latex_output() || knitr::pandoc_to("epub")) {
   print(g)
 } else {
   ggplotly(g) %>% config(displayModeBar = FALSE)

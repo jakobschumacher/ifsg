@@ -40,8 +40,7 @@ g <- ggplot(df, aes(x = Inhalt, y = Aufwand, fill = Inhalt)) +
         plot.background = element_rect(fill = "transparent", color = NA),
         legend.position = "none")
 
-# Interaktiv für HTML, statisch für PDF
-if (knitr::is_latex_output()) {
+if (knitr::is_latex_output() || knitr::pandoc_to("epub")) {
   print(g)
 } else {
   ggplotly(g) %>% config(displayModeBar = FALSE)

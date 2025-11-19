@@ -17,7 +17,7 @@ book:
   date: "30 Januar 2023"
   description: Dies ist ein Mini-Lehrbuch für den Öffentlichen Gesundheitsdienst (ÖGD). Es beinhaltet Hintergrundinformationen zum Infektionsschutzgesetz (IfSG) und zum Meldewesen.
   search: true
-  output-file: "Mini-Lehrbuch_Infektionsschutzgesetz.pdf"
+  output-file: "Mini-Lehrbuch_Infektionsschutzgesetz"
   favicon: images/logo.png
   sidebar:
     style: floating
@@ -107,6 +107,7 @@ book:
 
 
 format:
+  epub: default
   html:
     theme: Zephyr
     toc: false
