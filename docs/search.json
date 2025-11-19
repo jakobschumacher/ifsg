@@ -4,19 +4,29 @@
     "href": "index.html",
     "title": "IfSG & ÖGD",
     "section": "",
-    "text": "Die wichtigsten Punkte",
+    "text": "Zielgruppe\nDas Infektionsschutzgesetz ist das zentrale Werkzeug im Infektionsschutz des Öffentlichen Gesundheitsdienstes. Dieses Mini-Lehrbuch bietet einen praxisnahen Einstieg in die wichtigsten Paragraphen und zeigt, wie das IfSG im Gesundheitsamt konkret angewendet wird. Das Mini-Lehrbuch ist primär für die Schulung im Weiterbildungskurs gedacht. Dabei liegt der Schwerpunkt auf die praktische Arbeit: Wann darf das Gesundheitsamt was?\nAus dem Inhalt:",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Die wichtigsten Punkte</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Einleitung</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#zielgruppe",
+    "href": "index.html#zielgruppe",
+    "title": "IfSG & ÖGD",
+    "section": "",
+    "text": "Ärztinnen und Ärzte im Weiterbildungskurs zum Facharzt öffentliches Gesundheitswesen",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Einleitung</span>"
     ]
   },
   {
     "objectID": "index.html#die-wichtigsten-punkte",
     "href": "index.html#die-wichtigsten-punkte",
     "title": "IfSG & ÖGD",
-    "section": "",
-    "text": "Aufgabe: Infektionskrankheiten verhindern\nDer wichtigste Teil des Gesundheitsamtes steckt in den Köpfen unserer Partner.\nWir müssen den Infektionsnotfall üben\nWir dürfen (fast) alles nach § 16\nWir müssen - und dürfen auch - nach § 25 ermitteln\nDas Meldewesen existiert damit wir Maßnahmen ergreifen\nZusammenarbeit schlägt Meldepflicht (außer im Schadensfall)",
+    "section": "Die wichtigsten Punkte",
+    "text": "Die wichtigsten Punkte\n\nAufgabe: Infektionskrankheiten verhindern\nDer wichtigste Teil des Gesundheitsamtes steckt in den Köpfen unserer Partner.\nWir müssen den Infektionsnotfall üben\nWir dürfen (fast) alles nach § 16\nWir müssen - und dürfen auch - nach § 25 ermitteln\nDas Meldewesen existiert damit wir Maßnahmen ergreifen\nZusammenarbeit schlägt Meldepflicht (außer im Schadensfall)",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Die wichtigsten Punkte</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Einleitung</span>"
     ]
   },
   {
@@ -26,7 +36,7 @@
     "section": "Limitationen",
     "text": "Limitationen\nHier werden Sichtweisen von Jakob Schumacher dargestellt. Es gibt keinen Anspruch auf Vollständigkeit oder Richtigkeit. Das IfSG verändert sich schnell und die Webseite kann also leicht veralten. Außerdem stellt dies die praktische Sicht auf das IfSG dar. Der Autor ist kein Jurist. Also: Benutzung auf eigene Gefahr.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Die wichtigsten Punkte</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Einleitung</span>"
     ]
   },
   {
@@ -36,7 +46,7 @@
     "section": "Danksagungen",
     "text": "Danksagungen\n\nDen Ausbidlungsprogrammen PAE und WBK\nPosit (für die Software RStudio und Quarto)\nGithub (für das Hosting)\nFreelogo online (für das Logo)\nWikipedia (für die Bilder)",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Die wichtigsten Punkte</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Einleitung</span>"
     ]
   },
   {

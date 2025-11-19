@@ -36,7 +36,8 @@ book:
       - text: "Impressum"
         href: about.html
   chapters:
-    - index.qmd
+    - text: "Einleitung"
+      file: index.qmd
     - part: "Grundlagen"
       chapters:
         - content/grundlagen/ifsg_einordnung.qmd

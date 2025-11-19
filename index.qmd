@@ -1,6 +1,16 @@
 
+Das Infektionsschutzgesetz ist das zentrale Werkzeug im Infektionsschutz des Öffentlichen Gesundheitsdienstes. Dieses Mini-Lehrbuch bietet einen praxisnahen Einstieg in die wichtigsten Paragraphen und zeigt, wie das IfSG im Gesundheitsamt konkret angewendet wird. Das Mini-Lehrbuch ist primär für die Schulung im Weiterbildungskurs gedacht. Dabei liegt der Schwerpunkt auf die praktische Arbeit: Wann darf das Gesundheitsamt was? 
 
+Aus dem Inhalt:
 
+- Grundlagen: Einordnung des IfSG ins deutsche Rechtssystem und seine historische Prägung
+- Meldewesen: Arzt- und Labormeldepflicht, Surveillance-Systeme und der Weg der Daten
+Verhütung und Bekämpfung
+- Praxisbeispiele: Konkrete Fallsituationen mit Lösungsansätzen – vom Ebola-Verdacht bis zum Shigellose-Ausbruch
+- Übungen zum eigenen Verständnis
+
+## Zielgruppe
+- Ärztinnen und Ärzte im Weiterbildungskurs zum Facharzt öffentliches Gesundheitswesen
 
 ## Die wichtigsten Punkte
 * Aufgabe: Infektionskrankheiten verhindern
@@ -10,7 +20,6 @@
 * Wir müssen - und dürfen auch - nach § 25 ermitteln
 * Das Meldewesen existiert damit wir Maßnahmen ergreifen
 * Zusammenarbeit schlägt Meldepflicht (außer im Schadensfall)
-
 
 ## Limitationen
 Hier werden Sichtweisen von Jakob Schumacher dargestellt. Es gibt keinen Anspruch auf Vollständigkeit oder Richtigkeit. Das IfSG verändert sich schnell und die Webseite kann also leicht veralten. Außerdem stellt dies die praktische Sicht auf das IfSG dar. Der Autor ist kein Jurist. Also: Benutzung auf eigene Gefahr.
