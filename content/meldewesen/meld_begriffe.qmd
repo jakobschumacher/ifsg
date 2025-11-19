@@ -1,9 +1,4 @@
----
-title: "Meldebegriffe"
-toc: false
----
-
-# Exkurs 
+# "Meldebegriffe"
 
 * __Meldung__: vom Meldepflichtigen an das Gesundheitsamt
 * __Benachrichtigung__: Von Gemeinschaftseinrichtungen an das Gesundheitsamt

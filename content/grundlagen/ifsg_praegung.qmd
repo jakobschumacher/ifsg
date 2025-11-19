@@ -26,7 +26,10 @@ require("tidyverse")
 require("lubridate")
 require("readr")
 require("here")
-require("plotly")
+# plotly nur laden wenn HTML-Output
+if (!knitr::is_latex_output()) {
+  require("plotly")
+}
 
 df <- read.csv(here("data/ifsg-aenderungen.csv")) %>% 
   mutate(Datum = stringr::str_remove(Datum, pattern="\\((.*?)\\)")) %>% 
@@ -45,7 +48,15 @@ g <- ggplot(df, aes(Jahr, fill = "blue")) +
         panel.grid.minor = element_blank(),
         plot.background = element_rect(fill = "transparent", color = NA),
         legend.position = "none")
-ggplotly(g) %>% config(displayModeBar = F)
+
+
+# Interaktiv für HTML, statisch für PDF
+if (knitr::is_latex_output()) {
+  print(g)
+} else {
+  ggplotly(g) %>% config(displayModeBar = FALSE)
+}
+
 
 ```
 

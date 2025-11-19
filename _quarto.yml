@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 execute:
-  freeze: auto  # Cache R code execution - only re-run when files change
+  freeze: true  
 
 brand: _brand.yml
 
@@ -17,6 +17,7 @@ book:
   date: "30 Januar 2023"
   description: Dies ist ein Mini-Lehrbuch für den Öffentlichen Gesundheitsdienst (ÖGD). Es beinhaltet Hintergrundinformationen zum Infektionsschutzgesetz (IfSG) und zum Meldewesen.
   search: true
+  output-file: "Mini-Lehrbuch_Infektionsschutzgesetz.pdf"
   favicon: images/logo.png
   sidebar:
     style: floating
@@ -27,7 +28,13 @@ book:
   downloads: [pdf, epub]
   page-footer:
     left: Das Infektionsschutzgesetz - Unterrichtsmaterial für den ÖGD - von Jakob Schumacher
-    right: 'Buch erstellt mit <a href="https://quarto.org/">Quarto</a>. Lizenz: [MIT-Lizenz](LICENSE.md). [Impressum](about.qmd)'  
+    right: 
+      - text: "Buch erstellt mit Quarto"
+        href: https://quarto.org/
+      - text: "Lizenz: MIT"
+        href: LICENSE.html
+      - text: "Impressum"
+        href: about.html
   chapters:
     - index.qmd
     - part: "Grundlagen"
@@ -106,6 +113,17 @@ format:
     number-sections: false
   pdf: 
     documentclass: scrbook
-  
+    classoption: [oneside, 11pt, a4paper]
+    geometry:
+      - inner=2cm
+      - outer=2cm
+      - top=2cm
+      - bottom=2cm
+      - headsep=22pt
+      - headheight=11pt
+      - footskip=33pt
+      - ignorehead
+      - ignorefoot
+      - heightrounded
 
     

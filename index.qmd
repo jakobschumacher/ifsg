@@ -1,6 +1,8 @@
 
 
-# Die wichtigsten Punkte
+
+
+## Die wichtigsten Punkte
 * Aufgabe: Infektionskrankheiten verhindern
 * Der wichtigste Teil des Gesundheitsamtes steckt in den Köpfen unserer Partner.
 * Wir müssen den Infektionsnotfall üben
@@ -10,10 +12,10 @@
 * Zusammenarbeit schlägt Meldepflicht (außer im Schadensfall)
 
 
-# Limitationen
+## Limitationen
 Hier werden Sichtweisen von Jakob Schumacher dargestellt. Es gibt keinen Anspruch auf Vollständigkeit oder Richtigkeit. Das IfSG verändert sich schnell und die Webseite kann also leicht veralten. Außerdem stellt dies die praktische Sicht auf das IfSG dar. Der Autor ist kein Jurist. Also: Benutzung auf eigene Gefahr.
 
-# Danksagungen
+## Danksagungen
 * Den Ausbidlungsprogrammen PAE und WBK
 * Posit (für die Software RStudio und Quarto)
 * Github (für das Hosting)

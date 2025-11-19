@@ -17,14 +17,21 @@ toc: false
 ## Das IfSG ist zentral im Infektionsschutz
 ```{r, echo=FALSE, results='asis', warning=FALSE, error=FALSE, message=FALSE}
 require("tidyverse")
-require("plotly")
-var_inhalte = c( "Hygiene", "Meldungen", "Trinkwasser", "Schädlinge", "Katastrophenschutz", "Umwelmedizin")
-df <- data.frame(Inhalt = factor(var_inhalte, ordered = TRUE, levels = var_inhalte), Aufwand = c(3.2,3,2,0.75, 0.25, 0.25 ))
-g <- ggplot(df, aes(x=Inhalt, y = Aufwand, fill=Inhalt)) + 
+
+# plotly nur laden wenn HTML-Output
+if (!knitr::is_latex_output()) {
+  require("plotly")
+}
+
+var_inhalte = c("Hygiene", "Meldungen", "Trinkwasser", "Schädlinge", "Katastrophenschutz", "Umweltmedizin")
+df <- data.frame(Inhalt = factor(var_inhalte, ordered = TRUE, levels = var_inhalte), 
+                 Aufwand = c(3.2, 3, 2, 0.75, 0.25, 0.25))
+
+g <- ggplot(df, aes(x = Inhalt, y = Aufwand, fill = Inhalt)) + 
   geom_bar(stat = "identity") + 
   theme_classic() +
-  ggtitle("Subjektive Aufteilung des Infektionsschutzbereich eines Berliner Gesundheitsamtes") +
-  labs(x = NULL, y="Geschätzter Aufwand") +
+  ggtitle("Subjektive Aufteilung des Infektionsschutzbereichs eines Berliner Gesundheitsamtes") +
+  labs(x = NULL, y = "Geschätzter Aufwand") +
   theme(legend.background = element_rect(fill = "transparent"),
         legend.box.background = element_rect(fill = "transparent"),
         panel.background = element_rect(fill = "transparent"),
@@ -32,7 +39,13 @@ g <- ggplot(df, aes(x=Inhalt, y = Aufwand, fill=Inhalt)) +
         panel.grid.minor = element_blank(),
         plot.background = element_rect(fill = "transparent", color = NA),
         legend.position = "none")
-ggplotly(g) %>% config(displayModeBar = F)
+
+# Interaktiv für HTML, statisch für PDF
+if (knitr::is_latex_output()) {
+  print(g)
+} else {
+  ggplotly(g) %>% config(displayModeBar = FALSE)
+}
 ```
 
 

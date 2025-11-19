@@ -1,10 +1,6 @@
 ---
-title: ""
-toc: false
-sidebar: false
+title: "Wieso sind unsere Schreiben so unverständlich"
 ---
-::: {.column-screen}
+
 ![](/images/anordnung.jpg)
 
-![](/images/amtsschreiben.jpg)
-:::
