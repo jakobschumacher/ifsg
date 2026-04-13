@@ -1,16 +1,21 @@
 ---
 title: "§ 34 Kindereinrichtungen"
-toc: false
 ---
 
 [Hier geht es zum § 34](https://www.gesetze-im-internet.de/ifsg/__34.html)
 
+## Gesetzesauszug
+> Personen die an [_Auflistung mehrere Krankheiten_] erkrankt oder dessen verdächtig oder die verlaust sind, dürfen in den in § 33 genannten Gemeinschaftseinrichtungen keine Lehr-, Erziehungs-, Pflege-, Aufsichts- oder sonstige Tätigkeiten ausüben
+
+## Bemerkenswerte Punkte
+
 * Absatz ist wichtig für die Arbeit im Gesundheitsamt
 * Es gibt eine Unterteilung nach Erkrankten, Ausscheidern und Mitbewohnende
-* Belehrungspflicht 
-* Benachrichtigungspflicht
+* Gesetz gilt auch ohne Anordnung des Gesundheitsamtes
+* Belehrungspflicht und Benachrichtigungspflicht
 * Impfaufklärung (Einführung vor Impfpflicht)
 
+## Beispiel
 
 ::: {.panel-tabset}
 

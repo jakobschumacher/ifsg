@@ -66,6 +66,10 @@ book:
           file: content/paragraphen/par_7.qmd
         - text: § 8
           file: content/paragraphen/par_8.qmd
+        - text: § 9
+          file: content/paragraphen/par_9.qmd        
+        - text: § 11
+          file: content/paragraphen/par_11.qmd
         - text: § 12
           file: content/paragraphen/par_12.qmd
     - part: "Verhütung"

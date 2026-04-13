@@ -1,16 +1,17 @@
 ---
 title: "§ 35 Pflegeheime"
-toc: false
 ---
 [Hier geht es zum § 35](https://www.gesetze-im-internet.de/ifsg/__35.html)
 
-::: {.callout-tip}
 ## Gesetzesauszug
-* Folgende Einrichtungen [...] haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft und der Pflegewissenschaft erforderlichen Maßnahmen getroffen werden, um Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern zu vermeiden
-1.  vollstationäre Einrichtungen zur Betreuung und Unterbringung älterer, behinderter oder pflegebedürftiger Menschen 
-:::
+> Folgende Einrichtungen [...] haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft und der Pflegewissenschaft erforderlichen Maßnahmen getroffen werden, um Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern zu vermeiden
+> 1.  vollstationäre Einrichtungen zur Betreuung und Unterbringung älterer, behinderter oder pflegebedürftiger Menschen 
+> (4) Einrichtungen haben das Gesundheitsamt [...] zu benachrichtigen [...] wenn eine in der Einrichtung tätige oder untergebrachte Person an Skabies erkrankt ist.
 
-* Dieser Paragraph ist neu und wertet die Hygiene für Altenheime auf.
-* Während der Pandemie sind noch besondere Paragraphen untergebracht.
+## Bemerkenswerte Punkte
+
+* Wichtiger Paragraph für Gesundheitsämter
+* Skabies-Meldung
+* Besondere COVID-19 Meldungen
 
 

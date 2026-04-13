@@ -1,0 +1,14 @@
+---
+title: "§ 11 Übermittlung"
+---
+
+[Hier geht es zum § 11](https://www.gesetze-im-internet.de/ifsg/__11.html)
+
+## Gesetzesauszug
+> (1) Die verarbeiteten Daten werden [...] anhand der Falldefinitionen [...] bewertet und spätestens am folgenden Arbeitstag [...] der zuständigen Landesbehörde [...] übermittelt: 
+
+
+## Bemerkenswerte Punkte
+* Zeitliche Vorgabe für Gesundheitsämter
+* Klärung zuständiges Gesundheitsamt für Übermittlung: _Gewöhnlicher Aufenthaltsort_
+* Klärung Übermittlungskette für Impfnebenwirkung

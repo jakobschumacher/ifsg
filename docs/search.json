@@ -44,7 +44,7 @@
     "href": "index.html#danksagungen",
     "title": "IfSG & ÖGD",
     "section": "Danksagungen",
-    "text": "Danksagungen\n\nDen Ausbidlungsprogrammen PAE und WBK\nPosit (für die Software RStudio und Quarto)\nGithub (für das Hosting)\nFreelogo online (für das Logo)\nWikipedia (für die Bilder)",
+    "text": "Danksagungen\n\nDen Ausbidlungsprogrammen PAE und WBK\nPosit (für die Software RStudio und Quarto)\nGithub (für das Hosting)\nWikipedia (für die Bilder)",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Einleitung</span>"
     ]
@@ -206,9 +206,42 @@
   {
     "objectID": "content/meldewesen/meld_begriffe.html",
     "href": "content/meldewesen/meld_begriffe.html",
-    "title": "“Meldebegriffe”",
+    "title": "“Besondere Begriff”",
+    "section": "",
+    "text": "Meldebegriffe",
+    "crumbs": [
+      "Grundlagen",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Exkurs Begriffe</span>"
+    ]
+  },
+  {
+    "objectID": "content/meldewesen/meld_begriffe.html#meldebegriffe",
+    "href": "content/meldewesen/meld_begriffe.html#meldebegriffe",
+    "title": "“Besondere Begriff”",
     "section": "",
     "text": "Meldung: vom Meldepflichtigen an das Gesundheitsamt\nBenachrichtigung: Von Gemeinschaftseinrichtungen an das Gesundheitsamt\nÜbermittlung: vom Gesundheitsamt an die Landesstelle\nUnterrichtung: vom Gesundheitsamt an ein anderes Amt",
+    "crumbs": [
+      "Grundlagen",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Exkurs Begriffe</span>"
+    ]
+  },
+  {
+    "objectID": "content/meldewesen/meld_begriffe.html#einteilung-betroffener-personen",
+    "href": "content/meldewesen/meld_begriffe.html#einteilung-betroffener-personen",
+    "title": "“Besondere Begriff”",
+    "section": "Einteilung betroffener Personen",
+    "text": "Einteilung betroffener Personen\n\nKranker: Jemand mit Nachweis\nKrankheitsverdächtiger: Jemand mit Symptomen\nAusscheider: Asymptomatisch\nAnsteckungsverdächtiger: Kontaktperson",
+    "crumbs": [
+      "Grundlagen",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Exkurs Begriffe</span>"
+    ]
+  },
+  {
+    "objectID": "content/meldewesen/meld_begriffe.html#einteilung-von-krankheiten",
+    "href": "content/meldewesen/meld_begriffe.html#einteilung-von-krankheiten",
+    "title": "“Besondere Begriff”",
+    "section": "Einteilung von Krankheiten",
+    "text": "Einteilung von Krankheiten\n\nübertragbar: Krankheit durch ein “Agens”\n\nbedrohlich: bedeutet eine schwerwiegende Gefahr",
     "crumbs": [
       "Grundlagen",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Exkurs Begriffe</span>"
@@ -219,7 +252,29 @@
     "href": "content/paragraphen/par_1.html",
     "title": "§ 1 Ziel und Rahmen",
     "section": "",
-    "text": "Hier geht es zum § 1\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nZweck des Gesetzes ist es, übertragbaren Krankheiten beim Menschen vorzubeugen, Infektionen frühzeitig zu erkennen und ihre Weiterverbreitung zu verhindern.\nDie hierfür notwendige Mitwirkung und Zusammenarbeit […] soll entsprechend dem jeweiligen Stand der medizinischen und epidemiologischen Wissenschaft und Technik gestaltet und unterstützt werden.\nDie Eigenverantwortung der Träger und Leiter von Gemeinschaftseinrichtungen, Lebensmittelbetrieben, Gesundheitseinrichtungen sowie des Einzelnen […] soll verdeutlicht und gefördert werden.\n\n\n\nArtikel 1 hilft einem weiter in Zweifelsfällen: Wenn man vor einer Frage steht, wie man agieren soll, findet man hier die Richtung.\nDie Mitwirkung und Zusammenarbeit auf dem Stand der Technik ist ein hehres Ziel. Gut verwendbar für “Sonntagsreden”\nHinter dem Fokus auf die Eigenverantwortung steht ein Konzept. Meine Umschreibung: Der wichtigste Teil des Gesundheitsamtes steckt in den Köpfen unserer Partner",
+    "text": "Gesetzesauszug\nHier geht es zum § 1",
+    "crumbs": [
+      "Einleitungsparagraphen",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>§ 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_1.html#gesetzesauszug",
+    "href": "content/paragraphen/par_1.html#gesetzesauszug",
+    "title": "§ 1 Ziel und Rahmen",
+    "section": "",
+    "text": "Zweck des Gesetzes ist es, übertragbaren Krankheiten beim Menschen vorzubeugen, Infektionen frühzeitig zu erkennen und ihre Weiterverbreitung zu verhindern.\n\n\nDie hierfür notwendige Mitwirkung und Zusammenarbeit […] soll entsprechend dem jeweiligen Stand der medizinischen und epidemiologischen Wissenschaft und Technik gestaltet und unterstützt werden.\n\n\nDie Eigenverantwortung der Träger und Leiter von Gemeinschaftseinrichtungen, Lebensmittelbetrieben, Gesundheitseinrichtungen sowie des Einzelnen […] soll verdeutlicht und gefördert werden.",
+    "crumbs": [
+      "Einleitungsparagraphen",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>§ 1</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_1.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_1.html#bemerkenswerte-punkte",
+    "title": "§ 1 Ziel und Rahmen",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nArtikel 1 hilft einem weiter in Zweifelsfällen: Wenn man vor einer Frage steht, wie man agieren soll, findet man hier die Richtung.\nDie Mitwirkung und Zusammenarbeit auf dem Stand der Technik ist ein hehres Ziel. Gut verwendbar für “Sonntagsreden”\nHinter dem Fokus auf die Eigenverantwortung steht ein Konzept. Meine Umschreibung: Der wichtigste Teil des Gesundheitsamtes steckt in den Köpfen unserer Partner",
     "crumbs": [
       "Einleitungsparagraphen",
       "<span class='chapter-number'>7</span>  <span class='chapter-title'>§ 1</span>"
@@ -230,7 +285,29 @@
     "href": "content/paragraphen/par_3.html",
     "title": "§ 3 Prävention durch Aufklärung",
     "section": "",
-    "text": "Hier geht es zum § 3\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nDie Information und Aufklärung der Allgemeinheit über die Gefahren übertragbarer Krankheiten und die Möglichkeiten zu deren Verhütung sind eine öffentliche Aufgabe.\n\n\n\nHinter Prävention durch Information und Aufklärung steckt ein Gesundheitskonzept, dass meiner Einschätzung nach einer Überarbeitung bedürfte. Wenn das mehr interessiert sei das Thema Psychologie des Gesundheitsverhaltens ans Herz gelegt.",
+    "text": "Gesetzesauszug\nHier geht es zum § 3",
+    "crumbs": [
+      "Einleitungsparagraphen",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>§ 3</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_3.html#gesetzesauszug",
+    "href": "content/paragraphen/par_3.html#gesetzesauszug",
+    "title": "§ 3 Prävention durch Aufklärung",
+    "section": "",
+    "text": "Die Information und Aufklärung der Allgemeinheit über die Gefahren übertragbarer Krankheiten und die Möglichkeiten zu deren Verhütung sind eine öffentliche Aufgabe.",
+    "crumbs": [
+      "Einleitungsparagraphen",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>§ 3</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_3.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_3.html#bemerkenswerte-punkte",
+    "title": "§ 3 Prävention durch Aufklärung",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nHinter Prävention durch Information und Aufklärung steckt ein Gesundheitskonzept, dass meiner Einschätzung nach einer Überarbeitung bedürfte. Wenn das mehr interessiert sei das Thema “Psychologie des Gesundheitsverhaltens” ans Herz gelegt. Zum Beispiel in diesem Buch zum Thema.",
     "crumbs": [
       "Einleitungsparagraphen",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>§ 3</span>"
@@ -241,7 +318,29 @@
     "href": "content/paragraphen/par_4.html",
     "title": "§ 4 Das Robert Koch-Institut",
     "section": "",
-    "text": "Hier geht es zum § 4\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nDas Robert Koch-Institut ist die nationale Behörde zur Vorbeugung übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von Infektionen.\nBeim Robert Koch-Institut wird eine Kontaktstelle für den öffentlichen Gesundheitsdienst der Länder eingerichtet […]\nDas Robert Koch-Institut erstellt im Benehmen mit den jeweils zuständigen Bundesbehörden für Fachkreise als Maßnahme des vorbeugenden Gesundheitsschutzes Richtlinien, Empfehlungen, Merkblätter und sonstige Informationen zur Vorbeugung, Erkennung und Verhinderung der Weiterverbreitung übertragbarer Krankheiten\n\n\n\nIm § 4 wird das Robert Koch-Institut verankert.\nMan beachte den Spagat zwischen: BMG legt fest wie genau das RKI arbeitet und auf der anderen Seite, dass die Empfehlungen des RKIs nur im Benehmen mit den anderen Bundesoberbehörden (und eben nicht mit dem BMG) entstehen sollen.",
+    "text": "Gesetzesauszug\nHier geht es zum § 4",
+    "crumbs": [
+      "Einleitungsparagraphen",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>§ 4</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_4.html#gesetzesauszug",
+    "href": "content/paragraphen/par_4.html#gesetzesauszug",
+    "title": "§ 4 Das Robert Koch-Institut",
+    "section": "",
+    "text": "Das Robert Koch-Institut ist die nationale Behörde zur Vorbeugung übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von Infektionen. Dies schließt die […] Forschung […] ein.\n\n\n\n\nDas Robert Koch-Institut erstellt im Benehmen mit den jeweils zuständigen Bundesbehörden für Fachkreise […], Empfehlungen, Merkblätter und sonstige Informationen\n\n\n\n\nDas Robert Koch-Institut arbeitet zu den in § 1 Absatz 1 genannten Zwecken mit ausländischen Stellen und supranationalen Organisationen sowie mit der Weltgesundheitsorganisation und anderen internationalen Organisationen zusammen.",
+    "crumbs": [
+      "Einleitungsparagraphen",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>§ 4</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_4.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_4.html#bemerkenswerte-punkte",
+    "title": "§ 4 Das Robert Koch-Institut",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nIm § 4 wird das Robert Koch-Institut verankert.\nDas RKI ist “Ressortforschungseinrichtung” -&gt; Das erlaubt Forschung und Wissenschaftsfreiheit\nDas RKI arbeitet (fachlich) mit den anderen Bundesoberbehörden zusammen (und nicht mit dem BMG)\nObersten Landesgesundheitsbehörde können Amtshilfe beantragen\nArbeit für Fachkreise\nDas RKI arbeitet auch international",
     "crumbs": [
       "Einleitungsparagraphen",
       "<span class='chapter-number'>9</span>  <span class='chapter-title'>§ 4</span>"
@@ -263,7 +362,29 @@
     "href": "content/paragraphen/par_6.html",
     "title": "§ 6 Die Arztmeldepflicht",
     "section": "",
-    "text": "Hier geht es zum § 6\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nNamentlich ist zu melden: der Verdacht einer Erkrankung, die Erkrankung sowie der Tod\nDie Erkrankung und der Tod in Bezug auf folgende Krankheiten: behandlungsbedürftige Tuberkulose […], Clostridioides-difficile-Infektion mit klinisch schwerem Verlauf\nDer Verdacht auf und die Erkrankung an einer mikrobiell bedingten Lebensmittelvergiftung\nDer Verdacht einer [UAW bei Impfungen]\nDie Verletzung eines Menschen durch […] Tollwut\nDer Verdacht einer Erkrankung, die Erkrankung sowie der Tod, in Bezug auf eine bedrohliche übertragbare Krankheit, die nicht bereits nach den Nummern 1 bis 4 meldepflichtig ist.\n\n\n\nHier gibt es die verschiedenen Meldetatbestände\nHier beginnt das Surveillancesystem mit der Meldedefinition: Verdacht, Krankheit, Tod",
+    "text": "Gesetzesauszug\nHier geht es zum § 6",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>§ 6</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_6.html#gesetzesauszug",
+    "href": "content/paragraphen/par_6.html#gesetzesauszug",
+    "title": "§ 6 Die Arztmeldepflicht",
+    "section": "",
+    "text": "Namentlich ist zu melden: der Verdacht einer Erkrankung, die Erkrankung sowie der Tod\n\n\nDie Erkrankung und der Tod in Bezug auf folgende Krankheiten: behandlungsbedürftige Tuberkulose […], Clostridioides-difficile-Infektion mit klinisch schwerem Verlauf\n\n\nDer Verdacht auf und die Erkrankung an einer mikrobiell bedingten Lebensmittelvergiftung\n\n\nDer Verdacht einer [UAW bei Impfungen]\n\n\nDie Verletzung eines Menschen durch […] Tollwut\n\n\nDer Verdacht einer Erkrankung, die Erkrankung sowie der Tod, in Bezug auf eine bedrohliche übertragbare Krankheit, die nicht bereits nach den Nummern 1 bis 4 meldepflichtig ist.",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>§ 6</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_6.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_6.html#bemerkenswerte-punkte",
+    "title": "§ 6 Die Arztmeldepflicht",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nHier gibt es die verschiedenen Meldetatbestände\n\nVerdacht, Krankheit, Tod von bestimmten Krankheiten\nLebensmittelvergiftung\nImpfnebenwirkung\nSonstige bedrohliche Krankheit\nNosokomiale Krankheiten\n\nBesonderheiten bei bestimmten Krankheiten\n\nNur bestimmte Clostridioides-Fälle\nSSPE\nTuberkulose-Verweigerung\nTollwut auch bei Berührung\n\nCovid-19 ist auch bei Verdacht meldepflichtig -&gt; Fachlich nicht sinnvoll\nNichtnamentliche Meldepflicht bei Ausbrüchen -&gt; Verursacht gewaltige Komplexitäten",
     "crumbs": [
       "Meldewesen",
       "<span class='chapter-number'>11</span>  <span class='chapter-title'>§ 6</span>"
@@ -274,7 +395,29 @@
     "href": "content/paragraphen/par_7.html",
     "title": "§ 7 Die Labormeldepflicht",
     "section": "",
-    "text": "Hier geht es zum § 7\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nNamentlich ist bei folgenden Krankheitserregern […] der direkte oder indirekte Nachweis zu melden, soweit die Nachweise auf eine akute Infektion hinweisen\nNamentlich sind in Bezug auf Infektionen und Kolonisationen Nachweise […] zu melden, wenn […] Hinweise auf eine schwerwiegende Gefahr für die Allgemeinheit bestehen.\nNichtnamentlich ist bei folgenden Krankheitserregern der direkte oder indirekte Nachweis zu melden: […] HIV\n\n\n\nHier gibt es die Meldedefinition für Labore: Hinweis auf akute Erkrankung\nNichnamentliche Meldung für HIV ist hier hinterlegt",
+    "text": "Gesetzesauszug\nHier geht es zum § 7",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>§ 7</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_7.html#gesetzesauszug",
+    "href": "content/paragraphen/par_7.html#gesetzesauszug",
+    "title": "§ 7 Die Labormeldepflicht",
+    "section": "",
+    "text": "Namentlich ist bei folgenden Krankheitserregern […] der direkte oder indirekte Nachweis zu melden, soweit die Nachweise auf eine akute Infektion hinweisen\n\n\nNamentlich sind in Bezug auf Infektionen und Kolonisationen Nachweise […] zu melden, wenn […] Hinweise auf eine schwerwiegende Gefahr für die Allgemeinheit bestehen.\n\n\nNichtnamentlich ist bei folgenden Krankheitserregern der direkte oder indirekte Nachweis zu melden: […] HIV",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>§ 7</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_7.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_7.html#bemerkenswerte-punkte",
+    "title": "§ 7 Die Labormeldepflicht",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nDas ist das “Arbeitspferd” des Meldewesens\nMeldung bei akuter Infektion\nAuch Meldung für unbekannte Infektionen\nNichnamentliche Meldung für HIV ist hier hinterlegt\nMeldung von negativen Tests für SARS-CoV-2",
     "crumbs": [
       "Meldewesen",
       "<span class='chapter-number'>12</span>  <span class='chapter-title'>§ 7</span>"
@@ -292,14 +435,113 @@
     ]
   },
   {
+    "objectID": "content/paragraphen/par_9.html",
+    "href": "content/paragraphen/par_9.html",
+    "title": "§ 9 Namentliche Meldung",
+    "section": "",
+    "text": "Gesetzesauszug\nHier geht es zum § 9",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>§ 9</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_9.html#gesetzesauszug",
+    "href": "content/paragraphen/par_9.html#gesetzesauszug",
+    "title": "§ 9 Namentliche Meldung",
+    "section": "",
+    "text": "Die namentliche Meldung muss unverzüglich erfolgen und dem zuständigen Gesundheitsamt nach Absatz 4 spätestens 24 Stunden, nachdem der Meldende Kenntnis erlangt hat, vorliegen.\n\n\n\n\nMeldungen nach den Absätzen 1 und 2 haben an das Gesundheitsamt zu erfolgen, in dessen Bezirk sich die betroffene Person derzeitig aufhält oder zuletzt aufhielt. Sofern die betroffene Person in einer Einrichtung gemäß Absatz 1 Nummer 1 Buchstabe h betreut oder untergebracht ist, haben Meldungen nach Absatz 1 an das Gesundheitsamt zu erfolgen, in dessen Bezirk sich die Einrichtung befindet.",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>§ 9</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_9.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_9.html#bemerkenswerte-punkte",
+    "title": "§ 9 Namentliche Meldung",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nFehlerhafte Meldungen sind “messbar” im Gegensatz zu machen anderen Verstößen\nKlärung welche Gesundheitsamt die Meldung bekommt\nKlärung zuständiges Gesundheitsamt für Erfassung: Gewöhnlicher Aufenthaltsort (siehe auch §11)\nÜbergabe an Bundeswehr",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>§ 9</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_11.html",
+    "href": "content/paragraphen/par_11.html",
+    "title": "§ 11 Übermittlung",
+    "section": "",
+    "text": "Gesetzesauszug\nHier geht es zum § 11",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>§ 11</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_11.html#gesetzesauszug",
+    "href": "content/paragraphen/par_11.html#gesetzesauszug",
+    "title": "§ 11 Übermittlung",
+    "section": "",
+    "text": "Die verarbeiteten Daten werden […] anhand der Falldefinitionen […] bewertet und spätestens am folgenden Arbeitstag […] der zuständigen Landesbehörde […] übermittelt:",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>§ 11</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_11.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_11.html#bemerkenswerte-punkte",
+    "title": "§ 11 Übermittlung",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nZeitliche Vorgabe für Gesundheitsämter\nKlärung zuständiges Gesundheitsamt für Übermittlung: Gewöhnlicher Aufenthaltsort\nKlärung Übermittlungskette für Impfnebenwirkung",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>§ 11</span>"
+    ]
+  },
+  {
     "objectID": "content/paragraphen/par_12.html",
     "href": "content/paragraphen/par_12.html",
     "title": "§ 12 Der Notfallparagraph",
     "section": "",
-    "text": "§ 12\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nIm Hinblick auf eine übertragbare Krankheit [nach IGV] übermittelt die zuständige Behörde der zuständigen Landesbehörde unverzüglich folgende Angaben:\n1.das Auftreten der übertragbaren Krankheit, Tatsachen, die auf das Auftreten der übertragbaren Krankheit hinweisen, oder Tatsachen, die zum Auftreten der übertragbaren Krankheit führen können, 2. die getroffenen Maßnahmen und 3. sonstige Informationen, die für die Bewertung der Tatsachen und für die Verhütung und Bekämpfung der übertragbaren Krankheit von Bedeutung sind.\n\n\n\nDer Paragraph 12 ist der Notfall-Paragraph. Er basiert auf den Internationalen Gesundheitsvorschriften\nUm das zuverlässig zu gewährleisten sind vorbeugende Anstrenungen im Gesundheitsamt notwendig. Deswegen müssen Notfälle geübt werden.\nEr ist Teil der Event-Basierten-Surveillance\nDieser Artikel ist hilfreich für Begründungen gegenüber der Politik\n\n\nBeispielproblemHerangehensweise\n\n\nFeuerwehrleitzentrale ruft an: “Notarzt vermutet Ebola-Fall”\n\n\n\nTelefonisch §12 Meldung\nSTAKOB Einrichtung anrufen\nVor Ort gehen: Taxi/Feuerwehr/Polizei\nMaterial mitnehmen\nInformation Mitarbeitende/Kommune\nVor Ort: Anweisungen geben\n\nLagebesprechung\nPatientenversorung mit PSA\nSperrbereich\nKPs festlegen\nDesinfektion festlegen",
+    "text": "Gesetzesauszug\n§ 12",
     "crumbs": [
       "Meldewesen",
-      "<span class='chapter-number'>14</span>  <span class='chapter-title'>§ 12</span>"
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>§ 12</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_12.html#gesetzesauszug",
+    "href": "content/paragraphen/par_12.html#gesetzesauszug",
+    "title": "§ 12 Der Notfallparagraph",
+    "section": "",
+    "text": "Im Hinblick auf eine übertragbare Krankheit [nach IGV] übermittelt die zuständige Behörde der zuständigen Landesbehörde unverzüglich folgende Angaben:\n\n\n1.das Auftreten der übertragbaren Krankheit, Tatsachen, die auf das Auftreten der übertragbaren Krankheit hinweisen, oder Tatsachen, die zum Auftreten der übertragbaren Krankheit führen können, 2. die getroffenen Maßnahmen und 3. sonstige Informationen, die für die Bewertung der Tatsachen und für die Verhütung und Bekämpfung der übertragbaren Krankheit von Bedeutung sind.",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>§ 12</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_12.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_12.html#bemerkenswerte-punkte",
+    "title": "§ 12 Der Notfallparagraph",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nDer Paragraph 12 ist der Notfall-Paragraph. Er basiert auf den Internationalen Gesundheitsvorschriften\nUm das zuverlässig zu gewährleisten sind vorbeugende Anstrenungen im Gesundheitsamt notwendig. Deswegen müssen Notfälle geübt werden.\nEr ist Teil der Event-Basierten-Surveillance\nDieser Artikel ist hilfreich für Begründungen gegenüber der Politik",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>§ 12</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_12.html#beispiel",
+    "href": "content/paragraphen/par_12.html#beispiel",
+    "title": "§ 12 Der Notfallparagraph",
+    "section": "Beispiel",
+    "text": "Beispiel\n\nBeispielproblemHerangehensweise\n\n\nFeuerwehrleitzentrale ruft an: “Notarzt vermutet Ebola-Fall”\n\n\n\nTelefonisch §12 Meldung\nSTAKOB Einrichtung anrufen\nVor Ort gehen: Taxi/Feuerwehr/Polizei\nMaterial mitnehmen\nInformation Mitarbeitende/Kommune\nVor Ort: Anweisungen geben\n\nLagebesprechung\nPatientenversorung mit PSA\nSperrbereich\nKPs festlegen\nDesinfektion festlegen",
+    "crumbs": [
+      "Meldewesen",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>§ 12</span>"
     ]
   },
   {
@@ -307,10 +549,43 @@
     "href": "content/paragraphen/par_16.html",
     "title": "§ 16 Der Wir-dürfen-alles-Paragraph",
     "section": "",
-    "text": "Hier geht es zum § 16\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nWerden Tatsachen festgestellt, die zum Auftreten einer übertragbaren Krankheit führen können, oder ist anzunehmen, dass solche Tatsachen vorliegen, so trifft die zuständige Behörde die notwendigen Maßnahmen zur Abwendung der dem Einzelnen oder der Allgemeinheit hierdurch drohenden Gefahren.\n\n\n\nDieser Artikel ist unglaublich breit. Deswegen: Wir dürfen (fast) alles nach § 16. Warum nur fast? Die Maßnahme muss geeignet, erforderlich und angemessen sein.\n\n\nBeispielproblemHerangehensweise\n\n\nBei einer Praxisbegehung: Der Arzt verwendet rostiges Werkzeug, hat falsches abgelaufenes Händedesinfektionsmittel, geflickte Desinfektionsanlage. Als der Arzt merkt, dass es kritisch wird, beruft er sich aufs Hausrecht und den Datenschutz und will alles schriftlich.\n\n\n\nMündlich ausgesprochen: Ich schließe jetzt ihre Praxis gemäß § 16 IfSG.\nKriterien für die Aufhebung der Schließung darstellen. CAVE: Einhaltung von Richtlinien als Ziel\nAuf Begehung und Unterlagen bestanden. Zur Not Polzei rufen.\nAusführliches Protokoll erstellt, Photos mit Diensthandy gemacht\nAnordnung § 16 erstellt\nRücksprache mit Rechtsamt",
+    "text": "Gesetzesauszug\nHier geht es zum § 16",
     "crumbs": [
       "Verhütung",
-      "<span class='chapter-number'>15</span>  <span class='chapter-title'>§ 16</span>"
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>§ 16</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_16.html#gesetzesauszug",
+    "href": "content/paragraphen/par_16.html#gesetzesauszug",
+    "title": "§ 16 Der Wir-dürfen-alles-Paragraph",
+    "section": "",
+    "text": "Werden Tatsachen festgestellt, die zum Auftreten einer übertragbaren Krankheit führen können, oder ist anzunehmen, dass solche Tatsachen vorliegen, so trifft die zuständige Behörde die notwendigen Maßnahmen zur Abwendung der dem Einzelnen oder der Allgemeinheit hierdurch drohenden Gefahren.",
+    "crumbs": [
+      "Verhütung",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>§ 16</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_16.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_16.html#bemerkenswerte-punkte",
+    "title": "§ 16 Der Wir-dürfen-alles-Paragraph",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nDieser Artikel ist unglaublich breit. Deswegen: Wir dürfen (fast) alles nach § 16. Warum nur fast? Die Maßnahme muss geeignet, erforderlich und angemessen sein.",
+    "crumbs": [
+      "Verhütung",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>§ 16</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_16.html#beispiel",
+    "href": "content/paragraphen/par_16.html#beispiel",
+    "title": "§ 16 Der Wir-dürfen-alles-Paragraph",
+    "section": "Beispiel",
+    "text": "Beispiel\n\nBeispielproblemHerangehensweise\n\n\nBei einer Praxisbegehung: Der Arzt verwendet rostiges Werkzeug, hat falsches abgelaufenes Händedesinfektionsmittel, geflickte Desinfektionsanlage. Als der Arzt merkt, dass es kritisch wird, beruft er sich aufs Hausrecht und den Datenschutz und will alles schriftlich.\n\n\n\nMündlich ausgesprochen: Ich schließe jetzt ihre Praxis gemäß § 16 IfSG.\nKriterien für die Aufhebung der Schließung darstellen. CAVE: Einhaltung von Richtlinien als Ziel\nAuf Begehung und Unterlagen bestanden. Zur Not Polzei rufen.\nAusführliches Protokoll erstellt, Photos mit Diensthandy gemacht\nAnordnung § 16 erstellt\nRücksprache mit Rechtsamt",
+    "crumbs": [
+      "Verhütung",
+      "<span class='chapter-number'>17</span>  <span class='chapter-title'>§ 16</span>"
     ]
   },
   {
@@ -318,10 +593,32 @@
     "href": "content/paragraphen/par_20.html",
     "title": "§ 20 Der Impfparagraph",
     "section": "",
-    "text": "Hier geht es zum § 20\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nDie Bundeszentrale für gesundheitliche Aufklärung, die obersten Landesgesundheitsbehörden und die von ihnen beauftragten Stellen sowie die Gesundheitsämter informieren die Bevölkerung zielgruppenspezifisch über die Bedeutung von Schutzimpfungen\n\n\n\nSTIKO ist hier verankert\nHier ist erneut der Grundsatz: Prävention durch Information\nDie Politik hat eine Impfpflicht für Beschäftigte in bestimmten Einrichtungen umgesetzt.",
+    "text": "Gesetzesauszug\nHier geht es zum § 20",
     "crumbs": [
       "Verhütung",
-      "<span class='chapter-number'>16</span>  <span class='chapter-title'>§ 20</span>"
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>§ 20</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_20.html#gesetzesauszug",
+    "href": "content/paragraphen/par_20.html#gesetzesauszug",
+    "title": "§ 20 Der Impfparagraph",
+    "section": "",
+    "text": "Die Bundeszentrale für gesundheitliche Aufklärung, die obersten Landesgesundheitsbehörden und die von ihnen beauftragten Stellen sowie die Gesundheitsämter informieren die Bevölkerung zielgruppenspezifisch über die Bedeutung von Schutzimpfungen\nBeim Robert Koch-Institut wird eine Ständige Impfkommission eingerichtet. […] Die Mitglieder der Kommission werden vom Bundesministerium für Gesundheit im Benehmen mit den obersten Landesgesundheitsbehörden berufen.\nZur Durchführung von Schutzimpfungen ist jeder Arzt berechtigt. Siehe auch § 20c\nFolgende Personen […] müssen entweder einen […] ausreichenden Impfschutz gegen Masern […] aufweisen",
+    "crumbs": [
+      "Verhütung",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>§ 20</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_20.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_20.html#bemerkenswerte-punkte",
+    "title": "§ 20 Der Impfparagraph",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nSTIKO ist hier verankert\nHier ist erneut der Grundsatz: Prävention durch Information\nFaktischer Impfzwang für Kita/Schule und Berufe\nDiskrepanz zwischen genauer Festlegung hier und STIKO-Empfehlungen",
+    "crumbs": [
+      "Verhütung",
+      "<span class='chapter-number'>18</span>  <span class='chapter-title'>§ 20</span>"
     ]
   },
   {
@@ -329,10 +626,43 @@
     "href": "content/paragraphen/par_23.html",
     "title": "§ 23 Hygieneparagraph",
     "section": "",
-    "text": "Hier geht es zum § 23\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nDie Leiter folgender Einrichtungen haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft erforderlichen Maßnahmen getroffen werden, um nosokomiale Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern […] zu vermeiden:\n\n\n\nHiermit kommen die KRINKO-Empfehlungen in die Welt\nDer Stand der medizinischen Wissenschaft ist ziemlich tiefgreifend und geht z.B. über den Stand von Technik hinaus.\nDer Artikel hilft (bedingt) bei einer Begehung als Verpflichtung\n\n\nBeispielproblemHerangehensweise\n\n\nEin Krankenhaus hat nicht genügend Hygienepersonal.\n\n\n\nAnsprechen bei der Begehung\nAnordnung der Erfassung des nach KRINKO notwendigen Personals\nEinfacher durchzusetzen wäre die Hygieneverordnung",
+    "text": "Gesetzesauszug\nHier geht es zum § 23",
     "crumbs": [
       "Verhütung",
-      "<span class='chapter-number'>17</span>  <span class='chapter-title'>§ 23</span>"
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>§ 23</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_23.html#gesetzesauszug",
+    "href": "content/paragraphen/par_23.html#gesetzesauszug",
+    "title": "§ 23 Hygieneparagraph",
+    "section": "",
+    "text": "Die Leiter folgender Einrichtungen haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft erforderlichen Maßnahmen getroffen werden, um nosokomiale Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern […] zu vermeiden:",
+    "crumbs": [
+      "Verhütung",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>§ 23</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_23.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_23.html#bemerkenswerte-punkte",
+    "title": "§ 23 Hygieneparagraph",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nHiermit kommen die KRINKO-Empfehlungen in die Welt\nDer Stand der medizinischen Wissenschaft ist ziemlich tiefgreifend und geht z.B. über den Stand von Technik hinaus.\nDie ART-Kommission wird hier gegründet\nDer Artikel hilft (bedingt) bei einer Begehung als Verpflichtung\nGesundheitsämter sind selber auch betroffen in (3) Punkt 10\nDie Länder können und machen aufgrund dieses Paragraphen wichtig Rechtsverordnungen",
+    "crumbs": [
+      "Verhütung",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>§ 23</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_23.html#beispiel",
+    "href": "content/paragraphen/par_23.html#beispiel",
+    "title": "§ 23 Hygieneparagraph",
+    "section": "Beispiel",
+    "text": "Beispiel\n\nBeispielproblemHerangehensweise\n\n\nEin Krankenhaus hat nicht genügend Hygienepersonal.\n\n\n\nAnsprechen bei der Begehung\nAnordnung der Erfassung des nach KRINKO notwendigen Personals\nEinfacher durchzusetzen wäre die Hygieneverordnung",
+    "crumbs": [
+      "Verhütung",
+      "<span class='chapter-number'>19</span>  <span class='chapter-title'>§ 23</span>"
     ]
   },
   {
@@ -340,21 +670,76 @@
     "href": "content/paragraphen/par_23a.html",
     "title": "§ 23a Impfstatus",
     "section": "",
-    "text": "Hier geht es zum § 23a\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nSoweit es zur Erfüllung von Verpflichtungen aus § 23 Absatz 3 in Bezug auf übertragbare Krankheiten erforderlich ist, darf der Arbeitgeber personenbezogene Daten eines Beschäftigten über dessen Impf- und Serostatus verarbeiten, um über die Begründung eines Beschäftigungsverhältnisses oder über die Art und Weise einer Beschäftigung zu entscheiden.\n\n\n\nProblem in vermutl. allen GesundheitsämternHerangehensweise\n\n\nIm Gesundheitsamt gibt es Personen die Ersthausbesuche machen und nicht gegen Masern geimpft sind. Was keine Amtsleitung dagegen tun?\n\n\n\nBei Einstellung ist es leichter darauf zu achten\nPerson an eine Stelle versetzen, bei dem kein Impfschutz notwendig ist\nZur Not Versetzung oder Entlassung",
+    "text": "Gesetzesauszug\nHier geht es zum § 23a",
     "crumbs": [
       "Verhütung",
-      "<span class='chapter-number'>18</span>  <span class='chapter-title'>§ 23a</span>"
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>§ 23a</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_23a.html#gesetzesauszug",
+    "href": "content/paragraphen/par_23a.html#gesetzesauszug",
+    "title": "§ 23a Impfstatus",
+    "section": "",
+    "text": "Der Arbeitgeber [darf] personenbezogene Daten eines Beschäftigten über dessen Impf- und Serostatus verarbeiten.",
+    "crumbs": [
+      "Verhütung",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>§ 23a</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_23a.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_23a.html#bemerkenswerte-punkte",
+    "title": "§ 23a Impfstatus",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nGilt auch für Gesundheitsämter",
+    "crumbs": [
+      "Verhütung",
+      "<span class='chapter-number'>20</span>  <span class='chapter-title'>§ 23a</span>"
     ]
   },
   {
     "objectID": "content/paragraphen/par_25.html",
     "href": "content/paragraphen/par_25.html",
-    "title": "§ 25",
+    "title": "§ 25 Ermittlungen",
     "section": "",
-    "text": "Gesetzesauszug\n\n\n\nErgibt sich oder ist anzunehmen, dass jemand krank, krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist […] so stellt das Gesundheitsamt die erforderlichen Ermittlungen an\nHier geht es zum § 25\n\n\n\nDieser Paragraph verpflichtet uns zur Ermittlung\nEs sind uns auch alle Berechtigungen gegeben.\n\n\nBeispielproblemHerangehensweise\n\n\nBei einem Infektionsschutzgespräch verweigert eine Person die Aussage.\n\n\n\nBei weniger wichtigen Erkrankungen ignorieren\nBei wichtigen Erkrankungen hinfahren (bsp. Masern)\nVersuch Infos woanders zu holen, z.B. bei Ärzt*innen\nZwang wäre möglich",
+    "text": "Gesetzesauszug\nHier geht es zum § 25",
     "crumbs": [
       "Bekämpfung",
-      "<span class='chapter-number'>19</span>  <span class='chapter-title'>§ 25</span>"
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>§ 25</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_25.html#gesetzesauszug",
+    "href": "content/paragraphen/par_25.html#gesetzesauszug",
+    "title": "§ 25 Ermittlungen",
+    "section": "",
+    "text": "Ergibt sich oder ist anzunehmen, dass jemand krank, krankheitsverdächtig, ansteckungsverdächtig oder Ausscheider ist […] so stellt das Gesundheitsamt die erforderlichen Ermittlungen an",
+    "crumbs": [
+      "Bekämpfung",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>§ 25</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_25.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_25.html#bemerkenswerte-punkte",
+    "title": "§ 25 Ermittlungen",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nDieser Paragraph verpflichtet uns zur Ermittlung\nEs sind uns auch alle Berechtigungen gegeben.",
+    "crumbs": [
+      "Bekämpfung",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>§ 25</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_25.html#beispiel",
+    "href": "content/paragraphen/par_25.html#beispiel",
+    "title": "§ 25 Ermittlungen",
+    "section": "Beispiel",
+    "text": "Beispiel\n\nBeispielproblemHerangehensweise\n\n\nBei einem Infektionsschutzgespräch verweigert eine Person die Aussage.\n\n\n\nBei weniger wichtigen Erkrankungen ignorieren\nBei wichtigen Erkrankungen hinfahren (bsp. Masern)\nVersuch Infos woanders zu holen, z.B. bei Ärzt*innen\nZwang wäre möglich",
+    "crumbs": [
+      "Bekämpfung",
+      "<span class='chapter-number'>21</span>  <span class='chapter-title'>§ 25</span>"
     ]
   },
   {
@@ -362,10 +747,32 @@
     "href": "content/paragraphen/par_28.html",
     "title": "§ 28 Das Schwert des Gesundheitsamtes",
     "section": "",
-    "text": "Hier geht es zum § 28\n\n\n\n\n\n\nGesetzesauszug\n\n\n\nWerden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt […] so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen\n\n\n\nDieser Paragraph ist in Verbindung mit den folgenden Paragraphen zu sehen, insbesondere 29, 30, 31.\nZusammen ermöglichen diese Paragraphen quasi Gefängnisaufenthalte\nWenn § 34 nicht aussreicht kann der § 31 verwendet werden.\n\n\nBeispielproblemHerangehensweise\n\n\nEine Labor meldet eine Person mit einer neuen Infektionskrankheit. Im selben Haushalt befindet sich noch ein weiterer asymptomatischer Fall, eine symptomatische Person ohne Labornachweis und eine Kontaktperson.\n\n\n\nDas Gesundheitsamt kann gegenüber allen Personen eine Maßnahme ansetzen.\nMöglich: Alle absondern\nAlternativ auch Berufsverbote\nSinnvoll in Kombination mit Untersuchungen/Beobachtung",
+    "text": "Gesetzesauszug\nHier geht es zum § 28\nWerden Kranke, Krankheitsverdächtige, Ansteckungsverdächtige oder Ausscheider festgestellt […] so trifft die zuständige Behörde die notwendigen Schutzmaßnahmen",
     "crumbs": [
       "Bekämpfung",
-      "<span class='chapter-number'>20</span>  <span class='chapter-title'>§ 28</span>"
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>§ 28</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_28.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_28.html#bemerkenswerte-punkte",
+    "title": "§ 28 Das Schwert des Gesundheitsamtes",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nDieser Paragraph ist in Verbindung mit den folgenden Paragraphen zu sehen, insbesondere 29, 30, 31.\nZusammen ermöglichen diese Paragraphen quasi Gefängnisaufenthalte\nWenn § 34 nicht aussreicht kann der § 31 verwendet werden.",
+    "crumbs": [
+      "Bekämpfung",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>§ 28</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_28.html#beispiel",
+    "href": "content/paragraphen/par_28.html#beispiel",
+    "title": "§ 28 Das Schwert des Gesundheitsamtes",
+    "section": "Beispiel",
+    "text": "Beispiel\n\nBeispielproblemHerangehensweise\n\n\nEine Labor meldet eine Person mit einer neuen Infektionskrankheit. Im selben Haushalt befindet sich noch ein weiterer asymptomatischer Fall, eine symptomatische Person ohne Labornachweis und eine Kontaktperson.\n\n\n\nDas Gesundheitsamt kann gegenüber allen Personen eine Maßnahme ansetzen.\nMöglich: Alle absondern\nAlternativ auch Berufsverbote\nSinnvoll in Kombination mit Untersuchungen/Beobachtung",
+    "crumbs": [
+      "Bekämpfung",
+      "<span class='chapter-number'>22</span>  <span class='chapter-title'>§ 28</span>"
     ]
   },
   {
@@ -373,10 +780,43 @@
     "href": "content/paragraphen/par_34.html",
     "title": "§ 34 Kindereinrichtungen",
     "section": "",
-    "text": "Hier geht es zum § 34\n\nAbsatz ist wichtig für die Arbeit im Gesundheitsamt\nEs gibt eine Unterteilung nach Erkrankten, Ausscheidern und Mitbewohnende\nBelehrungspflicht\nBenachrichtigungspflicht\nImpfaufklärung (Einführung vor Impfpflicht)\n\n\nBeispielproblemWas haben wir getan?\n\n\nShigelloseausbruch Einer Hygienekontrolleurin fällt auf, dass sie heute zwei Shigellose-Fälle hat, die nicht aus dem Ausland kommen. Es stellt sich heraus, das es einige Fälle in einer Kita gibt.\n\n\n\nVor Ort ermittelt\nVetLeb informiert\nDie Landesstelle gefragt, ob uns jemand unterstützen will\nAndere Kitas des Caterers Stuhlproben\nKontaktdaten, Linelist\nAusbruchsfalldefinition festgelegt\nTVs nach Wiederzulassungstabelle §34 angesetzt\nAushang und Informationsweitergabe durch die Kitaleitung (FAQ durch uns)\nAnordnung Shigellenausbruch\nKeine Suche nach Personen mit riskantem Sexualverhalten",
+    "text": "Gesetzesauszug\nHier geht es zum § 34",
     "crumbs": [
       "Einrichtungen",
-      "<span class='chapter-number'>21</span>  <span class='chapter-title'>§ 34</span>"
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>§ 34</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_34.html#gesetzesauszug",
+    "href": "content/paragraphen/par_34.html#gesetzesauszug",
+    "title": "§ 34 Kindereinrichtungen",
+    "section": "",
+    "text": "Personen die an [Auflistung mehrere Krankheiten] erkrankt oder dessen verdächtig oder die verlaust sind, dürfen in den in § 33 genannten Gemeinschaftseinrichtungen keine Lehr-, Erziehungs-, Pflege-, Aufsichts- oder sonstige Tätigkeiten ausüben",
+    "crumbs": [
+      "Einrichtungen",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>§ 34</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_34.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_34.html#bemerkenswerte-punkte",
+    "title": "§ 34 Kindereinrichtungen",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nAbsatz ist wichtig für die Arbeit im Gesundheitsamt\nEs gibt eine Unterteilung nach Erkrankten, Ausscheidern und Mitbewohnende\nGesetz gilt auch ohne Anordnung des Gesundheitsamtes\nBelehrungspflicht und Benachrichtigungspflicht\nImpfaufklärung (Einführung vor Impfpflicht)",
+    "crumbs": [
+      "Einrichtungen",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>§ 34</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_34.html#beispiel",
+    "href": "content/paragraphen/par_34.html#beispiel",
+    "title": "§ 34 Kindereinrichtungen",
+    "section": "Beispiel",
+    "text": "Beispiel\n\nBeispielproblemWas haben wir getan?\n\n\nShigelloseausbruch Einer Hygienekontrolleurin fällt auf, dass sie heute zwei Shigellose-Fälle hat, die nicht aus dem Ausland kommen. Es stellt sich heraus, das es einige Fälle in einer Kita gibt.\n\n\n\nVor Ort ermittelt\nVetLeb informiert\nDie Landesstelle gefragt, ob uns jemand unterstützen will\nAndere Kitas des Caterers Stuhlproben\nKontaktdaten, Linelist\nAusbruchsfalldefinition festgelegt\nTVs nach Wiederzulassungstabelle §34 angesetzt\nAushang und Informationsweitergabe durch die Kitaleitung (FAQ durch uns)\nAnordnung Shigellenausbruch\nKeine Suche nach Personen mit riskantem Sexualverhalten",
+    "crumbs": [
+      "Einrichtungen",
+      "<span class='chapter-number'>23</span>  <span class='chapter-title'>§ 34</span>"
     ]
   },
   {
@@ -384,10 +824,32 @@
     "href": "content/paragraphen/par_35.html",
     "title": "§ 35 Pflegeheime",
     "section": "",
-    "text": "Hier geht es zum § 35\n\n\n\n\n\n\nGesetzesauszug\n\n\n\n\nFolgende Einrichtungen […] haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft und der Pflegewissenschaft erforderlichen Maßnahmen getroffen werden, um Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern zu vermeiden\n\n\nvollstationäre Einrichtungen zur Betreuung und Unterbringung älterer, behinderter oder pflegebedürftiger Menschen\n\n\n\n\nDieser Paragraph ist neu und wertet die Hygiene für Altenheime auf.\nWährend der Pandemie sind noch besondere Paragraphen untergebracht.",
+    "text": "Gesetzesauszug\nHier geht es zum § 35",
     "crumbs": [
       "Einrichtungen",
-      "<span class='chapter-number'>22</span>  <span class='chapter-title'>§ 35</span>"
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>§ 35</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_35.html#gesetzesauszug",
+    "href": "content/paragraphen/par_35.html#gesetzesauszug",
+    "title": "§ 35 Pflegeheime",
+    "section": "",
+    "text": "Folgende Einrichtungen […] haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft und der Pflegewissenschaft erforderlichen Maßnahmen getroffen werden, um Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern zu vermeiden 1. vollstationäre Einrichtungen zur Betreuung und Unterbringung älterer, behinderter oder pflegebedürftiger Menschen (4) Einrichtungen haben das Gesundheitsamt […] zu benachrichtigen […] wenn eine in der Einrichtung tätige oder untergebrachte Person an Skabies erkrankt ist.",
+    "crumbs": [
+      "Einrichtungen",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>§ 35</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_35.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_35.html#bemerkenswerte-punkte",
+    "title": "§ 35 Pflegeheime",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nWichtiger Paragraph für Gesundheitsämter\nSkabies-Meldung\nBesondere COVID-19 Meldungen",
+    "crumbs": [
+      "Einrichtungen",
+      "<span class='chapter-number'>24</span>  <span class='chapter-title'>§ 35</span>"
     ]
   },
   {
@@ -395,10 +857,32 @@
     "href": "content/paragraphen/par_36.html",
     "title": "§ 36 Massenunterkünfte",
     "section": "",
-    "text": "Hier geht es zum § 36\n\n\n\n\n\n\nGesetzesauszug\n\n\n\n\nFolgende Einrichtungen und Unternehmen müssen in Hygieneplänen innerbetriebliche Verfahrensweisen zur Infektionshygiene festlegen und unterliegen der infektionshygienischen Überwachung durch das Gesundheitsamt:\n\ndie in § 33 genannten Gemeinschaftseinrichtungen mit Ausnahme[n]\nObdachlosenunterkünfte\n[Asylunterkünfte]\nsonstige Massenunterkünfte\nJustizvollzugsanstalten\n\nDas Bundesministerium für Gesundheit wird ermächtigt festzulegen, [..] dass Personen, die in […] Deutschland einreisen […] ein ärztliches Zeugnis […] vorzulegen haben\n\n\n\n\nDieser Paragraph besagt, dass Gesundheitsämter bestimmte Einrichtungen begehen sollen und manche anderen können.\nDiesem Paragraphen sind die Reisebestimmungen hinzugefügt worden",
+    "text": "Gesetzesauszug\nHier geht es zum § 36",
     "crumbs": [
       "Einrichtungen",
-      "<span class='chapter-number'>23</span>  <span class='chapter-title'>§ 36</span>"
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>§ 36</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_36.html#gesetzesauszug",
+    "href": "content/paragraphen/par_36.html#gesetzesauszug",
+    "title": "§ 36 Massenunterkünfte",
+    "section": "",
+    "text": "Folgende Einrichtungen und Unternehmen müssen in Hygieneplänen innerbetriebliche Verfahrensweisen zur Infektionshygiene festlegen und unterliegen der infektionshygienischen Überwachung durch das Gesundheitsamt: * die in § 33 genannten Gemeinschaftseinrichtungen mit Ausnahme[n] * Obdachlosenunterkünfte * [Asylunterkünfte] * sonstige Massenunterkünfte * Justizvollzugsanstalten\n\n\nDas Bundesministerium für Gesundheit wird ermächtigt festzulegen, [..] dass Personen, die in […] Deutschland einreisen […] ein ärztliches Zeugnis […] vorzulegen haben",
+    "crumbs": [
+      "Einrichtungen",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>§ 36</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_36.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_36.html#bemerkenswerte-punkte",
+    "title": "§ 36 Massenunterkünfte",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nDieser Paragraph besagt, dass Gesundheitsämter bestimmte Einrichtungen begehen sollen und manche anderen können.\nEbenfalls Skabies-Meldung\nZwangsweise Tuberkulose-Meldung\nEinreisescreening. Bei Krisen wird gerne auf das “Ausland” verwiesen",
+    "crumbs": [
+      "Einrichtungen",
+      "<span class='chapter-number'>25</span>  <span class='chapter-title'>§ 36</span>"
     ]
   },
   {
@@ -406,10 +890,43 @@
     "href": "content/paragraphen/par_73.html",
     "title": "§ 73 Ordnungswidrigkeiten",
     "section": "",
-    "text": "Hier geht es zum § 73\n\nIn diesem § werden alle Ordnungswidrigkeiten aufgelistet\nWenn jemand bei einer Ordnungswidrigkeit zu Schaden gekommen ist, sind Strafverfahren zu überlegen\nWas nicht hier erwähnt ist muss mit Zwangsgeld o.ä. durchgesetzt werden\n\n\nBeispielproblemHerangehensweise\n\n\nEin Krankenhaus vergisst eine Meldung von zwei Klebsiellen, die sich hinterher als der Beginn eines Ausbruches herausstellen.\n\n\n\nGut überlegen wie man vorangeht, denn Kooperation wichtig\nKann auch in eine Strafverfahren münden\nDefinitiv Sache fürs Rechtsamt",
+    "text": "Gesetzesauszug\nHier geht es zum § 73",
     "crumbs": [
       "Einrichtungen",
-      "<span class='chapter-number'>24</span>  <span class='chapter-title'>§ 73</span>"
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>§ 73</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_73.html#gesetzesauszug",
+    "href": "content/paragraphen/par_73.html#gesetzesauszug",
+    "title": "§ 73 Ordnungswidrigkeiten",
+    "section": "",
+    "text": "Ordnungswidrig handelt, wer vorsätzlich oder fahrlässig [Auflistung diverser Punkte]",
+    "crumbs": [
+      "Einrichtungen",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>§ 73</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_73.html#bemerkenswerte-punkte",
+    "href": "content/paragraphen/par_73.html#bemerkenswerte-punkte",
+    "title": "§ 73 Ordnungswidrigkeiten",
+    "section": "Bemerkenswerte Punkte",
+    "text": "Bemerkenswerte Punkte\n\nIn diesem § werden alle Ordnungswidrigkeiten aufgelistet\nWenn jemand bei einer Ordnungswidrigkeit zu Schaden gekommen ist, sind Strafverfahren zu überlegen\nWas nicht hier erwähnt ist muss mit Zwangsgeld o.ä. durchgesetzt werden",
+    "crumbs": [
+      "Einrichtungen",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>§ 73</span>"
+    ]
+  },
+  {
+    "objectID": "content/paragraphen/par_73.html#beispiel",
+    "href": "content/paragraphen/par_73.html#beispiel",
+    "title": "§ 73 Ordnungswidrigkeiten",
+    "section": "Beispiel",
+    "text": "Beispiel\n\nBeispielproblemHerangehensweise\n\n\nEin Krankenhaus vergisst eine Meldung von zwei Klebsiellen, die sich hinterher als der Beginn eines Ausbruches herausstellen.\n\n\n\nGut überlegen wie man vorangeht, denn Kooperation wichtig\nKann auch in eine Strafverfahren münden\nDefinitiv Sache fürs Rechtsamt",
+    "crumbs": [
+      "Einrichtungen",
+      "<span class='chapter-number'>26</span>  <span class='chapter-title'>§ 73</span>"
     ]
   },
   {
@@ -420,7 +937,7 @@
     "text": "Kennst du das IfSG?\n\n\n\nHier geht es zur Flughafenübung",
     "crumbs": [
       "Die Flughafenübung",
-      "<span class='chapter-number'>25</span>  <span class='chapter-title'>Die Flughafenübung</span>"
+      "<span class='chapter-number'>27</span>  <span class='chapter-title'>Die Flughafenübung</span>"
     ]
   },
   {
@@ -431,7 +948,7 @@
     "text": "Kennst du das IfSG?\n\n\n\nHier geht es zur Meldewesenübung\n\n\n\nBild-Quelle: Denis Apel http://www.denis-apel.de), CC BY-SA 2.0 de, https://commons.wikimedia.org/w/index.php?curid=16861169",
     "crumbs": [
       "Die Flughafenübung",
-      "<span class='chapter-number'>26</span>  <span class='chapter-title'>Übung zum Meldewesen</span>"
+      "<span class='chapter-number'>28</span>  <span class='chapter-title'>Übung zum Meldewesen</span>"
     ]
   }
 ]

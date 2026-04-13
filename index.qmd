@@ -28,5 +28,4 @@ Hier werden Sichtweisen von Jakob Schumacher dargestellt. Es gibt keinen Anspruc
 * Den Ausbidlungsprogrammen PAE und WBK
 * Posit (für die Software RStudio und Quarto)
 * Github (für das Hosting)
-* Freelogo online (für das Logo)
 * Wikipedia (für die Bilder)

@@ -1,0 +1,21 @@
+---
+title: "§ 27 Gegenseitige Unterrichtung"
+---
+
+[Hier geht es zum § 27](https://www.gesetze-im-internet.de/ifsg/__27.html)
+
+
+## Gesetzesauszug
+> (1) Das Gesundheitsamt unterrichtet [...] unverzüglich andere Gesundheitsämter
+
+## Bemerkenswerte Punkte
+
+* Gesundheitsämter müssen andere Behörden unterrichten
+  * Andere Gesundheitsämter
+  * Bundeswehr
+  * Lebensmittel/Veterinär
+  * Immissionsschutz
+  * Arzneimittel
+  * Organspende
+* Relevanz aufgrund von [EMIGA](https://rki.de/emiga) 
+

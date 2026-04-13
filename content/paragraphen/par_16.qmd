@@ -1,19 +1,21 @@
 ---
 title: "§ 16 Der Wir-dürfen-alles-Paragraph"
-toc: false
 ---
 
 
 [Hier geht es zum § 16](https://www.gesetze-im-internet.de/ifsg/__16.html)
 
-::: {.callout-tip}
-## Gesetzesauszug
-Werden Tatsachen festgestellt, die zum Auftreten einer übertragbaren Krankheit führen können, oder ist anzunehmen, dass solche Tatsachen vorliegen, so trifft die zuständige Behörde die notwendigen Maßnahmen zur Abwendung der dem Einzelnen oder der Allgemeinheit hierdurch drohenden Gefahren.
-:::
 
+## Gesetzesauszug
+> Werden Tatsachen festgestellt, die zum Auftreten einer übertragbaren Krankheit führen können, oder ist anzunehmen, dass solche Tatsachen vorliegen, so trifft die zuständige Behörde die notwendigen Maßnahmen zur Abwendung der dem Einzelnen oder der Allgemeinheit hierdurch drohenden Gefahren.
+
+
+## Bemerkenswerte Punkte
 
 * Dieser Artikel ist unglaublich breit. Deswegen: __Wir dürfen (fast) alles nach § 16__. Warum nur fast? Die Maßnahme muss geeignet, erforderlich und angemessen sein.
 
+
+## Beispiel
 
 ::: {.panel-tabset}
 ## Beispielproblem

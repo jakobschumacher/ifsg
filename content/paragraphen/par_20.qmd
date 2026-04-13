@@ -6,11 +6,16 @@ toc: false
 
 [Hier geht es zum § 20](https://www.gesetze-im-internet.de/ifsg/__20.html)
 
-::: {.callout-tip}
 ## Gesetzesauszug
-Die Bundeszentrale für gesundheitliche Aufklärung, die obersten Landesgesundheitsbehörden und die von ihnen beauftragten Stellen sowie die Gesundheitsämter __informieren__ die Bevölkerung zielgruppenspezifisch über die Bedeutung von Schutzimpfungen 
-:::
+> (1) Die Bundeszentrale für gesundheitliche Aufklärung, die obersten Landesgesundheitsbehörden und die von ihnen beauftragten Stellen sowie die Gesundheitsämter __informieren__ die Bevölkerung zielgruppenspezifisch über die Bedeutung von Schutzimpfungen 
+> (2) Beim Robert Koch-Institut wird eine Ständige Impfkommission eingerichtet. [...] Die Mitglieder der Kommission werden vom Bundesministerium für Gesundheit im Benehmen mit den obersten Landesgesundheitsbehörden berufen.
+> (4) Zur Durchführung von Schutzimpfungen ist jeder Arzt berechtigt. Siehe auch [§ 20c](https://www.gesetze-im-internet.de/ifsg/__20c.html)
+> (8) Folgende Personen [...] müssen entweder einen [...] ausreichenden Impfschutz gegen Masern [...] aufweisen
+
+
+## Bemerkenswerte Punkte
 
 * STIKO ist hier verankert
 * Hier ist erneut der Grundsatz: __Prävention durch Information__
-* Die Politik hat eine Impfpflicht für Beschäftigte in bestimmten Einrichtungen umgesetzt. 
+* Faktischer Impfzwang für Kita/Schule und Berufe
+* Diskrepanz zwischen genauer Festlegung hier und STIKO-Empfehlungen

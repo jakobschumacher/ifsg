@@ -1,19 +1,22 @@
 ---
 title: "§ 23 Hygieneparagraph"
-toc: false
 ---
 
 [Hier geht es zum § 23](https://www.gesetze-im-internet.de/ifsg/__23.html)
 
-::: {.callout-tip}
 ## Gesetzesauszug
-Die Leiter folgender Einrichtungen haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft erforderlichen Maßnahmen getroffen werden, um nosokomiale Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern [...] zu vermeiden: 
-:::
+> Die Leiter folgender Einrichtungen haben sicherzustellen, dass die nach dem Stand der medizinischen Wissenschaft erforderlichen Maßnahmen getroffen werden, um nosokomiale Infektionen zu verhüten und die Weiterverbreitung von Krankheitserregern [...] zu vermeiden: 
+
+## Bemerkenswerte Punkte
 
 * Hiermit kommen die KRINKO-Empfehlungen in die Welt
 * Der __Stand der medizinischen Wissenschaft__ ist ziemlich tiefgreifend und geht z.B. über den Stand von __Technik__ hinaus.
+* Die ART-Kommission wird hier gegründet
 * Der Artikel hilft (bedingt) bei einer Begehung als Verpflichtung
+* Gesundheitsämter sind selber auch betroffen in (3) Punkt 10
+* Die Länder können und machen aufgrund dieses Paragraphen wichtig Rechtsverordnungen
 
+## Beispiel
 
 ::: {.panel-tabset}
 ## Beispielproblem

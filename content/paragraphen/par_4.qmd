@@ -1,20 +1,23 @@
 ---
 title: "§ 4 Das Robert Koch-Institut"
-toc: false
 ---
 
 [Hier geht es zum § 4](https://www.gesetze-im-internet.de/ifsg/__4.html)
 
-::: {.callout-tip}
 ## Gesetzesauszug
-Das Robert Koch-Institut ist die nationale Behörde zur Vorbeugung übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von Infektionen. 
 
-Beim Robert Koch-Institut __wird eine Kontaktstelle für den öffentlichen Gesundheitsdienst der Länder eingerichtet__ [...]
-
-Das Robert Koch-Institut  erstellt im Benehmen mit den jeweils zuständigen Bundesbehörden für Fachkreise als Maßnahme des vorbeugenden Gesundheitsschutzes Richtlinien, __Empfehlungen__, Merkblätter und sonstige Informationen zur Vorbeugung, Erkennung und Verhinderung der Weiterverbreitung übertragbarer Krankheiten
+> (1) Das Robert Koch-Institut ist die nationale Behörde zur Vorbeugung übertragbarer Krankheiten sowie zur frühzeitigen Erkennung und Verhinderung der Weiterverbreitung von Infektionen. Dies schließt die [...] Forschung [...] ein.
 
 
-:::
+> (2) Das Robert Koch-Institut  erstellt im Benehmen mit den jeweils zuständigen Bundesbehörden __für Fachkreise__ [...], __Empfehlungen__, Merkblätter und sonstige Informationen
+
+> (3) Das Robert Koch-Institut arbeitet zu den in § 1 Absatz 1 genannten Zwecken mit ausländischen Stellen und supranationalen Organisationen sowie mit der Weltgesundheitsorganisation und anderen internationalen Organisationen zusammen.
+
+## Bemerkenswerte Punkte
 
 * Im § 4 wird das Robert Koch-Institut verankert.
-* Man beachte den Spagat zwischen: BMG legt fest wie genau das RKI arbeitet und auf der anderen Seite, dass die Empfehlungen des RKIs nur im Benehmen mit den anderen Bundesoberbehörden (und eben nicht mit dem BMG) entstehen sollen.  
+* Das RKI ist "Ressortforschungseinrichtung" -> Das erlaubt Forschung und Wissenschaftsfreiheit 
+* Das RKI arbeitet (fachlich) mit den anderen Bundesoberbehörden zusammen (und nicht mit dem BMG) 
+* __Obersten__ Landesgesundheitsbehörde können Amtshilfe beantragen
+* Arbeit __für Fachkreise__
+* Das RKI arbeitet auch international

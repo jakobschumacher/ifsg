@@ -1,6 +1,20 @@
-# "Meldebegriffe"
+# "Besondere Begriff"
+
+## Meldebegriffe
 
 * __Meldung__: vom Meldepflichtigen an das Gesundheitsamt
 * __Benachrichtigung__: Von Gemeinschaftseinrichtungen an das Gesundheitsamt
 * __Übermittlung__: vom Gesundheitsamt an die Landesstelle
 * __Unterrichtung__: vom Gesundheitsamt an ein anderes Amt
+
+## Einteilung betroffener Personen
+
+* __Kranker__: Jemand mit Nachweis
+* __Krankheitsverdächtiger__: Jemand mit Symptomen
+* __Ausscheider__: Asymptomatisch
+* __Ansteckungsverdächtiger__: Kontaktperson
+
+## Einteilung von Krankheiten 
+
+* __übertragbar__: Krankheit durch ein "Agens"  
+* __bedrohlich__: bedeutet eine schwerwiegende Gefahr 

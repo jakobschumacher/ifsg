@@ -1,0 +1,17 @@
+---
+title: "§ 9 Namentliche Meldung"
+toc: false
+---
+
+[Hier geht es zum § 9](https://www.gesetze-im-internet.de/ifsg/__9.html)
+
+## Gesetzesauszug
+> (3) Die namentliche Meldung muss unverzüglich erfolgen und dem zuständigen Gesundheitsamt nach Absatz 4 spätestens 24 Stunden, nachdem der Meldende Kenntnis erlangt hat, vorliegen.
+
+> (4) Meldungen nach den Absätzen 1 und 2 haben an das Gesundheitsamt zu erfolgen, in dessen Bezirk sich die betroffene Person derzeitig aufhält oder zuletzt aufhielt. Sofern die betroffene Person in einer Einrichtung gemäß Absatz 1 Nummer 1 Buchstabe h betreut oder untergebracht ist, haben Meldungen nach Absatz 1 an das Gesundheitsamt zu erfolgen, in dessen Bezirk sich die Einrichtung befindet. 
+
+## Bemerkenswerte Punkte
+* Fehlerhafte Meldungen sind "messbar" im Gegensatz zu machen anderen Verstößen
+* Klärung welche Gesundheitsamt die Meldung bekommt
+* Klärung zuständiges Gesundheitsamt für Erfassung: _Gewöhnlicher Aufenthaltsort_ (siehe auch [§11](par_11.qmd))
+* Übergabe an Bundeswehr
