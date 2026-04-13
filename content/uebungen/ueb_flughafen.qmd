@@ -7,5 +7,5 @@ toc: false
 ::: {.callout-tip}
 ## Kennst du das IfSG?
 
-[Hier geht es zur Flughafenübung](https://jakobschumacher.github.io/presentations/2023/01/28/flughafen%C3%BCbung.html#1)
+[Hier geht es zur Flughafenübung](https://jakobschumacher.de/presentations/2023/01/28/tumult-am-flughafen)
 :::
